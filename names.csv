@@ -1,0 +1,6397 @@
+code,obec_name
+CZ0100,Praha 1
+CZ0100,Praha 2
+CZ0100,Praha 3
+CZ0100,Praha 4
+CZ0100,Praha 5
+CZ0100,Praha 6
+CZ0100,Praha 7
+CZ0100,Praha 8
+CZ0100,Praha 9
+CZ0100,Praha 10
+CZ0100,Praha-Běchovice
+CZ0100,Praha-Benice
+CZ0100,Praha-Březiněves
+CZ0100,Praha-Dolní Počernice
+CZ0100,Praha-Dubeč
+CZ0100,Praha 20
+CZ0100,Praha-Klánovice
+CZ0100,Praha-Koloděje
+CZ0100,Praha-Kolovraty
+CZ0100,Praha-Královice
+CZ0100,Praha-Křeslice
+CZ0100,Praha-Nedvězí
+CZ0100,Praha-Satalice
+CZ0100,Praha 22
+CZ0100,Praha 21
+CZ0100,Praha-Vinoř
+CZ0100,Praha-Lipence
+CZ0100,Praha-Lochkov
+CZ0100,Praha-Přední Kopanina
+CZ0100,Praha 16
+CZ0100,Praha-Řeporyje
+CZ0100,Praha-Slivenec
+CZ0100,Praha 13
+CZ0100,Praha-Šeberov
+CZ0100,Praha-Újezd
+CZ0100,Praha-Zbraslav
+CZ0100,Praha-Zličín
+CZ0100,Praha 11
+CZ0100,Praha-Kunratice
+CZ0100,Praha-Libuš
+CZ0100,Praha 12
+CZ0100,Praha-Velká Chuchle
+CZ0100,Praha-Lysolaje
+CZ0100,Praha-Nebušice
+CZ0100,Praha 17
+CZ0100,Praha-Suchdol
+CZ0100,Praha-Ďáblice
+CZ0100,Praha-Dolní Chabry
+CZ0100,Praha-Čakovice
+CZ0100,Praha-Troja
+CZ0100,Praha 19
+CZ0100,Praha 14
+CZ0100,Praha-Dolní Měcholupy
+CZ0100,Praha 15
+CZ0100,Praha-Petrovice
+CZ0100,Praha-Štěrboholy
+CZ0100,Praha 18
+CZ0100,Praha
+CZ0201,Vysoký Újezd
+CZ0201,Benešov
+CZ0201,Bystřice
+CZ0201,Čakov
+CZ0201,Čechtice
+CZ0201,Čerčany
+CZ0201,Červený Újezd
+CZ0201,Český Šternberk
+CZ0201,Čtyřkoly
+CZ0201,Divišov
+CZ0201,Dolní Kralovice
+CZ0201,Heřmaničky
+CZ0201,Hulice
+CZ0201,Hvězdonice
+CZ0201,Chlum
+CZ0201,Chmelná
+CZ0201,Chocerady
+CZ0201,Chotýšany
+CZ0201,Jankov
+CZ0201,Javorník
+CZ0201,Keblov
+CZ0201,Kondrac
+CZ0201,Kozmice
+CZ0201,Krhanice
+CZ0201,Krňany
+CZ0201,Křečovice
+CZ0201,Křivsoudov
+CZ0201,Kuňovice
+CZ0201,Lešany
+CZ0201,Libež
+CZ0201,Loket
+CZ0201,Louňovice pod Blaníkem
+CZ0201,Maršovice
+CZ0201,Mezno
+CZ0201,Miličín
+CZ0201,Miřetice
+CZ0201,Mnichovice
+CZ0201,Mrač
+CZ0201,Načeradec
+CZ0201,Nespeky
+CZ0201,Netvořice
+CZ0201,Neustupov
+CZ0201,Neveklov
+CZ0201,Olbramovice
+CZ0201,Ostředek
+CZ0201,Petroupim
+CZ0201,Poříčí nad Sázavou
+CZ0201,Postupice
+CZ0201,Pravonín
+CZ0201,Přestavlky u Čerčan
+CZ0201,Psáře
+CZ0201,Rabyně
+CZ0201,Radošovice
+CZ0201,Rataje
+CZ0201,Smilkov
+CZ0201,Soběhrdy
+CZ0201,Struhařov
+CZ0201,Střezimíř
+CZ0201,Studený
+CZ0201,Bílkovice
+CZ0201,Tehov
+CZ0201,Teplýšovice
+CZ0201,Tichonice
+CZ0201,Trhový Štěpánov
+CZ0201,Týnec nad Sázavou
+CZ0201,Veliš
+CZ0201,Vlašim
+CZ0201,Vojkov
+CZ0201,Votice
+CZ0201,Vracovice
+CZ0201,Vranov
+CZ0201,Vrchotovy Janovice
+CZ0201,Zdislavice
+CZ0201,Kamberk
+CZ0201,Zvěstov
+CZ0201,Chrášťany
+CZ0201,Chlístov
+CZ0201,Václavice
+CZ0201,Borovnice
+CZ0201,Ješetice
+CZ0201,Drahňovice
+CZ0201,Lštění
+CZ0201,Slověnice
+CZ0201,Litichovice
+CZ0201,Všechlapy
+CZ0201,Třebešice
+CZ0201,Blažejovice
+CZ0201,Snět
+CZ0201,Šetějovice
+CZ0201,Tomice
+CZ0201,Ratměřice
+CZ0201,Bernartice
+CZ0201,Tisem
+CZ0201,Choratice
+CZ0201,Vodslivy
+CZ0201,Popovice
+CZ0201,Ctiboř
+CZ0201,Děkanovice
+CZ0201,Dunice
+CZ0201,Chleby
+CZ0201,Chářovice
+CZ0201,Bukovany
+CZ0201,Hradiště
+CZ0201,Řimovice
+CZ0201,Pavlovice
+CZ0201,Kladruby
+CZ0201,Sázava
+CZ0201,Pyšely
+CZ0201,Řehenice
+CZ0201,Xaverov
+CZ0201,Strojetice
+CZ0201,Stranný
+CZ0201,Soutice
+CZ0201,Ostrov
+CZ0202,Beroun
+CZ0202,Běštín
+CZ0202,Broumy
+CZ0202,Březová
+CZ0202,Bubovice
+CZ0202,Bzová
+CZ0202,Cerhovice
+CZ0202,Drozdov
+CZ0202,Felbabka
+CZ0202,Hlásná Třebaň
+CZ0202,Hořovice
+CZ0202,Hostomice
+CZ0202,Hředle
+CZ0202,Hudlice
+CZ0202,Hvozdec
+CZ0202,Hýskov
+CZ0202,Chaloupky
+CZ0202,Chyňava
+CZ0202,Jivina
+CZ0202,Karlštejn
+CZ0202,Komárov
+CZ0202,Koněprusy
+CZ0202,Kublov
+CZ0202,Libomyšl
+CZ0202,Liteň
+CZ0202,Loděnice
+CZ0202,Lochovice
+CZ0202,Měňany
+CZ0202,Mezouň
+CZ0202,Mořina
+CZ0202,Neumětely
+CZ0202,Nižbor
+CZ0202,Nový Jáchymov
+CZ0202,Olešná
+CZ0202,Osek
+CZ0202,Osov
+CZ0202,Otročiněves
+CZ0202,Podluhy
+CZ0202,Praskolesy
+CZ0202,Rpety
+CZ0202,Skuhrov
+CZ0202,Srbsko
+CZ0202,Stašov
+CZ0202,Suchomasty
+CZ0202,Svatá
+CZ0202,Svatý Jan pod Skalou
+CZ0202,Svinaře
+CZ0202,Tetín
+CZ0202,Tlustice
+CZ0202,Tmaň
+CZ0202,Trubská
+CZ0202,Újezd
+CZ0202,Velký Chlumec
+CZ0202,Vráž
+CZ0202,Všeradice
+CZ0202,Vysoký Újezd
+CZ0202,Zadní Třebaň
+CZ0202,Zaječov
+CZ0202,Záluží
+CZ0202,Zdice
+CZ0202,Žebrák
+CZ0202,Trubín
+CZ0202,Králův Dvůr
+CZ0202,Malá Víska
+CZ0202,Lhotka
+CZ0202,Nenačovice
+CZ0202,Chrustenice
+CZ0202,Korno
+CZ0202,Mořinka
+CZ0202,Lážovice
+CZ0202,Skřipel
+CZ0202,Vižina
+CZ0202,Kotopeky
+CZ0202,Otmíče
+CZ0202,Bykoš
+CZ0202,Málkov
+CZ0202,Vinařice
+CZ0202,Nesvačily
+CZ0202,Podbrdy
+CZ0202,Lužce
+CZ0202,Bavoryně
+CZ0202,Chodouň
+CZ0202,Chlustina
+CZ0202,Točník
+CZ0202,Železná
+CZ0203,Drnek
+CZ0203,Kamenný Most
+CZ0203,Lhota
+CZ0203,Hobšovice
+CZ0203,Malé Přítočno
+CZ0203,Dolany
+CZ0203,Kladno
+CZ0203,Běloky
+CZ0203,Beřovice
+CZ0203,Blevice
+CZ0203,Brandýsek
+CZ0203,Braškov
+CZ0203,Bratronice
+CZ0203,Buštěhrad
+CZ0203,Tuřany
+CZ0203,Cvrčovice
+CZ0203,Černuc
+CZ0203,Doksy
+CZ0203,Družec
+CZ0203,Dřetovice
+CZ0203,Dřínov
+CZ0203,Horní Bezděkov
+CZ0203,Hořešovice
+CZ0203,Hospozín
+CZ0203,Hostouň
+CZ0203,Hradečno
+CZ0203,Hrdlív
+CZ0203,Hřebeč
+CZ0203,Chržín
+CZ0203,Jarpice
+CZ0203,Jedomělice
+CZ0203,Jemníky
+CZ0203,Kačice
+CZ0203,Kamenné Žehrovice
+CZ0203,Klobuky
+CZ0203,Kmetiněves
+CZ0203,Knovíz
+CZ0203,Koleč
+CZ0203,Kvílice
+CZ0203,Kyšice
+CZ0203,Ledce
+CZ0203,Libušín
+CZ0203,Lidice
+CZ0203,Makotřasy
+CZ0203,Malé Kyšice
+CZ0203,Malíkovice
+CZ0203,Neuměřice
+CZ0203,Otvovice
+CZ0203,Pavlov
+CZ0203,Pchery
+CZ0203,Pletený Újezd
+CZ0203,Podlešín
+CZ0203,Pozdeň
+CZ0203,Přelíc
+CZ0203,Řisuty
+CZ0203,Sazená
+CZ0203,Slaný
+CZ0203,Slatina
+CZ0203,Smečno
+CZ0203,Stehelčeves
+CZ0203,Stochov
+CZ0203,Svinařov
+CZ0203,Šlapanice
+CZ0203,Třebichovice
+CZ0203,Třebíz
+CZ0203,Třebusice
+CZ0203,Tuchlovice
+CZ0203,Uhy
+CZ0203,Unhošť
+CZ0203,Velká Dobrá
+CZ0203,Velké Přítočno
+CZ0203,Velvary
+CZ0203,Vinařice
+CZ0203,Vraný
+CZ0203,Zákolany
+CZ0203,Zlonice
+CZ0203,Zvoleněves
+CZ0203,Žilina
+CZ0203,Žižice
+CZ0203,Běleč
+CZ0203,Loucká
+CZ0203,Královice
+CZ0203,Bílichov
+CZ0203,Hořešovičky
+CZ0203,Lány
+CZ0203,Studeněves
+CZ0203,Poštovice
+CZ0203,Plchov
+CZ0203,Libochovičky
+CZ0203,Páleč
+CZ0203,Zichovec
+CZ0203,Vrbičany
+CZ0203,Kutrovice
+CZ0203,Neprobylice
+CZ0203,Líský
+CZ0203,Zájezd
+CZ0203,Libovice
+CZ0203,Želenice
+CZ0203,Svárov
+CZ0203,Stradonice
+CZ0204,Polní Voděrady
+CZ0204,Ždánice
+CZ0204,Dománovice
+CZ0204,Zalešany
+CZ0204,Polní Chrčice
+CZ0204,Žabonosy
+CZ0204,Lipec
+CZ0204,Mrzky
+CZ0204,Přehvozdí
+CZ0204,Přistoupim
+CZ0204,Kbel
+CZ0204,Pašinka
+CZ0204,Kolín
+CZ0204,Barchovice
+CZ0204,Bečváry
+CZ0204,Bělušice
+CZ0204,Břežany I
+CZ0204,Břežany II
+CZ0204,Býchory
+CZ0204,Cerhenice
+CZ0204,Červené Pečky
+CZ0204,Český Brod
+CZ0204,Dobřichov
+CZ0204,Dolní Chvatliny
+CZ0204,Doubravčice
+CZ0204,Horní Kruty
+CZ0204,Chotutice
+CZ0204,Chrášťany
+CZ0204,Jestřabí Lhota
+CZ0204,Klučov
+CZ0204,Konárovice
+CZ0204,Kořenice
+CZ0204,Kouřim
+CZ0204,Krakovany
+CZ0204,Krupá
+CZ0204,Křečhoř
+CZ0204,Libenice
+CZ0204,Libodřice
+CZ0204,Lošany
+CZ0204,Malotice
+CZ0204,Nebovidy
+CZ0204,Nová Ves I
+CZ0204,Ohaře
+CZ0204,Ovčáry
+CZ0204,Plaňany
+CZ0204,Polepy
+CZ0204,Přišimasy
+CZ0204,Radim
+CZ0204,Radovesnice I
+CZ0204,Radovesnice II
+CZ0204,Ratboř
+CZ0204,Rostoklaty
+CZ0204,Skvrňov
+CZ0204,Starý Kolín
+CZ0204,Svojšice
+CZ0204,Tismice
+CZ0204,Toušice
+CZ0204,Třebovle
+CZ0204,Tři Dvory
+CZ0204,Tuchoraz
+CZ0204,Tuklaty
+CZ0204,Týnec nad Labem
+CZ0204,Uhlířská Lhota
+CZ0204,Veletov
+CZ0204,Velim
+CZ0204,Velký Osek
+CZ0204,Veltruby
+CZ0204,Vitice
+CZ0204,Volárna
+CZ0204,Vrbčany
+CZ0204,Zásmuky
+CZ0204,Žiželice
+CZ0204,Choťovice
+CZ0204,Pečky
+CZ0204,Pňov-Předhradí
+CZ0204,Poříčany
+CZ0204,Ratenice
+CZ0204,Tatce
+CZ0204,Žehuň
+CZ0204,Drahobudice
+CZ0204,Masojedy
+CZ0204,Hradešín
+CZ0204,Vrátkov
+CZ0204,Němčice
+CZ0204,Klášterní Skalice
+CZ0204,Kšely
+CZ0204,Grunta
+CZ0204,Církvice
+CZ0204,Krychnov
+CZ0205,Rohozec
+CZ0205,Podveky
+CZ0205,Čejkovice
+CZ0205,Dobrovítov
+CZ0205,Brambory
+CZ0205,Semtěš
+CZ0205,Starkoč
+CZ0205,Štipoklasy
+CZ0205,Opatovice I
+CZ0205,Bludov
+CZ0205,Třebětín
+CZ0205,Třebešice
+CZ0205,Močovice
+CZ0205,Vodranty
+CZ0205,Souňov
+CZ0205,Bernardov
+CZ0205,Hlízov
+CZ0205,Dolní Pohleď
+CZ0205,Paběnice
+CZ0205,Bratčice
+CZ0205,Drobovice
+CZ0205,Horky
+CZ0205,Adamov
+CZ0205,Schořov
+CZ0205,Sudějov
+CZ0205,Kobylnice
+CZ0205,Hraběšín
+CZ0205,Šebestěnice
+CZ0205,Horka I
+CZ0205,Horušice
+CZ0205,Kutná Hora
+CZ0205,Bílé Podolí
+CZ0205,Bohdaneč
+CZ0205,Církvice
+CZ0205,Čáslav
+CZ0205,Černíny
+CZ0205,Červené Janovice
+CZ0205,Čestín
+CZ0205,Horka II
+CZ0205,Hostovlice
+CZ0205,Chabeřice
+CZ0205,Chlístovice
+CZ0205,Chotusice
+CZ0205,Kácov
+CZ0205,Kluky
+CZ0205,Krchleby
+CZ0205,Křesetice
+CZ0205,Ledečko
+CZ0205,Malešov
+CZ0205,Svatý Mikuláš
+CZ0205,Miskovice
+CZ0205,Nepoměřice
+CZ0205,Nové Dvory
+CZ0205,Okřesaneč
+CZ0205,Onomyšl
+CZ0205,Soběšín
+CZ0205,Pertoltice
+CZ0205,Petrovice I
+CZ0205,Petrovice II
+CZ0205,Potěhy
+CZ0205,Rašovice
+CZ0205,Rataje nad Sázavou
+CZ0205,Řendějov
+CZ0205,Samopše
+CZ0205,Slavošov
+CZ0205,Staňkovice
+CZ0205,Suchdol
+CZ0205,Tupadly
+CZ0205,Uhlířské Janovice
+CZ0205,Úmonín
+CZ0205,Úžice
+CZ0205,Vavřinec
+CZ0205,Vidice
+CZ0205,Vinaře
+CZ0205,Vlačice
+CZ0205,Vlastějovice
+CZ0205,Vlkaneč
+CZ0205,Vrdy
+CZ0205,Záboří nad Labem
+CZ0205,Zbizuby
+CZ0205,Zbraslavice
+CZ0205,Zbýšov
+CZ0205,Zruč nad Sázavou
+CZ0205,Žáky
+CZ0205,Žehušice
+CZ0205,Žleby
+CZ0205,Košice
+CZ0205,Třebonín
+CZ0206,Medonosy
+CZ0206,Tupadly
+CZ0206,Hostín
+CZ0206,Liblice
+CZ0206,Zlončice
+CZ0206,Tuhaň
+CZ0206,Dobřeň
+CZ0206,Kanina
+CZ0206,Lobeč
+CZ0206,Nosálov
+CZ0206,Stránka
+CZ0206,Kadlín
+CZ0206,Nedomice
+CZ0206,Jeviněves
+CZ0206,Lhotka
+CZ0206,Hostín u Vojkovic
+CZ0206,Vidim
+CZ0206,Dolní Zimoř
+CZ0206,Olovnice
+CZ0206,Mělník
+CZ0206,Býkev
+CZ0206,Byšice
+CZ0206,Cítov
+CZ0206,Čečelice
+CZ0206,Dolní Beřkovice
+CZ0206,Dřínov
+CZ0206,Horní Počaply
+CZ0206,Hořín
+CZ0206,Chlumín
+CZ0206,Chorušice
+CZ0206,Chvatěruby
+CZ0206,Kly
+CZ0206,Kokořín
+CZ0206,Kostelec nad Labem
+CZ0206,Kralupy nad Vltavou
+CZ0206,Ledčice
+CZ0206,Liběchov
+CZ0206,Lužec nad Vltavou
+CZ0206,Malý Újezd
+CZ0206,Mělnické Vtelno
+CZ0206,Mšeno
+CZ0206,Nebužely
+CZ0206,Nelahozeves
+CZ0206,Neratovice
+CZ0206,Nová Ves
+CZ0206,Obříství
+CZ0206,Ovčáry
+CZ0206,Řepín
+CZ0206,Spomyšl
+CZ0206,Střemy
+CZ0206,Tišice
+CZ0206,Úžice
+CZ0206,Velký Borek
+CZ0206,Veltrusy
+CZ0206,Vojkovice
+CZ0206,Vraňany
+CZ0206,Všestudy
+CZ0206,Všetaty
+CZ0206,Vysoká
+CZ0206,Zálezlice
+CZ0206,Zlosyň
+CZ0206,Želízy
+CZ0206,Kojetice
+CZ0206,Postřižín
+CZ0206,Dolany nad Vltavou
+CZ0206,Libiš
+CZ0206,Kozomín
+CZ0206,Čakovičky
+CZ0206,Újezdec
+CZ0207,Sedlec
+CZ0207,Rokytá
+CZ0207,Josefův Důl
+CZ0207,Mladá Boleslav
+CZ0207,Bakov nad Jizerou
+CZ0207,Bělá pod Bezdězem
+CZ0207,Benátky nad Jizerou
+CZ0207,Bezno
+CZ0207,Bítouchov
+CZ0207,Boreč
+CZ0207,Boseň
+CZ0207,Brodce
+CZ0207,Březina
+CZ0207,Březno
+CZ0207,Bukovno
+CZ0207,Čachovice
+CZ0207,Čistá
+CZ0207,Dlouhá Lhota
+CZ0207,Dobrovice
+CZ0207,Dolní Bousov
+CZ0207,Dolní Krupá
+CZ0207,Dolní Slivno
+CZ0207,Domousnice
+CZ0207,Horky nad Jizerou
+CZ0207,Horní Bukovina
+CZ0207,Hrdlořezy
+CZ0207,Chocnějovice
+CZ0207,Chotětov
+CZ0207,Jabkenice
+CZ0207,Jivina
+CZ0207,Katusice
+CZ0207,Klášter Hradiště nad Jizerou
+CZ0207,Kněžmost
+CZ0207,Kochánky
+CZ0207,Kosořice
+CZ0207,Krásná Ves
+CZ0207,Krnsko
+CZ0207,Kropáčova Vrutice
+CZ0207,Ledce
+CZ0207,Lhotky
+CZ0207,Loukovec
+CZ0207,Luštěnice
+CZ0207,Mnichovo Hradiště
+CZ0207,Němčice
+CZ0207,Nepřevázka
+CZ0207,Nová Telib
+CZ0207,Obruby
+CZ0207,Petkovy
+CZ0207,Písková Lhota
+CZ0207,Plazy
+CZ0207,Předměřice nad Jizerou
+CZ0207,Řepov
+CZ0207,Semčice
+CZ0207,Skalsko
+CZ0207,Smilovice
+CZ0207,Sojovice
+CZ0207,Strašnov
+CZ0207,Strenice
+CZ0207,Sukorady
+CZ0207,Velké Všelisy
+CZ0207,Všejany
+CZ0207,Žďár
+CZ0207,Žerčice
+CZ0207,Židněves
+CZ0207,Skorkov
+CZ0207,Sovínky
+CZ0207,Lipník
+CZ0207,Vlkava
+CZ0207,Plužná
+CZ0207,Vinařice
+CZ0207,Rohatsko
+CZ0207,Mečeříž
+CZ0207,Rabakov
+CZ0207,Řitonice
+CZ0207,Veselice
+CZ0207,Hrušov
+CZ0207,Bílá Hlína
+CZ0207,Charvatce
+CZ0207,Mohelnice nad Jizerou
+CZ0207,Sudoměř
+CZ0207,Jizerní Vtelno
+CZ0207,Košátky
+CZ0207,Prodašice
+CZ0207,Ujkovice
+CZ0207,Loukov
+CZ0207,Bradlec
+CZ0207,Dalovice
+CZ0207,Kosmonosy
+CZ0207,Vinec
+CZ0207,Obrubce
+CZ0207,Přepeře
+CZ0207,Dolní Stakory
+CZ0207,Kolomuty
+CZ0207,Tuřice
+CZ0207,Ctiměřice
+CZ0207,Pěčice
+CZ0207,Doubravička
+CZ0207,Kluky
+CZ0207,Niměřice
+CZ0207,Rokytovec
+CZ0207,Nemyslovice
+CZ0207,Kobylnice
+CZ0207,Nová Ves u Bakova
+CZ0207,Zdětín
+CZ0207,Chudíř
+CZ0207,Mukařov
+CZ0207,Strážiště
+CZ0207,Ptýrov
+CZ0207,Branžež
+CZ0207,Kováň
+CZ0207,Dobšín
+CZ0207,Neveklovice
+CZ0207,Kovanec
+CZ0207,Vrátno
+CZ0207,Pětikozly
+CZ0207,Březovice
+CZ0207,Husí Lhota
+CZ0207,Horní Slivno
+CZ0207,Koryta
+CZ0207,Sezemice
+CZ0208,Žitovlice
+CZ0208,Kostomlátky
+CZ0208,Záhornice
+CZ0208,Chroustov
+CZ0208,Seletice
+CZ0208,Hořany
+CZ0208,Zvěřínek
+CZ0208,Velenka
+CZ0208,Starý Vestec
+CZ0208,Netřebice
+CZ0208,Kouty
+CZ0208,Velenice
+CZ0208,Nymburk
+CZ0208,Běrunice
+CZ0208,Bobnice
+CZ0208,Bříství
+CZ0208,Budiměřice
+CZ0208,Činěves
+CZ0208,Dlouhopolsko
+CZ0208,Dobšice
+CZ0208,Dvory
+CZ0208,Dymokury
+CZ0208,Hořátev
+CZ0208,Hradčany
+CZ0208,Hradištko
+CZ0208,Choťánky
+CZ0208,Chotěšice
+CZ0208,Chrást
+CZ0208,Jíkev
+CZ0208,Jizbice
+CZ0208,Kamenné Zboží
+CZ0208,Kněžice
+CZ0208,Kolaje
+CZ0208,Kostelní Lhota
+CZ0208,Kostomlaty nad Labem
+CZ0208,Košík
+CZ0208,Kounice
+CZ0208,Kovanice
+CZ0208,Krchleby
+CZ0208,Křečkov
+CZ0208,Křinec
+CZ0208,Libice nad Cidlinou
+CZ0208,Loučeň
+CZ0208,Lysá nad Labem
+CZ0208,Mcely
+CZ0208,Městec Králové
+CZ0208,Milčice
+CZ0208,Milovice
+CZ0208,Odřepsy
+CZ0208,Okřínek
+CZ0208,Opočnice
+CZ0208,Opolany
+CZ0208,Oskořínek
+CZ0208,Ostrá
+CZ0208,Pátek
+CZ0208,Písková Lhota
+CZ0208,Písty
+CZ0208,Poděbrady
+CZ0208,Přerov nad Labem
+CZ0208,Rožďalovice
+CZ0208,Sadská
+CZ0208,Sány
+CZ0208,Semice
+CZ0208,Senice
+CZ0208,Sloveč
+CZ0208,Sokoleč
+CZ0208,Stará Lysá
+CZ0208,Straky
+CZ0208,Stratov
+CZ0208,Třebestovice
+CZ0208,Úmyslovice
+CZ0208,Vestec
+CZ0208,Vlkov pod Oškobrhem
+CZ0208,Vrbová Lhota
+CZ0208,Všechlapy
+CZ0208,Vykáň
+CZ0208,Kněžičky
+CZ0208,Černíky
+CZ0208,Jiřice
+CZ0208,Podmoky
+CZ0208,Vrbice
+CZ0208,Chleby
+CZ0208,Hrubý Jeseník
+CZ0208,Nový Dvůr
+CZ0208,Oseček
+CZ0208,Čilec
+CZ0208,Zbožíčko
+CZ0209,Zápy
+CZ0209,Klokočná
+CZ0209,Zlatá
+CZ0209,Pětihosty
+CZ0209,Konětopy
+CZ0209,Černé Voděrady
+CZ0209,Jevany
+CZ0209,Kostelec nad Černými lesy
+CZ0209,Kozojedy
+CZ0209,Nučice
+CZ0209,Oleška
+CZ0209,Stříbrná Skalice
+CZ0209,Vlkančice
+CZ0209,Vyžlovka
+CZ0209,Borek
+CZ0209,Dřísy
+CZ0209,Křenek
+CZ0209,Lhota
+CZ0209,Záryby
+CZ0209,Kostelní Hlavno
+CZ0209,Babice
+CZ0209,Bašť
+CZ0209,Bořanovice
+CZ0209,Brandýs nad Labem-Stará Boleslav
+CZ0209,Brázdim
+CZ0209,Čelákovice
+CZ0209,Čestlice
+CZ0209,Dobřejovice
+CZ0209,Dřevčice
+CZ0209,Horoušany
+CZ0209,Hovorčovice
+CZ0209,Hrusice
+CZ0209,Husinec
+CZ0209,Jenštejn
+CZ0209,Jirny
+CZ0209,Kaliště
+CZ0209,Kamenice
+CZ0209,Klecany
+CZ0209,Klíčany
+CZ0209,Kostelec u Křížků
+CZ0209,Křížkový Újezdec
+CZ0209,Kunice
+CZ0209,Líbeznice
+CZ0209,Louňovice
+CZ0209,Máslovice
+CZ0209,Měšice
+CZ0209,Mirošovice
+CZ0209,Mnichovice
+CZ0209,Mochov
+CZ0209,Mratín
+CZ0209,Mukařov
+CZ0209,Nehvizdy
+CZ0209,Nová Ves
+CZ0209,Nový Vestec
+CZ0209,Odolena Voda
+CZ0209,Ondřejov
+CZ0209,Panenské Břežany
+CZ0209,Petříkov
+CZ0209,Podolanka
+CZ0209,Polerady
+CZ0209,Předboj
+CZ0209,Přezletice
+CZ0209,Radějovice
+CZ0209,Radonice
+CZ0209,Říčany
+CZ0209,Senohraby
+CZ0209,Sibřina
+CZ0209,Sluhy
+CZ0209,Sluštice
+CZ0209,Strančice
+CZ0209,Struhařov
+CZ0209,Sulice
+CZ0209,Světice
+CZ0209,Svojetice
+CZ0209,Šestajovice
+CZ0209,Škvorec
+CZ0209,Tehov
+CZ0209,Lázně Toušeň
+CZ0209,Úvaly
+CZ0209,Veleň
+CZ0209,Veliká Ves
+CZ0209,Velké Popovice
+CZ0209,Větrušice
+CZ0209,Vodochody
+CZ0209,Všestary
+CZ0209,Vyšehořovice
+CZ0209,Zdiby
+CZ0209,Zeleneč
+CZ0209,Zlonín
+CZ0209,Zvánovice
+CZ0209,Konojedy
+CZ0209,Prusice
+CZ0209,Výžerky
+CZ0209,Březí
+CZ0209,Doubek
+CZ0209,Nupaky
+CZ0209,Herink
+CZ0209,Káraný
+CZ0209,Květnice
+CZ0209,Křenice
+CZ0209,Dobročovice
+CZ0209,Hlavenec
+CZ0209,Štíhlice
+CZ0209,Oplany
+CZ0209,Sudovo Hlavno
+CZ0209,Modletice
+CZ0209,Sedlec
+CZ0209,Svémyslice
+CZ0209,Popovičky
+CZ0209,Tehovec
+CZ020A,Chýnice
+CZ020A,Vestec
+CZ020A,Drahelčice
+CZ020A,Nučice
+CZ020A,Rudná
+CZ020A,Tachlovice
+CZ020A,Červený Újezd
+CZ020A,Ptice
+CZ020A,Úhonice
+CZ020A,Bojanovice
+CZ020A,Černolice
+CZ020A,Černošice
+CZ020A,Číčovice
+CZ020A,Čisovice
+CZ020A,Davle
+CZ020A,Dobrovíz
+CZ020A,Dobříč
+CZ020A,Dobřichovice
+CZ020A,Dolní Břežany
+CZ020A,Holubice
+CZ020A,Horoměřice
+CZ020A,Hostivice
+CZ020A,Hradištko
+CZ020A,Hvozdnice
+CZ020A,Choteč
+CZ020A,Chrášťany
+CZ020A,Chýně
+CZ020A,Jeneč
+CZ020A,Jesenice
+CZ020A,Jílové u Prahy
+CZ020A,Jíloviště
+CZ020A,Jinočany
+CZ020A,Kamenný Přívoz
+CZ020A,Kněževes
+CZ020A,Kosoř
+CZ020A,Lety
+CZ020A,Libčice nad Vltavou
+CZ020A,Libeř
+CZ020A,Líšnice
+CZ020A,Měchenice
+CZ020A,Ohrobec
+CZ020A,Okrouhlo
+CZ020A,Ořech
+CZ020A,Petrov
+CZ020A,Pohoří
+CZ020A,Průhonice
+CZ020A,Psáry
+CZ020A,Roztoky
+CZ020A,Řevnice
+CZ020A,Řitka
+CZ020A,Slapy
+CZ020A,Statenice
+CZ020A,Středokluky
+CZ020A,Štěchovice
+CZ020A,Třebotov
+CZ020A,Tuchoměřice
+CZ020A,Tursko
+CZ020A,Únětice
+CZ020A,Velké Přílepy
+CZ020A,Vonoklasy
+CZ020A,Vrané nad Vltavou
+CZ020A,Všenory
+CZ020A,Zbuzany
+CZ020A,Zlatníky-Hodkovice
+CZ020A,Zvole
+CZ020A,Buš
+CZ020A,Mníšek pod Brdy
+CZ020A,Bratřínov
+CZ020A,Klínec
+CZ020A,Kytín
+CZ020A,Zahořany
+CZ020A,Roblín
+CZ020A,Lichoceves
+CZ020A,Okoř
+CZ020A,Svrkyně
+CZ020A,Úholičky
+CZ020A,Trnová
+CZ020A,Karlík
+CZ020A,Březová-Oleško
+CZ020B,Dlouhá Lhota
+CZ020B,Zduchovice
+CZ020B,Lešetice
+CZ020B,Velká Lečice
+CZ020B,Příčovy
+CZ020B,Kotenčice
+CZ020B,Občov
+CZ020B,Hudčice
+CZ020B,Těchařovice
+CZ020B,Bezděkov pod Třemšínem
+CZ020B,Koupě
+CZ020B,Sedlec-Prčice
+CZ020B,Příbram
+CZ020B,Bohutín
+CZ020B,Borotice
+CZ020B,Bratkovice
+CZ020B,Březnice
+CZ020B,Buková u Příbramě
+CZ020B,Čenkov
+CZ020B,Čím
+CZ020B,Daleké Dušníky
+CZ020B,Dobříš
+CZ020B,Dolní Hbity
+CZ020B,Drahlín
+CZ020B,Drásov
+CZ020B,Drevníky
+CZ020B,Drhovy
+CZ020B,Dublovice
+CZ020B,Hluboš
+CZ020B,Hřiměždice
+CZ020B,Hvožďany
+CZ020B,Chotilsko
+CZ020B,Chraštice
+CZ020B,Jablonná
+CZ020B,Jesenice
+CZ020B,Jince
+CZ020B,Kamýk nad Vltavou
+CZ020B,Klučenice
+CZ020B,Kosova Hora
+CZ020B,Kozárovice
+CZ020B,Krásná Hora nad Vltavou
+CZ020B,Křepenice
+CZ020B,Křešín
+CZ020B,Láz
+CZ020B,Malá Hraštice
+CZ020B,Milešov
+CZ020B,Milín
+CZ020B,Mokrovraty
+CZ020B,Nalžovice
+CZ020B,Nečín
+CZ020B,Nedrahovice
+CZ020B,Nechvalice
+CZ020B,Nová Ves pod Pleší
+CZ020B,Nové Dvory
+CZ020B,Nový Knín
+CZ020B,Obecnice
+CZ020B,Obory
+CZ020B,Obořiště
+CZ020B,Ohrazenice
+CZ020B,Ouběnice
+CZ020B,Pečice
+CZ020B,Petrovice
+CZ020B,Pičín
+CZ020B,Počepice
+CZ020B,Prosenická Lhota
+CZ020B,Rosovice
+CZ020B,Rožmitál pod Třemšínem
+CZ020B,Rybníky
+CZ020B,Sádek
+CZ020B,Sedlčany
+CZ020B,Smolotely
+CZ020B,Solenice
+CZ020B,Stará Huť
+CZ020B,Suchodol
+CZ020B,Svaté Pole
+CZ020B,Svatý Jan
+CZ020B,Štětkovice
+CZ020B,Tochovice
+CZ020B,Třebsko
+CZ020B,Věšín
+CZ020B,Višňová
+CZ020B,Volenice
+CZ020B,Voznice
+CZ020B,Vranovice
+CZ020B,Vysoká u Příbramě
+CZ020B,Vysoký Chlumec
+CZ020B,Zalužany
+CZ020B,Počaply
+CZ020B,Nestrašovice
+CZ020B,Chrást
+CZ020B,Horčápsko
+CZ020B,Svojšice
+CZ020B,Zbenice
+CZ020B,Županovice
+CZ020B,Lazsko
+CZ020B,Vrančice
+CZ020B,Radětice
+CZ020B,Cetyně
+CZ020B,Narysov
+CZ020B,Podlesí
+CZ020B,Dubno
+CZ020B,Nepomuk
+CZ020B,Bohostice
+CZ020B,Starosedlský Hrádek
+CZ020B,Hlubyně
+CZ020B,Sedlice
+CZ020B,Bukovany
+CZ020B,Tušovice
+CZ020B,Ostrov
+CZ020B,Dubenec
+CZ020B,Háje
+CZ020B,Lhota u Příbramě
+CZ020B,Trhové Dušníky
+CZ020B,Vševily
+CZ020B,Kňovice
+CZ020B,Osečany
+CZ020B,Radíč
+CZ020B,Korkyně
+CZ020B,Drahenice
+CZ020B,Modřovice
+CZ020C,Velká Chmelištná
+CZ020C,Drahouš
+CZ020C,Rakovník
+CZ020C,Branov
+CZ020C,Čistá
+CZ020C,Hořesedly
+CZ020C,Hořovičky
+CZ020C,Hřebečníky
+CZ020C,Hředle
+CZ020C,Chrášťany
+CZ020C,Jesenice
+CZ020C,Kněževes
+CZ020C,Kolešovice
+CZ020C,Kounov
+CZ020C,Kroučová
+CZ020C,Krupá
+CZ020C,Krušovice
+CZ020C,Křivoklát
+CZ020C,Lašovice
+CZ020C,Lišany
+CZ020C,Lubná
+CZ020C,Lužná
+CZ020C,Městečko
+CZ020C,Milostín
+CZ020C,Mšec
+CZ020C,Mšecké Žehrovice
+CZ020C,Mutějovice
+CZ020C,Nesuchyně
+CZ020C,Nové Strašecí
+CZ020C,Nový Dům
+CZ020C,Olešná
+CZ020C,Oráčov
+CZ020C,Panoší Újezd
+CZ020C,Petrovice
+CZ020C,Pochvalov
+CZ020C,Příčina
+CZ020C,Pšovlky
+CZ020C,Pustověty
+CZ020C,Ruda
+CZ020C,Rynholec
+CZ020C,Řevničov
+CZ020C,Senec
+CZ020C,Senomaty
+CZ020C,Skryje
+CZ020C,Slabce
+CZ020C,Srbeč
+CZ020C,Svojetín
+CZ020C,Sýkořice
+CZ020C,Šanov
+CZ020C,Třeboc
+CZ020C,Třtice
+CZ020C,Velká Buková
+CZ020C,Všetaty
+CZ020C,Zavidov
+CZ020C,Zbečno
+CZ020C,Pavlíkov
+CZ020C,Břežany
+CZ020C,Všesulov
+CZ020C,Děkov
+CZ020C,Kolešov
+CZ020C,Hracholusky
+CZ020C,Přílepy
+CZ020C,Janov
+CZ020C,Karlova Ves
+CZ020C,Švihov
+CZ020C,Hvozd
+CZ020C,Krakov
+CZ020C,Krakovec
+CZ020C,Malinová
+CZ020C,Kozojedy
+CZ020C,Smilovice
+CZ020C,Bdín
+CZ020C,Kalivody
+CZ020C,Milý
+CZ020C,Řeřichy
+CZ020C,Václavy
+CZ020C,Šípy
+CZ020C,Krty
+CZ020C,Žďár
+CZ020C,Roztoky
+CZ020C,Přerubenice
+CZ020C,Nezabudice
+CZ020C,Račice
+CZ0311,Kvítkovice
+CZ0311,Planá
+CZ0311,Dobrá Voda u Českých Budějovic
+CZ0311,Ostrolovský Újezd
+CZ0311,Dasný
+CZ0311,Mydlovary
+CZ0311,Plav
+CZ0311,Nákří
+CZ0311,Bošilec
+CZ0311,Neplachov
+CZ0311,Hradce
+CZ0311,Úsilné
+CZ0311,Hosty
+CZ0311,Čakov
+CZ0311,Habří
+CZ0311,Zvíkov
+CZ0311,Hvozdec
+CZ0311,Nová Ves
+CZ0311,Doubravice
+CZ0311,Borovnice
+CZ0311,Petříkov
+CZ0311,Vidov
+CZ0311,Hůry
+CZ0311,Jivno
+CZ0311,Dubičné
+CZ0311,Vráto
+CZ0311,Libníč
+CZ0311,Adamov
+CZ0311,Mokrý Lom
+CZ0311,Hlavatce
+CZ0311,Komařice
+CZ0311,Vitín
+CZ0311,Chotýčany
+CZ0311,Vlkov
+CZ0311,Mazelov
+CZ0311,Drahotěšice
+CZ0311,Kamenná
+CZ0311,Pištín
+CZ0311,Zahájí
+CZ0311,Strýčice
+CZ0311,Břehov
+CZ0311,Hartmanice
+CZ0311,Horní Kněžeklady
+CZ0311,Bečice
+CZ0311,Dobšice
+CZ0311,České Budějovice
+CZ0311,Borek
+CZ0311,Borovany
+CZ0311,Boršov nad Vltavou
+CZ0311,Čejkovice
+CZ0311,Dívčice
+CZ0311,Dolní Bukovsko
+CZ0311,Doudleby
+CZ0311,Dříteň
+CZ0311,Dubné
+CZ0311,Dynín
+CZ0311,Hluboká nad Vltavou
+CZ0311,Homole
+CZ0311,Horní Stropnice
+CZ0311,Hosín
+CZ0311,Hranice
+CZ0311,Hrdějovice
+CZ0311,Chrášťany
+CZ0311,Jankov
+CZ0311,Jílovice
+CZ0311,Kamenný Újezd
+CZ0311,Ledenice
+CZ0311,Libín
+CZ0311,Lipí
+CZ0311,Lišov
+CZ0311,Litvínovice
+CZ0311,Ločenice
+CZ0311,Mladošovice
+CZ0311,Nedabyle
+CZ0311,Nové Hrady
+CZ0311,Olešnice
+CZ0311,Olešník
+CZ0311,Radošovice
+CZ0311,Roudné
+CZ0311,Rudolfov
+CZ0311,Římov
+CZ0311,Sedlec
+CZ0311,Slavče
+CZ0311,Srubec
+CZ0311,Staré Hodějovice
+CZ0311,Strážkovice
+CZ0311,Střížov
+CZ0311,Svatý Jan nad Malší
+CZ0311,Ševětín
+CZ0311,Štěpánovice
+CZ0311,Temelín
+CZ0311,Trhové Sviny
+CZ0311,Týn nad Vltavou
+CZ0311,Včelná
+CZ0311,Vrábče
+CZ0311,Všemyslice
+CZ0311,Záboří
+CZ0311,Zliv
+CZ0311,Žabovřesky
+CZ0311,Žár
+CZ0311,Žimutice
+CZ0311,Dražíč
+CZ0311,Branišov
+CZ0311,Čížkrajice
+CZ0311,Heřmaň
+CZ0311,Hlincová Hora
+CZ0311,Modrá Hůrka
+CZ0311,Čenkov u Bechyně
+CZ0311,Závraty
+CZ0312,Polná na Šumavě
+CZ0312,Nová Ves
+CZ0312,Chlumec
+CZ0312,Zvíkov
+CZ0312,Srnín
+CZ0312,Bohdalovice
+CZ0312,Malšín
+CZ0312,Věžovatá Pláně
+CZ0312,Český Krumlov
+CZ0312,Benešov nad Černou
+CZ0312,Besednice
+CZ0312,Brloh
+CZ0312,Bujanov
+CZ0312,Černá v Pošumaví
+CZ0312,Dolní Dvořiště
+CZ0312,Dolní Třebonín
+CZ0312,Frymburk
+CZ0312,Holubov
+CZ0312,Horní Dvořiště
+CZ0312,Horní Planá
+CZ0312,Hořice na Šumavě
+CZ0312,Chvalšiny
+CZ0312,Kájov
+CZ0312,Kaplice
+CZ0312,Křemže
+CZ0312,Lipno nad Vltavou
+CZ0312,Loučovice
+CZ0312,Malonty
+CZ0312,Mirkovice
+CZ0312,Netřebice
+CZ0312,Omlenice
+CZ0312,Pohorská Ves
+CZ0312,Přední Výtoň
+CZ0312,Přídolí
+CZ0312,Přísečná
+CZ0312,Rožmberk nad Vltavou
+CZ0312,Rožmitál na Šumavě
+CZ0312,Soběnov
+CZ0312,Světlík
+CZ0312,Velešín
+CZ0312,Větřní
+CZ0312,Vyšší Brod
+CZ0312,Zlatá Koruna
+CZ0312,Zubčice
+CZ0312,Střítež
+CZ0312,Mojné
+CZ0313,Doňov
+CZ0313,Pleše
+CZ0313,Újezdec
+CZ0313,Višňová
+CZ0313,Záhoří
+CZ0313,Peč
+CZ0313,Březina
+CZ0313,Ratiboř
+CZ0313,Roseč
+CZ0313,Střížovice
+CZ0313,Kostelní Vydří
+CZ0313,Lužnice
+CZ0313,Záblatí
+CZ0313,Plavsko
+CZ0313,Kostelní Radouň
+CZ0313,Červený Hrádek
+CZ0313,Dvory nad Lužnicí
+CZ0313,Cep
+CZ0313,Dívčí Kopy
+CZ0313,Žďár
+CZ0313,Jindřichův Hradec
+CZ0313,Budeč
+CZ0313,Budíškovice
+CZ0313,Cizkrajov
+CZ0313,České Velenice
+CZ0313,Český Rudolec
+CZ0313,Číměř
+CZ0313,Dačice
+CZ0313,Dešná
+CZ0313,Deštná
+CZ0313,Hatín
+CZ0313,Heřmaneč
+CZ0313,Horní Pěna
+CZ0313,Horní Radouň
+CZ0313,Hospříz
+CZ0313,Hříšice
+CZ0313,Chlum u Třeboně
+CZ0313,Jarošov nad Nežárkou
+CZ0313,Kardašova Řečice
+CZ0313,Kunžak
+CZ0313,Lásenice
+CZ0313,Lodhéřov
+CZ0313,Lomnice nad Lužnicí
+CZ0313,Majdalena
+CZ0313,Nová Bystřice
+CZ0313,Nová Včelnice
+CZ0313,Novosedly nad Nežárkou
+CZ0313,Písečné
+CZ0313,Pluhův Žďár
+CZ0313,Popelín
+CZ0313,Rapšach
+CZ0313,Rodvínov
+CZ0313,Slavonice
+CZ0313,Staré Hobzí
+CZ0313,Staré Město pod Landštejnem
+CZ0313,Stráž nad Nežárkou
+CZ0313,Strmilov
+CZ0313,Stříbřec
+CZ0313,Studená
+CZ0313,Suchdol nad Lužnicí
+CZ0313,Třeboň
+CZ0313,Volfířov
+CZ0313,Zahrádky
+CZ0313,Drunče
+CZ0313,Rosička
+CZ0313,Světce
+CZ0313,Vícemil
+CZ0313,Smržov
+CZ0313,Bednáreček
+CZ0313,Horní Skrýchov
+CZ0313,Pístina
+CZ0313,Příbraz
+CZ0313,Člunek
+CZ0313,Blažejov
+CZ0313,Horní Slatina
+CZ0313,Třebětice
+CZ0313,Nová Ves nad Lužnicí
+CZ0313,Staňkov
+CZ0313,Hamr
+CZ0313,Dobrohošť
+CZ0313,Županovice
+CZ0313,Polště
+CZ0313,Dolní Pěna
+CZ0313,Okrouhlá Radouň
+CZ0313,Kačlehy
+CZ0313,Bednárec
+CZ0313,Velký Ratmírov
+CZ0313,Dolní Žďár
+CZ0313,Vydří
+CZ0313,Frahelž
+CZ0313,Ponědrážka
+CZ0313,Ponědraž
+CZ0313,Klec
+CZ0313,Hadravova Rosička
+CZ0313,Báňovice
+CZ0313,Nová Olešná
+CZ0313,Bořetín
+CZ0313,Jilem
+CZ0313,Horní Němčice
+CZ0313,Halámky
+CZ0313,Dunajovice
+CZ0313,Hrachoviště
+CZ0313,Domanín
+CZ0313,Kamenný Malíkov
+CZ0313,Vlčetínec
+CZ0313,Horní Meziříčko
+CZ0314,Předotice
+CZ0314,Křižanov
+CZ0314,Okrouhlá
+CZ0314,Stehlovice
+CZ0314,Písek
+CZ0314,Albrechtice nad Vltavou
+CZ0314,Bernartice
+CZ0314,Božetice
+CZ0314,Branice
+CZ0314,Cerhonice
+CZ0314,Čimelice
+CZ0314,Čížová
+CZ0314,Dobev
+CZ0314,Drhovle
+CZ0314,Heřmaň
+CZ0314,Hrazany
+CZ0314,Hrejkovice
+CZ0314,Chyšky
+CZ0314,Jetětice
+CZ0314,Kestřany
+CZ0314,Kluky
+CZ0314,Kostelec nad Vltavou
+CZ0314,Kovářov
+CZ0314,Králova Lhota
+CZ0314,Kučeř
+CZ0314,Lety
+CZ0314,Milevsko
+CZ0314,Mirotice
+CZ0314,Mirovice
+CZ0314,Mišovice
+CZ0314,Myslín
+CZ0314,Nevězice
+CZ0314,Orlík nad Vltavou
+CZ0314,Oslov
+CZ0314,Ostrovec
+CZ0314,Podolí I
+CZ0314,Protivín
+CZ0314,Přeštěnice
+CZ0314,Putim
+CZ0314,Ražice
+CZ0314,Sepekov
+CZ0314,Skály
+CZ0314,Slabčice
+CZ0314,Smetanova Lhota
+CZ0314,Tálín
+CZ0314,Veselíčko
+CZ0314,Vráž
+CZ0314,Vrcovice
+CZ0314,Záhoří
+CZ0314,Zbelítov
+CZ0314,Zběšičky
+CZ0314,Zhoř
+CZ0314,Probulov
+CZ0314,Přeborov
+CZ0314,Horosedly
+CZ0314,Kožlí
+CZ0314,Rakovice
+CZ0314,Jickovice
+CZ0314,Boudy
+CZ0314,Minice
+CZ0314,Nerestce
+CZ0314,Zvíkovské Podhradí
+CZ0314,Křenovice
+CZ0314,Olešná
+CZ0314,Varvažov
+CZ0314,Paseky
+CZ0314,Temešvár
+CZ0314,Vojníkov
+CZ0314,Dolní Novosedly
+CZ0314,Borovany
+CZ0314,Květov
+CZ0314,Osek
+CZ0314,Vlastec
+CZ0314,Vlksice
+CZ0314,Žďár
+CZ0315,Nicov
+CZ0315,Vrbice
+CZ0315,Žárovná
+CZ0315,Lipovice
+CZ0315,Kratušín
+CZ0315,Dvory
+CZ0315,Drslavice
+CZ0315,Zábrdí
+CZ0315,Žernovice
+CZ0315,Babice
+CZ0315,Lužice
+CZ0315,Olšovice
+CZ0315,Mahouš
+CZ0315,Chvalovice
+CZ0315,Buk
+CZ0315,Bohunice
+CZ0315,Újezdec
+CZ0315,Pěčnov
+CZ0315,Borová Lada
+CZ0315,Prachatice
+CZ0315,Bohumilice
+CZ0315,Bošice
+CZ0315,Bušanovice
+CZ0315,Čkyně
+CZ0315,Dub
+CZ0315,Horní Vltavice
+CZ0315,Hracholusky
+CZ0315,Husinec
+CZ0315,Chlumany
+CZ0315,Chroboly
+CZ0315,Ktiš
+CZ0315,Kvilda
+CZ0315,Lažiště
+CZ0315,Lenora
+CZ0315,Lhenice
+CZ0315,Němčice
+CZ0315,Malovice
+CZ0315,Mičovice
+CZ0315,Nebahovy
+CZ0315,Netolice
+CZ0315,Nová Pec
+CZ0315,Radhostice
+CZ0315,Stachy
+CZ0315,Stožec
+CZ0315,Strážný
+CZ0315,Strunkovice nad Blanicí
+CZ0315,Svatá Maří
+CZ0315,Šumavské Hoštice
+CZ0315,Těšovice
+CZ0315,Tvrzice
+CZ0315,Vacov
+CZ0315,Vimperk
+CZ0315,Vitějovice
+CZ0315,Vlachovo Březí
+CZ0315,Volary
+CZ0315,Záblatí
+CZ0315,Zálezly
+CZ0315,Zbytiny
+CZ0315,Zdíkov
+CZ0315,Želnava
+CZ0315,Nové Hutě
+CZ0315,Budkov
+CZ0315,Lčovice
+CZ0315,Křišťanov
+CZ0315,Kubova Huť
+CZ0316,Čečelovice
+CZ0316,Buzice
+CZ0316,Chlum
+CZ0316,Březí
+CZ0316,Stožice
+CZ0316,Krajníčko
+CZ0316,Hornosín
+CZ0316,Měkynec
+CZ0316,Radějovice
+CZ0316,Mačkov
+CZ0316,Němčice
+CZ0316,Zahorčice
+CZ0316,Vacovice
+CZ0316,Truskovice
+CZ0316,Milejovice
+CZ0316,Přechovice
+CZ0316,Krty-Hradec
+CZ0316,Mnichov
+CZ0316,Tchořovice
+CZ0316,Kocelovice
+CZ0316,Hlupín
+CZ0316,Nebřehovice
+CZ0316,Třešovice
+CZ0316,Úlehle
+CZ0316,Němětice
+CZ0316,Velká Turná
+CZ0316,Kváskovice
+CZ0316,Slaník
+CZ0316,Strunkovice nad Volyňkou
+CZ0316,Přední Zborovice
+CZ0316,Krašlovice
+CZ0316,Lom
+CZ0316,Libětice
+CZ0316,Řepice
+CZ0316,Rovná
+CZ0316,Zvotoky
+CZ0316,Horní Poříčí
+CZ0316,Uzeničky
+CZ0316,Chobot
+CZ0316,Pohorovice
+CZ0316,Štěchovice
+CZ0316,Kalenice
+CZ0316,Krejnice
+CZ0316,Nišovice
+CZ0316,Bratronice
+CZ0316,Strakonice
+CZ0316,Bavorov
+CZ0316,Bělčice
+CZ0316,Bílsko
+CZ0316,Blatná
+CZ0316,Cehnice
+CZ0316,Čejetice
+CZ0316,Čepřovice
+CZ0316,Čestice
+CZ0316,Číčenice
+CZ0316,Doubravice
+CZ0316,Drahonice
+CZ0316,Drážov
+CZ0316,Dřešín
+CZ0316,Hoslovice
+CZ0316,Hoštice
+CZ0316,Chelčice
+CZ0316,Chrášťovice
+CZ0316,Jinín
+CZ0316,Kadov
+CZ0316,Katovice
+CZ0316,Kraselov
+CZ0316,Libějovice
+CZ0316,Litochovice
+CZ0316,Lnáře
+CZ0316,Malenice
+CZ0316,Mečichov
+CZ0316,Miloňovice
+CZ0316,Myštice
+CZ0316,Nihošovice
+CZ0316,Novosedly
+CZ0316,Osek
+CZ0316,Paračov
+CZ0316,Hajany
+CZ0316,Pracejovice
+CZ0316,Předmíř
+CZ0316,Předslavice
+CZ0316,Přešťovice
+CZ0316,Radomyšl
+CZ0316,Radošovice
+CZ0316,Sedlice
+CZ0316,Skočice
+CZ0316,Sousedovice
+CZ0316,Strašice
+CZ0316,Střelské Hoštice
+CZ0316,Škvořetice
+CZ0316,Štěkeň
+CZ0316,Třebohostice
+CZ0316,Uzenice
+CZ0316,Vodňany
+CZ0316,Volenice
+CZ0316,Volyně
+CZ0316,Záboří
+CZ0316,Budyně
+CZ0316,Lažany
+CZ0316,Nová Ves
+CZ0316,Drachkov
+CZ0316,Droužetice
+CZ0316,Mutěnice
+CZ0316,Kuřimany
+CZ0316,Kladruby
+CZ0316,Hájek
+CZ0316,Únice
+CZ0316,Pivkovice
+CZ0316,Bezdědovice
+CZ0316,Skály
+CZ0316,Lažánky
+CZ0317,Katov
+CZ0317,Nadějkov
+CZ0317,Turovec
+CZ0317,Tábor
+CZ0317,Bechyně
+CZ0317,Borkovice
+CZ0317,Borotín
+CZ0317,Bradáčov
+CZ0317,Březnice
+CZ0317,Budislav
+CZ0317,Dírná
+CZ0317,Dobronice u Bechyně
+CZ0317,Dolní Hořice
+CZ0317,Dráchov
+CZ0317,Dražice
+CZ0317,Dražičky
+CZ0317,Hlavatce
+CZ0317,Chotěmice
+CZ0317,Chotoviny
+CZ0317,Choustník
+CZ0317,Chýnov
+CZ0317,Jistebnice
+CZ0317,Košice
+CZ0317,Malšice
+CZ0317,Mladá Vožice
+CZ0317,Mlýny
+CZ0317,Myslkovice
+CZ0317,Nemyšl
+CZ0317,Nová Ves u Chýnova
+CZ0317,Oldřichov
+CZ0317,Opařany
+CZ0317,Planá nad Lužnicí
+CZ0317,Pohnání
+CZ0317,Pojbuky
+CZ0317,Přehořov
+CZ0317,Radenín
+CZ0317,Radětice
+CZ0317,Radimovice u Želče
+CZ0317,Radkov
+CZ0317,Rataje
+CZ0317,Ratibořské Hory
+CZ0317,Roudná
+CZ0317,Řepeč
+CZ0317,Sezimovo Ústí
+CZ0317,Skalice
+CZ0317,Skopytce
+CZ0317,Smilovy Hory
+CZ0317,Soběslav
+CZ0317,Stádlec
+CZ0317,Sudoměřice u Bechyně
+CZ0317,Sudoměřice u Tábora
+CZ0317,Sviny
+CZ0317,Šebířov
+CZ0317,Tučapy
+CZ0317,Val
+CZ0317,Vesce
+CZ0317,Veselí nad Lužnicí
+CZ0317,Vilice
+CZ0317,Vlastiboř
+CZ0317,Vlkov
+CZ0317,Vodice
+CZ0317,Zálší
+CZ0317,Zvěrotice
+CZ0317,Želeč
+CZ0317,Nasavrky
+CZ0317,Zhoř u Tábora
+CZ0317,Běleč
+CZ0317,Hlasivo
+CZ0317,Řemíčov
+CZ0317,Dolní Hrachovice
+CZ0317,Pohnánec
+CZ0317,Rodná
+CZ0317,Krátošice
+CZ0317,Skrýchov u Malšic
+CZ0317,Mažice
+CZ0317,Hodonice
+CZ0317,Košín
+CZ0317,Jedlany
+CZ0317,Krtov
+CZ0317,Chrbonín
+CZ0317,Třebějice
+CZ0317,Svrabov
+CZ0317,Radimovice u Tábora
+CZ0317,Meziříčí
+CZ0317,Balkova Lhota
+CZ0317,Drhovice
+CZ0317,Bečice
+CZ0317,Psárov
+CZ0317,Vlčeves
+CZ0317,Nová Ves u Mladé Vožice
+CZ0317,Libějice
+CZ0317,Lom
+CZ0317,Haškovcova Lhota
+CZ0317,Dlouhá Lhota
+CZ0317,Černýšovice
+CZ0317,Drahov
+CZ0317,Žíšov
+CZ0317,Zadní Střítež
+CZ0317,Klenovice
+CZ0317,Hodětín
+CZ0317,Záhoří
+CZ0317,Slapsko
+CZ0317,Zhoř u Mladé Vožice
+CZ0317,Slapy
+CZ0317,Řípec
+CZ0317,Ústrašice
+CZ0317,Mezná
+CZ0317,Sedlečko u Soběslavě
+CZ0317,Zlukov
+CZ0317,Komárov
+CZ0321,Domažlice
+CZ0321,Babylon
+CZ0321,Bělá nad Radbuzou
+CZ0321,Blížejov
+CZ0321,Bukovec
+CZ0321,Čermná
+CZ0321,Česká Kubice
+CZ0321,Díly
+CZ0321,Drahotín
+CZ0321,Draženov
+CZ0321,Hlohová
+CZ0321,Holýšov
+CZ0321,Horní Kamenice
+CZ0321,Horšovský Týn
+CZ0321,Hostouň
+CZ0321,Chocomyšl
+CZ0321,Chodov
+CZ0321,Chodská Lhota
+CZ0321,Chrastavice
+CZ0321,Kaničky
+CZ0321,Kdyně
+CZ0321,Klenčí pod Čerchovem
+CZ0321,Koloveč
+CZ0321,Kout na Šumavě
+CZ0321,Křenovy
+CZ0321,Kvíčovice
+CZ0321,Libkov
+CZ0321,Loučim
+CZ0321,Luženičky
+CZ0321,Meclov
+CZ0321,Mezholezy
+CZ0321,Mezholezy
+CZ0321,Milavče
+CZ0321,Mířkov
+CZ0321,Mrákov
+CZ0321,Mutěnín
+CZ0321,Nemanice
+CZ0321,Neuměř
+CZ0321,Nevolice
+CZ0321,Nový Kramolín
+CZ0321,Osvračín
+CZ0321,Pasečnice
+CZ0321,Pec
+CZ0321,Poběžovice
+CZ0321,Pocinovice
+CZ0321,Postřekov
+CZ0321,Puclice
+CZ0321,Rybník
+CZ0321,Semněvice
+CZ0321,Spáňov
+CZ0321,Srbice
+CZ0321,Srby
+CZ0321,Staňkov
+CZ0321,Stráž
+CZ0321,Tlumačov
+CZ0321,Trhanov
+CZ0321,Újezd
+CZ0321,Únějovice
+CZ0321,Úsilov
+CZ0321,Velký Malahov
+CZ0321,Vidice
+CZ0321,Všepadly
+CZ0321,Všeruby
+CZ0321,Zahořany
+CZ0321,Ždánov
+CZ0321,Všekary
+CZ0321,Čečovice
+CZ0321,Černovice
+CZ0321,Štichov
+CZ0321,Brnířov
+CZ0321,Kanice
+CZ0321,Úboč
+CZ0321,Hradiště
+CZ0321,Otov
+CZ0321,Vlkanov
+CZ0321,Hora Svatého Václava
+CZ0321,Mnichov
+CZ0321,Hvožďany
+CZ0321,Poděvousy
+CZ0321,Pelechy
+CZ0321,Hlohovčice
+CZ0321,Nová Ves
+CZ0321,Němčice
+CZ0321,Močerady
+CZ0321,Pařezov
+CZ0322,Bukovník
+CZ0322,Dobršín
+CZ0322,Myslovice
+CZ0322,Ježovy
+CZ0322,Poleň
+CZ0322,Hejná
+CZ0322,Kejnice
+CZ0322,Běhařov
+CZ0322,Klenová
+CZ0322,Javor
+CZ0322,Týnec
+CZ0322,Obytce
+CZ0322,Břežany
+CZ0322,Kvášňovice
+CZ0322,Olšany
+CZ0322,Číhaň
+CZ0322,Mlýnské Struhadlo
+CZ0322,Hnačov
+CZ0322,Horská Kvilda
+CZ0322,Modrava
+CZ0322,Červené Poříčí
+CZ0322,Podmokly
+CZ0322,Tužice
+CZ0322,Černíkov
+CZ0322,Klatovy
+CZ0322,Běšiny
+CZ0322,Bezděkov
+CZ0322,Bolešiny
+CZ0322,Budětice
+CZ0322,Čachrov
+CZ0322,Dešenice
+CZ0322,Dlažov
+CZ0322,Dlouhá Ves
+CZ0322,Prášily
+CZ0322,Dolany
+CZ0322,Hartmanice
+CZ0322,Hlavňovice
+CZ0322,Horažďovice
+CZ0322,Hrádek
+CZ0322,Hradešice
+CZ0322,Chanovice
+CZ0322,Chlistov
+CZ0322,Chudenice
+CZ0322,Chudenín
+CZ0322,Janovice nad Úhlavou
+CZ0322,Kašperské Hory
+CZ0322,Kolinec
+CZ0322,Křenice
+CZ0322,Malý Bor
+CZ0322,Měčín
+CZ0322,Mochtín
+CZ0322,Mokrosuky
+CZ0322,Myslív
+CZ0322,Nalžovské Hory
+CZ0322,Nezdice na Šumavě
+CZ0322,Nýrsko
+CZ0322,Pačejov
+CZ0322,Petrovice u Sušice
+CZ0322,Plánice
+CZ0322,Předslav
+CZ0322,Rabí
+CZ0322,Rejštejn
+CZ0322,Soběšice
+CZ0322,Srní
+CZ0322,Strašín
+CZ0322,Strážov
+CZ0322,Sušice
+CZ0322,Svéradice
+CZ0322,Švihov
+CZ0322,Velhartice
+CZ0322,Velké Hydčice
+CZ0322,Velký Bor
+CZ0322,Vrhaveč
+CZ0322,Zavlekov
+CZ0322,Železná Ruda
+CZ0322,Žihobce
+CZ0322,Žichovice
+CZ0322,Vřeskovice
+CZ0322,Dražovice
+CZ0322,Ostřetice
+CZ0322,Lomec
+CZ0322,Biřkov
+CZ0322,Kovčín
+CZ0322,Nehodiv
+CZ0322,Hamry
+CZ0322,Zborovy
+CZ0322,Újezd u Plánice
+CZ0322,Maňovice
+CZ0322,Slatina
+CZ0322,Mezihoří
+CZ0322,Čímice
+CZ0322,Domoraz
+CZ0322,Frymburk
+CZ0322,Nezamyslice
+CZ0323,Štěnovický Borek
+CZ0323,Letkov
+CZ0323,Mokrouše
+CZ0323,Nezbavětice
+CZ0323,Plzeň 1
+CZ0323,Plzeň 2-Slovany
+CZ0323,Plzeň 3
+CZ0323,Plzeň 4
+CZ0323,Plzeň 5-Křimice
+CZ0323,Plzeň 6-Litice
+CZ0323,Plzeň 7-Radčice
+CZ0323,Plzeň 8-Černice
+CZ0323,Plzeň 10-Lhota
+CZ0323,Plzeň 9-Malesice
+CZ0323,Plzeň
+CZ0323,Chválenice
+CZ0323,Losiná
+CZ0323,Nezvěstice
+CZ0323,Starý Plzenec
+CZ0323,Šťáhlavy
+CZ0323,Tymákov
+CZ0323,Dýšina
+CZ0323,Chrást
+CZ0323,Kyšice
+CZ0323,Lhůta
+CZ0324,Přestavlky
+CZ0324,Milínov
+CZ0324,Žákava
+CZ0324,Měcholupy
+CZ0324,Oplot
+CZ0324,Horní Lukavice
+CZ0324,Týniště
+CZ0324,Skašov
+CZ0324,Dolce
+CZ0324,Střelice
+CZ0324,Lisov
+CZ0324,Nezdřev
+CZ0324,Životice
+CZ0324,Kozlovice
+CZ0324,Drahkov
+CZ0324,Nová Ves
+CZ0324,Otěšice
+CZ0324,Chlumy
+CZ0324,Nebílovy
+CZ0324,Předenice
+CZ0324,Radkovice
+CZ0324,Bolkov
+CZ0324,Únětice
+CZ0324,Líšina
+CZ0324,Kotovice
+CZ0324,Honezovice
+CZ0324,Srby
+CZ0324,Sedliště
+CZ0324,Vlčtejn
+CZ0324,Borovy
+CZ0324,Nezdice
+CZ0324,Buková
+CZ0324,Míšov
+CZ0324,Polánka
+CZ0324,Blovice
+CZ0324,Čižice
+CZ0324,Čížkov
+CZ0324,Dnešice
+CZ0324,Dobřany
+CZ0324,Dolní Lukavice
+CZ0324,Horšice
+CZ0324,Hradec
+CZ0324,Hradiště
+CZ0324,Chlum
+CZ0324,Chlumčany
+CZ0324,Chocenice
+CZ0324,Chotěšov
+CZ0324,Kasejovice
+CZ0324,Kbel
+CZ0324,Klášter
+CZ0324,Kramolín
+CZ0324,Letiny
+CZ0324,Louňová
+CZ0324,Lužany
+CZ0324,Merklín
+CZ0324,Mileč
+CZ0324,Mladý Smolivec
+CZ0324,Mohelnice
+CZ0324,Nekvasovy
+CZ0324,Nepomuk
+CZ0324,Netunice
+CZ0324,Neurazy
+CZ0324,Nové Mitrovice
+CZ0324,Oselce
+CZ0324,Prádlo
+CZ0324,Přeštice
+CZ0324,Příchovice
+CZ0324,Ptenín
+CZ0324,Roupov
+CZ0324,Řenče
+CZ0324,Seč
+CZ0324,Soběkury
+CZ0324,Spálené Poříčí
+CZ0324,Stod
+CZ0324,Střížovice
+CZ0324,Štěnovice
+CZ0324,Útušice
+CZ0324,Ves Touškov
+CZ0324,Vrčeň
+CZ0324,Vstiš
+CZ0324,Zdemyslice
+CZ0324,Zemětice
+CZ0324,Ždírec
+CZ0324,Žinkovy
+CZ0324,Vlčí
+CZ0324,Borovno
+CZ0324,Jarov
+CZ0324,Čmelíny
+CZ0324,Třebčice
+CZ0324,Tojice
+CZ0325,Hněvnice
+CZ0325,Bílov
+CZ0325,Potvorov
+CZ0325,Sedlec
+CZ0325,Vysoká Libyně
+CZ0325,Čerňovice
+CZ0325,Pláně
+CZ0325,Kbelany
+CZ0325,Úherce
+CZ0325,Studená
+CZ0325,Bezvěrov
+CZ0325,Blatnice
+CZ0325,Bučí
+CZ0325,Čeminy
+CZ0325,Česká Bříza
+CZ0325,Dobříč
+CZ0325,Dolany
+CZ0325,Dolní Bělá
+CZ0325,Dolní Hradiště
+CZ0325,Druztová
+CZ0325,Heřmanova Huť
+CZ0325,Horní Bělá
+CZ0325,Horní Bříza
+CZ0325,Hromnice
+CZ0325,Hvozd
+CZ0325,Chotíkov
+CZ0325,Chříč
+CZ0325,Jarov
+CZ0325,Kaceřov
+CZ0325,Kaznějov
+CZ0325,Kopidlo
+CZ0325,Koryta
+CZ0325,Kozojedy
+CZ0325,Kozolupy
+CZ0325,Kožlany
+CZ0325,Kralovice
+CZ0325,Krašovice
+CZ0325,Krsy
+CZ0325,Křelovice
+CZ0325,Kunějovice
+CZ0325,Ledce
+CZ0325,Líně
+CZ0325,Líšťany
+CZ0325,Manětín
+CZ0325,Město Touškov
+CZ0325,Mladotice
+CZ0325,Mrtník
+CZ0325,Nadryby
+CZ0325,Nečtiny
+CZ0325,Nekmíř
+CZ0325,Nevřeň
+CZ0325,Nýřany
+CZ0325,Obora
+CZ0325,Ostrov u Bezdružic
+CZ0325,Pernarec
+CZ0325,Plasy
+CZ0325,Plešnice
+CZ0325,Pňovany
+CZ0325,Přehýšov
+CZ0325,Rochlov
+CZ0325,Rybnice
+CZ0325,Tis u Blatna
+CZ0325,Tlučná
+CZ0325,Trnová
+CZ0325,Třemošná
+CZ0325,Úlice
+CZ0325,Úněšov
+CZ0325,Úterý
+CZ0325,Vejprnice
+CZ0325,Vochov
+CZ0325,Všeruby
+CZ0325,Zbůch
+CZ0325,Zruč-Senec
+CZ0325,Žihle
+CZ0325,Žilov
+CZ0325,Hlince
+CZ0325,Líté
+CZ0325,Loza
+CZ0325,Lochousice
+CZ0325,Bohy
+CZ0325,Brodeslavy
+CZ0325,Všehrdy
+CZ0325,Myslinka
+CZ0325,Újezd nade Mží
+CZ0325,Černíkovice
+CZ0325,Holovousy
+CZ0325,Slatina
+CZ0325,Bdeněves
+CZ0325,Blažim
+CZ0325,Pastuchovice
+CZ0325,Výrov
+CZ0325,Příšov
+CZ0325,Dražeň
+CZ0325,Kočín
+CZ0325,Štichovice
+CZ0325,Zahrádka
+CZ0325,Velečín
+CZ0325,Tatiná
+CZ0326,Skořice
+CZ0326,Kařízek
+CZ0326,Drahoňův Újezd
+CZ0326,Smědčice
+CZ0326,Chlum
+CZ0326,Čilá
+CZ0326,Hradiště
+CZ0326,Zvíkovec
+CZ0326,Bezděkov
+CZ0326,Chomle
+CZ0326,Kamenný Újezd
+CZ0326,Svojkovice
+CZ0326,Nevid
+CZ0326,Sirá
+CZ0326,Těškov
+CZ0326,Týček
+CZ0326,Újezd u Svatého Kříže
+CZ0326,Litohlavy
+CZ0326,Rokycany
+CZ0326,Břasy
+CZ0326,Březina
+CZ0326,Bujesily
+CZ0326,Bušovice
+CZ0326,Cekov
+CZ0326,Dobřív
+CZ0326,Ejpovice
+CZ0326,Hlohovice
+CZ0326,Holoubkov
+CZ0326,Hrádek
+CZ0326,Hůrky
+CZ0326,Cheznovice
+CZ0326,Kařez
+CZ0326,Klabava
+CZ0326,Kladruby
+CZ0326,Lhotka u Radnic
+CZ0326,Liblín
+CZ0326,Líšná
+CZ0326,Mirošov
+CZ0326,Mlečice
+CZ0326,Mýto
+CZ0326,Osek
+CZ0326,Podmokly
+CZ0326,Přívětice
+CZ0326,Radnice
+CZ0326,Sebečice
+CZ0326,Strašice
+CZ0326,Těně
+CZ0326,Vejvanov
+CZ0326,Veselá
+CZ0326,Volduchy
+CZ0326,Zbiroh
+CZ0326,Všenice
+CZ0326,Terešov
+CZ0326,Kamenec
+CZ0326,Němčovice
+CZ0326,Skomelno
+CZ0326,Plískov
+CZ0326,Raková
+CZ0326,Ostrovec-Lhotka
+CZ0326,Lhota pod Radčem
+CZ0326,Medový Újezd
+CZ0326,Kakejcov
+CZ0326,Kornatice
+CZ0326,Mešno
+CZ0326,Příkosice
+CZ0326,Trokavec
+CZ0326,Vísky
+CZ0326,Štítov
+CZ0327,Kostelec
+CZ0327,Horní Kozolupy
+CZ0327,Zadní Chodov
+CZ0327,Broumov
+CZ0327,Únehle
+CZ0327,Obora
+CZ0327,Zhoř
+CZ0327,Prostiboř
+CZ0327,Kokašice
+CZ0327,Milíře
+CZ0327,Kočov
+CZ0327,Brod nad Tichou
+CZ0327,Tisová
+CZ0327,Záchlumí
+CZ0327,Ošelín
+CZ0327,Lom u Tachova
+CZ0327,Sytno
+CZ0327,Tachov
+CZ0327,Benešovice
+CZ0327,Bezdružice
+CZ0327,Bor
+CZ0327,Cebiv
+CZ0327,Částkov
+CZ0327,Černošín
+CZ0327,Dlouhý Újezd
+CZ0327,Erpužice
+CZ0327,Halže
+CZ0327,Hošťka
+CZ0327,Chodová Planá
+CZ0327,Chodský Újezd
+CZ0327,Kladruby
+CZ0327,Konstantinovy Lázně
+CZ0327,Kšice
+CZ0327,Lesná
+CZ0327,Lestkov
+CZ0327,Planá
+CZ0327,Přimda
+CZ0327,Rozvadov
+CZ0327,Staré Sedliště
+CZ0327,Staré Sedlo
+CZ0327,Stráž
+CZ0327,Stříbro
+CZ0327,Studánka
+CZ0327,Sulislav
+CZ0327,Svojšín
+CZ0327,Trpísty
+CZ0327,Třemešné
+CZ0327,Olbramov
+CZ0327,Ctiboř
+CZ0327,Skapce
+CZ0327,Vranov
+CZ0411,Krásná
+CZ0411,Podhradí
+CZ0411,Pomezí nad Ohří
+CZ0411,Milíkov
+CZ0411,Okrouhlá
+CZ0411,Třebeň
+CZ0411,Vojtanov
+CZ0411,Stará Voda
+CZ0411,Velká Hleďsebe
+CZ0411,Vlkovice
+CZ0411,Zádub-Závišín
+CZ0411,Ovesné Kladruby
+CZ0411,Valy
+CZ0411,Prameny
+CZ0411,Odrava
+CZ0411,Tuřany
+CZ0411,Cheb
+CZ0411,Aš
+CZ0411,Dolní Žandov
+CZ0411,Drmoul
+CZ0411,Františkovy Lázně
+CZ0411,Hazlov
+CZ0411,Hranice
+CZ0411,Křižovatka
+CZ0411,Lázně Kynžvart
+CZ0411,Libá
+CZ0411,Lipová
+CZ0411,Luby
+CZ0411,Mariánské Lázně
+CZ0411,Milhostov
+CZ0411,Mnichov
+CZ0411,Nebanice
+CZ0411,Nový Kostel
+CZ0411,Plesná
+CZ0411,Skalná
+CZ0411,Trstěnice
+CZ0411,Tři Sekery
+CZ0411,Teplá
+CZ0411,Poustka
+CZ0411,Velký Luh
+CZ0412,Bražec
+CZ0412,Doupovské Hradiště
+CZ0412,Boží Dar
+CZ0412,Nové Hamry
+CZ0412,Čichalov
+CZ0412,Teplička
+CZ0412,Březová
+CZ0412,Dalovice
+CZ0412,Jenišov
+CZ0412,Mírová
+CZ0412,Otovice
+CZ0412,Andělská Hora
+CZ0412,Černava
+CZ0412,Smolné Pece
+CZ0412,Děpoltovice
+CZ0412,Hájek
+CZ0412,Hory
+CZ0412,Karlovy Vary
+CZ0412,Abertamy
+CZ0412,Bečov nad Teplou
+CZ0412,Bochov
+CZ0412,Božičany
+CZ0412,Horní Blatná
+CZ0412,Hroznětín
+CZ0412,Chyše
+CZ0412,Jáchymov
+CZ0412,Kolová
+CZ0412,Krásné Údolí
+CZ0412,Kyselka
+CZ0412,Merklín
+CZ0412,Nejdek
+CZ0412,Nová Role
+CZ0412,Ostrov
+CZ0412,Otročín
+CZ0412,Pernink
+CZ0412,Potůčky
+CZ0412,Pšov
+CZ0412,Sadov
+CZ0412,Stanovice
+CZ0412,Stráž nad Ohří
+CZ0412,Stružná
+CZ0412,Šemnice
+CZ0412,Štědrá
+CZ0412,Toužim
+CZ0412,Útvina
+CZ0412,Valeč
+CZ0412,Velichov
+CZ0412,Verušičky
+CZ0412,Vojkovice
+CZ0412,Žlutice
+CZ0412,Pila
+CZ0412,Vrbice
+CZ0412,Chodov
+CZ0412,Vysoká Pec
+CZ0412,Krásný Les
+CZ0413,Josefov
+CZ0413,Krásno
+CZ0413,Šabina
+CZ0413,Svatava
+CZ0413,Dolní Rychnov
+CZ0413,Tatrovice
+CZ0413,Sokolov
+CZ0413,Březová
+CZ0413,Bublava
+CZ0413,Bukovany
+CZ0413,Citice
+CZ0413,Dasnice
+CZ0413,Dolní Nivy
+CZ0413,Habartov
+CZ0413,Horní Slavkov
+CZ0413,Chlum Svaté Maří
+CZ0413,Chodov
+CZ0413,Jindřichovice
+CZ0413,Kaceřov
+CZ0413,Krajková
+CZ0413,Královské Poříčí
+CZ0413,Kraslice
+CZ0413,Kynšperk nad Ohří
+CZ0413,Libavské Údolí
+CZ0413,Loket
+CZ0413,Lomnice
+CZ0413,Nová Ves
+CZ0413,Nové Sedlo
+CZ0413,Oloví
+CZ0413,Přebuz
+CZ0413,Rotava
+CZ0413,Rovná
+CZ0413,Staré Sedlo
+CZ0413,Stříbrná
+CZ0413,Šindelová
+CZ0413,Vintířov
+CZ0413,Vřesová
+CZ0413,Těšovice
+CZ0421,Janská
+CZ0421,Doubice
+CZ0421,Bynovec
+CZ0421,Janov
+CZ0421,Labská Stráň
+CZ0421,Starý Šachov
+CZ0421,Markvartice
+CZ0421,Lobendava
+CZ0421,Dobrná
+CZ0421,Merboltice
+CZ0421,Dolní Habartice
+CZ0421,Františkov nad Ploučnicí
+CZ0421,Horní Habartice
+CZ0421,Kunratice
+CZ0421,Srbská Kamenice
+CZ0421,Kámen
+CZ0421,Ludvíkovice
+CZ0421,Těchlovice
+CZ0421,Děčín
+CZ0421,Arnoltice
+CZ0421,Benešov nad Ploučnicí
+CZ0421,Česká Kamenice
+CZ0421,Dobkovice
+CZ0421,Dolní Podluží
+CZ0421,Dolní Poustevna
+CZ0421,Heřmanov
+CZ0421,Horní Podluží
+CZ0421,Hřensko
+CZ0421,Huntířov
+CZ0421,Chřibská
+CZ0421,Jetřichovice
+CZ0421,Jílové
+CZ0421,Jiřetín pod Jedlovou
+CZ0421,Jiříkov
+CZ0421,Krásná Lípa
+CZ0421,Kytlice
+CZ0421,Lipová
+CZ0421,Malá Veleň
+CZ0421,Malšovice
+CZ0421,Mikulášovice
+CZ0421,Rumburk
+CZ0421,Rybniště
+CZ0421,Staré Křečany
+CZ0421,Šluknov
+CZ0421,Valkeřice
+CZ0421,Varnsdorf
+CZ0421,Velká Bukovina
+CZ0421,Velký Šenov
+CZ0421,Verneřice
+CZ0421,Veselé
+CZ0421,Vilémov
+CZ0421,Růžová
+CZ0422,Pesvice
+CZ0422,Račetice
+CZ0422,Nezabylice
+CZ0422,Loučná pod Klínovcem
+CZ0422,Chomutov
+CZ0422,Bílence
+CZ0422,Blatno
+CZ0422,Boleboř
+CZ0422,Březno
+CZ0422,Černovice
+CZ0422,Domašín
+CZ0422,Droužkovice
+CZ0422,Hora Svatého Šebestiána
+CZ0422,Hrušovany
+CZ0422,Chbany
+CZ0422,Jirkov
+CZ0422,Kadaň
+CZ0422,Kalek
+CZ0422,Klášterec nad Ohří
+CZ0422,Kovářská
+CZ0422,Křimov
+CZ0422,Libědice
+CZ0422,Málkov
+CZ0422,Mašťov
+CZ0422,Měděnec
+CZ0422,Místo
+CZ0422,Okounov
+CZ0422,Otvice
+CZ0422,Perštejn
+CZ0422,Pětipsy
+CZ0422,Kryštofovy Hamry
+CZ0422,Radonice
+CZ0422,Rokle
+CZ0422,Spořice
+CZ0422,Strupčice
+CZ0422,Údlice
+CZ0422,Vejprty
+CZ0422,Veliká Ves
+CZ0422,Vilémov
+CZ0422,Vrskmaň
+CZ0422,Všehrdy
+CZ0422,Všestudy
+CZ0422,Výsluní
+CZ0422,Vysoká Pec
+CZ0423,Jenčice
+CZ0423,Miřejovice
+CZ0423,Trnovany
+CZ0423,Černouček
+CZ0423,Oleško
+CZ0423,Záluží
+CZ0423,Malíč
+CZ0423,Michalovice
+CZ0423,Píšťany
+CZ0423,Lkáň
+CZ0423,Sedlec
+CZ0423,Brzánky
+CZ0423,Horní Řepčice
+CZ0423,Kamýk
+CZ0423,Býčkovice
+CZ0423,Chudoslavice
+CZ0423,Staňkovice
+CZ0423,Černěves
+CZ0423,Dolánky nad Ohří
+CZ0423,Litoměřice
+CZ0423,Bechlín
+CZ0423,Bohušovice nad Ohří
+CZ0423,Brňany
+CZ0423,Brozany nad Ohří
+CZ0423,Bříza
+CZ0423,Budyně nad Ohří
+CZ0423,Ctiněves
+CZ0423,Černiv
+CZ0423,Čížkovice
+CZ0423,Děčany
+CZ0423,Dlažkovice
+CZ0423,Dobříň
+CZ0423,Doksany
+CZ0423,Drahobuz
+CZ0423,Dušníky
+CZ0423,Evaň
+CZ0423,Hlinná
+CZ0423,Horní Beřkovice
+CZ0423,Hoštka
+CZ0423,Hrobce
+CZ0423,Chodouny
+CZ0423,Chodovlice
+CZ0423,Chotěšov
+CZ0423,Chotiměř
+CZ0423,Chotiněves
+CZ0423,Keblice
+CZ0423,Klapý
+CZ0423,Kleneč
+CZ0423,Kostomlaty pod Řípem
+CZ0423,Krabčice
+CZ0423,Křesín
+CZ0423,Křešice
+CZ0423,Kyškovice
+CZ0423,Levín
+CZ0423,Lhotka nad Labem
+CZ0423,Liběšice
+CZ0423,Libkovice pod Řípem
+CZ0423,Libochovany
+CZ0423,Libochovice
+CZ0423,Libotenice
+CZ0423,Lovečkovice
+CZ0423,Lovosice
+CZ0423,Lukavec
+CZ0423,Malé Žernoseky
+CZ0423,Martiněves
+CZ0423,Mlékojedy
+CZ0423,Mnetěš
+CZ0423,Mšené-lázně
+CZ0423,Nové Dvory
+CZ0423,Ploskovice
+CZ0423,Podsedice
+CZ0423,Polepy
+CZ0423,Prackovice nad Labem
+CZ0423,Přestavlky
+CZ0423,Račice
+CZ0423,Račiněves
+CZ0423,Radovesice
+CZ0423,Rochov
+CZ0423,Roudnice nad Labem
+CZ0423,Siřejovice
+CZ0423,Slatina
+CZ0423,Snědovice
+CZ0423,Straškov-Vodochody
+CZ0423,Sulejovice
+CZ0423,Štětí
+CZ0423,Terezín
+CZ0423,Travčice
+CZ0423,Třebenice
+CZ0423,Třebívlice
+CZ0423,Třebušín
+CZ0423,Úpohlavy
+CZ0423,Úštěk
+CZ0423,Vědomice
+CZ0423,Velemín
+CZ0423,Velké Žernoseky
+CZ0423,Vchynice
+CZ0423,Vlastislav
+CZ0423,Vražkov
+CZ0423,Vrbice
+CZ0423,Vrbičany
+CZ0423,Vrutice
+CZ0423,Žabovřesky nad Ohří
+CZ0423,Žalhostice
+CZ0423,Židovice
+CZ0423,Žitenice
+CZ0424,Kozly
+CZ0424,Želkovice
+CZ0424,Čeradice
+CZ0424,Libočany
+CZ0424,Zálužice
+CZ0424,Blšany u Loun
+CZ0424,Opočno
+CZ0424,Cítoliby
+CZ0424,Obora
+CZ0424,Černčice
+CZ0424,Nová Ves
+CZ0424,Žerotín
+CZ0424,Staňkovice
+CZ0424,Jimlín
+CZ0424,Úherce
+CZ0424,Chraberce
+CZ0424,Dobroměřice
+CZ0424,Líšťany
+CZ0424,Vršovice
+CZ0424,Brodec
+CZ0424,Louny
+CZ0424,Bitozeves
+CZ0424,Blatno
+CZ0424,Blažim
+CZ0424,Blšany
+CZ0424,Břvany
+CZ0424,Deštnice
+CZ0424,Domoušice
+CZ0424,Holedeč
+CZ0424,Hříškov
+CZ0424,Hřivice
+CZ0424,Chlumčany
+CZ0424,Chožov
+CZ0424,Koštice
+CZ0424,Krásný Dvůr
+CZ0424,Kryry
+CZ0424,Lenešice
+CZ0424,Libčeves
+CZ0424,Liběšice
+CZ0424,Libořice
+CZ0424,Lipno
+CZ0424,Lišany
+CZ0424,Lubenec
+CZ0424,Měcholupy
+CZ0424,Nepomyšl
+CZ0424,Nové Sedlo
+CZ0424,Očihov
+CZ0424,Panenský Týnec
+CZ0424,Peruc
+CZ0424,Petrohrad
+CZ0424,Pnětluky
+CZ0424,Počedělice
+CZ0424,Podbořanský Rohozec
+CZ0424,Podbořany
+CZ0424,Postoloprty
+CZ0424,Raná
+CZ0424,Ročov
+CZ0424,Slavětín
+CZ0424,Smolnice
+CZ0424,Toužetín
+CZ0424,Tuchořice
+CZ0424,Velemyšleves
+CZ0424,Veltěže
+CZ0424,Vinařice
+CZ0424,Vrbno nad Lesy
+CZ0424,Vroutek
+CZ0424,Výškov
+CZ0424,Zbrašín
+CZ0424,Žatec
+CZ0424,Žiželice
+CZ0425,Volevčice
+CZ0425,Most
+CZ0425,Bečov
+CZ0425,Bělušice
+CZ0425,Braňany
+CZ0425,Brandov
+CZ0425,Český Jiřetín
+CZ0425,Havraň
+CZ0425,Hora Svaté Kateřiny
+CZ0425,Horní Jiřetín
+CZ0425,Klíny
+CZ0425,Korozluky
+CZ0425,Lišnice
+CZ0425,Litvínov
+CZ0425,Lom
+CZ0425,Louka u Litvínova
+CZ0425,Lužice
+CZ0425,Malé Březno
+CZ0425,Mariánské Radčice
+CZ0425,Meziboří
+CZ0425,Nová Ves v Horách
+CZ0425,Obrnice
+CZ0425,Patokryje
+CZ0425,Polerady
+CZ0425,Skršín
+CZ0425,Želenice
+CZ0426,Lukov
+CZ0426,Teplice
+CZ0426,Bílina
+CZ0426,Bořislav
+CZ0426,Bystřany
+CZ0426,Bžany
+CZ0426,Dubí
+CZ0426,Duchcov
+CZ0426,Háj u Duchcova
+CZ0426,Hostomice
+CZ0426,Hrob
+CZ0426,Hrobčice
+CZ0426,Jeníkov
+CZ0426,Kladruby
+CZ0426,Kostomlaty pod Milešovkou
+CZ0426,Košťany
+CZ0426,Krupka
+CZ0426,Lahošť
+CZ0426,Ledvice
+CZ0426,Měrunice
+CZ0426,Mikulov
+CZ0426,Modlany
+CZ0426,Moldava
+CZ0426,Novosedlice
+CZ0426,Ohníč
+CZ0426,Osek
+CZ0426,Proboštov
+CZ0426,Rtyně nad Bílinou
+CZ0426,Srbice
+CZ0426,Světec
+CZ0426,Újezdeček
+CZ0426,Zabrušany
+CZ0426,Žalany
+CZ0426,Žim
+CZ0427,Přestanov
+CZ0427,Ryjice
+CZ0427,Stebno
+CZ0427,Trmice
+CZ0427,Ústí nad Labem-Severní Terasa
+CZ0427,Ústí nad Labem-Neštěmice
+CZ0427,Ústí nad Labem-Střekov
+CZ0427,Ústí nad Labem-město
+CZ0427,Ústí nad Labem
+CZ0427,Velké Chvojno
+CZ0427,Dolní Zálezly
+CZ0427,Habrovany
+CZ0427,Homole u Panny
+CZ0427,Chabařovice
+CZ0427,Chlumec
+CZ0427,Chuderov
+CZ0427,Libouchec
+CZ0427,Malé Březno
+CZ0427,Malečov
+CZ0427,Petrovice
+CZ0427,Povrly
+CZ0427,Řehlovice
+CZ0427,Tašov
+CZ0427,Telnice
+CZ0427,Tisá
+CZ0427,Velké Březno
+CZ0427,Zubrnice
+CZ0511,Skalka u Doks
+CZ0511,Luka
+CZ0511,Ždírec
+CZ0511,Pertoltice pod Ralskem
+CZ0511,Radvanec
+CZ0511,Hamr na Jezeře
+CZ0511,Kozly
+CZ0511,Kvítkov
+CZ0511,Tuhaň
+CZ0511,Slunečná
+CZ0511,Svojkov
+CZ0511,Tachov
+CZ0511,Česká Lípa
+CZ0511,Bezděz
+CZ0511,Blatce
+CZ0511,Blíževedly
+CZ0511,Bohatice
+CZ0511,Brniště
+CZ0511,Cvikov
+CZ0511,Doksy
+CZ0511,Dubá
+CZ0511,Dubnice
+CZ0511,Holany
+CZ0511,Horní Libchava
+CZ0511,Horní Police
+CZ0511,Chlum
+CZ0511,Chotovice
+CZ0511,Jestřebí
+CZ0511,Kamenický Šenov
+CZ0511,Kravaře
+CZ0511,Krompach
+CZ0511,Kunratice u Cvikova
+CZ0511,Mařenice
+CZ0511,Mimoň
+CZ0511,Noviny pod Ralskem
+CZ0511,Nový Bor
+CZ0511,Nový Oldřichov
+CZ0511,Okna
+CZ0511,Okrouhlá
+CZ0511,Polevsko
+CZ0511,Provodín
+CZ0511,Prysk
+CZ0511,Ralsko
+CZ0511,Skalice u České Lípy
+CZ0511,Sloup v Čechách
+CZ0511,Sosnová
+CZ0511,Stráž pod Ralskem
+CZ0511,Stružnice
+CZ0511,Stvolínky
+CZ0511,Svor
+CZ0511,Velenice
+CZ0511,Velký Valtinov
+CZ0511,Volfartice
+CZ0511,Vrchovany
+CZ0511,Zahrádky
+CZ0511,Zákupy
+CZ0511,Žandov
+CZ0512,Dalešice
+CZ0512,Pulečný
+CZ0512,Jiřetín pod Bukovou
+CZ0512,Jablonec nad Nisou
+CZ0512,Albrechtice v Jizerských horách
+CZ0512,Bedřichov
+CZ0512,Desná
+CZ0512,Držkov
+CZ0512,Frýdštejn
+CZ0512,Janov nad Nisou
+CZ0512,Jenišovice
+CZ0512,Jílové u Držkova
+CZ0512,Josefův Důl
+CZ0512,Koberovy
+CZ0512,Kořenov
+CZ0512,Líšný
+CZ0512,Loužnice
+CZ0512,Lučany nad Nisou
+CZ0512,Malá Skála
+CZ0512,Maršovice
+CZ0512,Nová Ves nad Nisou
+CZ0512,Pěnčín
+CZ0512,Plavy
+CZ0512,Radčice
+CZ0512,Rádlo
+CZ0512,Rychnov u Jablonce nad Nisou
+CZ0512,Skuhrov
+CZ0512,Smržovka
+CZ0512,Tanvald
+CZ0512,Velké Hamry
+CZ0512,Vlastiboř
+CZ0512,Zásada
+CZ0512,Zlatá Olešnice
+CZ0512,Železný Brod
+CZ0513,Kunratice
+CZ0513,Dlouhý Most
+CZ0513,Jeřmanice
+CZ0513,Proseč pod Ještědem
+CZ0513,Heřmanice
+CZ0513,Stráž nad Nisou
+CZ0513,Čtveřín
+CZ0513,Radimovice
+CZ0513,Žďárek
+CZ0513,Lažany
+CZ0513,Paceřice
+CZ0513,Černousy
+CZ0513,Nová Ves
+CZ0513,Dětřichov
+CZ0513,Bílý Potok
+CZ0513,Janův Důl
+CZ0513,Jablonné v Podještědí
+CZ0513,Janovice v Podještědí
+CZ0513,Liberec-Vratislavice nad Nisou
+CZ0513,Liberec (nečleněné město)
+CZ0513,Liberec
+CZ0513,Bílá
+CZ0513,Bílý Kostel nad Nisou
+CZ0513,Bulovka
+CZ0513,Cetenov
+CZ0513,Český Dub
+CZ0513,Dolní Řasnice
+CZ0513,Frýdlant
+CZ0513,Habartice
+CZ0513,Hejnice
+CZ0513,Hlavice
+CZ0513,Hodkovice nad Mohelkou
+CZ0513,Horní Řasnice
+CZ0513,Hrádek nad Nisou
+CZ0513,Chotyně
+CZ0513,Chrastava
+CZ0513,Jindřichovice pod Smrkem
+CZ0513,Kobyly
+CZ0513,Krásný Les
+CZ0513,Kryštofovo Údolí
+CZ0513,Křižany
+CZ0513,Lázně Libverda
+CZ0513,Mníšek
+CZ0513,Nové Město pod Smrkem
+CZ0513,Oldřichov v Hájích
+CZ0513,Osečná
+CZ0513,Pěnčín
+CZ0513,Pertoltice
+CZ0513,Příšovice
+CZ0513,Raspenava
+CZ0513,Rynoltice
+CZ0513,Soběslavice
+CZ0513,Světlá pod Ještědem
+CZ0513,Svijanský Újezd
+CZ0513,Svijany
+CZ0513,Sychrov
+CZ0513,Šimonovice
+CZ0513,Višňová
+CZ0513,Vlastibořice
+CZ0513,Všelibice
+CZ0513,Zdislava
+CZ0514,Paseky nad Jizerou
+CZ0514,Ktová
+CZ0514,Loučky
+CZ0514,Martinice v Krkonoších
+CZ0514,Horka u Staré Paky
+CZ0514,Semily
+CZ0514,Bělá
+CZ0514,Benecko
+CZ0514,Benešov u Semil
+CZ0514,Bozkov
+CZ0514,Bradlecká Lhota
+CZ0514,Bukovina u Čisté
+CZ0514,Bystrá nad Jizerou
+CZ0514,Čistá u Horek
+CZ0514,Háje nad Jizerou
+CZ0514,Harrachov
+CZ0514,Holenice
+CZ0514,Horní Branná
+CZ0514,Hrubá Skála
+CZ0514,Chuchelna
+CZ0514,Jablonec nad Jizerou
+CZ0514,Jesenný
+CZ0514,Jestřabí v Krkonoších
+CZ0514,Jilemnice
+CZ0514,Kacanovy
+CZ0514,Karlovice
+CZ0514,Klokočí
+CZ0514,Košťálov
+CZ0514,Kruh
+CZ0514,Libštát
+CZ0514,Lomnice nad Popelkou
+CZ0514,Mírová pod Kozákovem
+CZ0514,Modřišice
+CZ0514,Mříčná
+CZ0514,Nová Ves nad Popelkou
+CZ0514,Ohrazenice
+CZ0514,Olešnice
+CZ0514,Levínská Olešnice
+CZ0514,Peřimov
+CZ0514,Poniklá
+CZ0514,Přepeře
+CZ0514,Příkrý
+CZ0514,Radostná pod Kozákovem
+CZ0514,Rakousy
+CZ0514,Rokytnice nad Jizerou
+CZ0514,Roprachtice
+CZ0514,Rovensko pod Troskami
+CZ0514,Roztoky u Semil
+CZ0514,Roztoky u Jilemnice
+CZ0514,Slaná
+CZ0514,Stružinec
+CZ0514,Studenec
+CZ0514,Svojek
+CZ0514,Syřenov
+CZ0514,Tatobity
+CZ0514,Troskovice
+CZ0514,Turnov
+CZ0514,Veselá
+CZ0514,Víchová nad Jizerou
+CZ0514,Vítkovice
+CZ0514,Všeň
+CZ0514,Vyskeř
+CZ0514,Vysoké nad Jizerou
+CZ0514,Záhoří
+CZ0514,Žernov
+CZ0521,Urbanice
+CZ0521,Pšánky
+CZ0521,Vrchovnice
+CZ0521,Obědovice
+CZ0521,Světí
+CZ0521,Vysoký Újezd
+CZ0521,Hradec Králové
+CZ0521,Babice
+CZ0521,Barchov
+CZ0521,Běleč nad Orlicí
+CZ0521,Benátky
+CZ0521,Blešno
+CZ0521,Boharyně
+CZ0521,Černilov
+CZ0521,Černožice
+CZ0521,Čistěves
+CZ0521,Divec
+CZ0521,Dobřenice
+CZ0521,Dohalice
+CZ0521,Dolní Přím
+CZ0521,Habřina
+CZ0521,Hlušice
+CZ0521,Hněvčeves
+CZ0521,Holohlavy
+CZ0521,Hořiněves
+CZ0521,Hrádek
+CZ0521,Humburky
+CZ0521,Chlumec nad Cidlinou
+CZ0521,Chudeřice
+CZ0521,Jeníkovice
+CZ0521,Káranice
+CZ0521,Klamoš
+CZ0521,Kosice
+CZ0521,Kosičky
+CZ0521,Králíky
+CZ0521,Kratonohy
+CZ0521,Kunčice
+CZ0521,Lejšovka
+CZ0521,Lhota pod Libčany
+CZ0521,Libčany
+CZ0521,Libníkovice
+CZ0521,Librantice
+CZ0521,Libřice
+CZ0521,Lišice
+CZ0521,Lodín
+CZ0521,Lochenice
+CZ0521,Lovčice
+CZ0521,Lužany
+CZ0521,Lužec nad Cidlinou
+CZ0521,Měník
+CZ0521,Mlékosrby
+CZ0521,Mokrovousy
+CZ0521,Myštěves
+CZ0521,Mžany
+CZ0521,Neděliště
+CZ0521,Nechanice
+CZ0521,Nepolisy
+CZ0521,Nové Město
+CZ0521,Nový Bydžov
+CZ0521,Ohnišťany
+CZ0521,Olešnice
+CZ0521,Osice
+CZ0521,Osičky
+CZ0521,Petrovice
+CZ0521,Písek
+CZ0521,Prasek
+CZ0521,Praskačka
+CZ0521,Předměřice nad Labem
+CZ0521,Převýšov
+CZ0521,Račice nad Trotinou
+CZ0521,Radíkovice
+CZ0521,Radostov
+CZ0521,Roudnice
+CZ0521,Sendražice
+CZ0521,Skalice
+CZ0521,Skřivany
+CZ0521,Sloupno
+CZ0521,Smidary
+CZ0521,Smiřice
+CZ0521,Smržov
+CZ0521,Sovětice
+CZ0521,Stará Voda
+CZ0521,Stěžery
+CZ0521,Stračov
+CZ0521,Střezetice
+CZ0521,Syrovátka
+CZ0521,Šaplava
+CZ0521,Těchlovice
+CZ0521,Třebechovice pod Orebem
+CZ0521,Třesovice
+CZ0521,Vinary
+CZ0521,Všestary
+CZ0521,Výrava
+CZ0521,Vysoká nad Labem
+CZ0521,Zachrašťany
+CZ0521,Starý Bydžov
+CZ0521,Sadová
+CZ0521,Puchlovice
+CZ0521,Hvozdnice
+CZ0521,Kobylice
+CZ0521,Zdechovice
+CZ0521,Máslojedy
+CZ0521,Jílovice
+CZ0521,Ledce
+CZ0522,Staré Hrady
+CZ0522,Bříšťany
+CZ0522,Milovice u Hořic
+CZ0522,Petrovičky
+CZ0522,Sukorady
+CZ0522,Rokytňany
+CZ0522,Bílsko u Hořic
+CZ0522,Ohaveč
+CZ0522,Kostelec
+CZ0522,Kovač
+CZ0522,Budčeves
+CZ0522,Sedliště
+CZ0522,Borek
+CZ0522,Červená Třemešná
+CZ0522,Vřesník
+CZ0522,Choteč
+CZ0522,Březina
+CZ0522,Dolní Lochov
+CZ0522,Staré Místo
+CZ0522,Brada-Rybníček
+CZ0522,Dílce
+CZ0522,Jinolice
+CZ0522,Kbelnice
+CZ0522,Ohařice
+CZ0522,Zámostí-Blata
+CZ0522,Nevratice
+CZ0522,Chyjice
+CZ0522,Rašín
+CZ0522,Butoves
+CZ0522,Kacákova Lhota
+CZ0522,Cholenice
+CZ0522,Bačalky
+CZ0522,Kyje
+CZ0522,Vrbice
+CZ0522,Kozojedy
+CZ0522,Sekeřice
+CZ0522,Slavhostice
+CZ0522,Jičín
+CZ0522,Bašnice
+CZ0522,Běchary
+CZ0522,Boháňka
+CZ0522,Tetín
+CZ0522,Bystřice
+CZ0522,Cerekvice nad Bystřicí
+CZ0522,Češov
+CZ0522,Dětenice
+CZ0522,Dobrá Voda u Hořic
+CZ0522,Holín
+CZ0522,Holovousy
+CZ0522,Hořice
+CZ0522,Chomutice
+CZ0522,Jeřice
+CZ0522,Jičíněves
+CZ0522,Kněžnice
+CZ0522,Konecchlumí
+CZ0522,Kopidlno
+CZ0522,Lískovice
+CZ0522,Lázně Bělohrad
+CZ0522,Libáň
+CZ0522,Libošovice
+CZ0522,Libuň
+CZ0522,Lukavec u Hořic
+CZ0522,Lužany
+CZ0522,Markvartice
+CZ0522,Miletín
+CZ0522,Zelenecká Lhota
+CZ0522,Mladějov
+CZ0522,Mlázovice
+CZ0522,Rohoznice
+CZ0522,Nemyčeves
+CZ0522,Nová Paka
+CZ0522,Šárovcova Lhota
+CZ0522,Osek
+CZ0522,Ostroměř
+CZ0522,Ostružno
+CZ0522,Pecka
+CZ0522,Svatojanský Újezd
+CZ0522,Podhorní Újezd a Vojice
+CZ0522,Podhradí
+CZ0522,Dřevěnice
+CZ0522,Podůlší
+CZ0522,Bukvice
+CZ0522,Soběraz
+CZ0522,Radim
+CZ0522,Samšina
+CZ0522,Sběř
+CZ0522,Slatiny
+CZ0522,Sobčice
+CZ0522,Sobotka
+CZ0522,Stará Paka
+CZ0522,Staré Smrkovice
+CZ0522,Střevač
+CZ0522,Třebnouševes
+CZ0522,Třtěnice
+CZ0522,Tuř
+CZ0522,Úbislavice
+CZ0522,Údrnice
+CZ0522,Úhlejov
+CZ0522,Újezd pod Troskami
+CZ0522,Úlibice
+CZ0522,Valdice
+CZ0522,Veliš
+CZ0522,Vidochov
+CZ0522,Vitiněves
+CZ0522,Volanice
+CZ0522,Vršce
+CZ0522,Vysoké Veselí
+CZ0522,Železnice
+CZ0522,Žeretice
+CZ0522,Židovice
+CZ0522,Žlunice
+CZ0523,Červená Hora
+CZ0523,Říkov
+CZ0523,Hořenice
+CZ0523,Vestec
+CZ0523,Velké Poříčí
+CZ0523,Šestajovice
+CZ0523,Libchyně
+CZ0523,Sendraž
+CZ0523,Vernéřovice
+CZ0523,Bukovice
+CZ0523,Adršpach
+CZ0523,Litoboř
+CZ0523,Náchod
+CZ0523,Bezděkov nad Metují
+CZ0523,Bohuslavice
+CZ0523,Borová
+CZ0523,Božanov
+CZ0523,Broumov
+CZ0523,Brzice
+CZ0523,Černčice
+CZ0523,Červený Kostelec
+CZ0523,Česká Čermná
+CZ0523,Česká Metuje
+CZ0523,Česká Skalice
+CZ0523,Dolany
+CZ0523,Dolní Radechová
+CZ0523,Hejtmánkovice
+CZ0523,Heřmanice
+CZ0523,Heřmánkovice
+CZ0523,Horní Radechová
+CZ0523,Hořičky
+CZ0523,Hronov
+CZ0523,Chvalkovice
+CZ0523,Jaroměř
+CZ0523,Jasenná
+CZ0523,Jestřebí
+CZ0523,Jetřichov
+CZ0523,Hynčice
+CZ0523,Křinice
+CZ0523,Lhota pod Hořičkami
+CZ0523,Machov
+CZ0523,Martínkovice
+CZ0523,Mezilečí
+CZ0523,Mezilesí
+CZ0523,Meziměstí
+CZ0523,Nahořany
+CZ0523,Nové Město nad Metují
+CZ0523,Nový Hrádek
+CZ0523,Nový Ples
+CZ0523,Otovice
+CZ0523,Police nad Metují
+CZ0523,Provodov-Šonov
+CZ0523,Přibyslav
+CZ0523,Rasošky
+CZ0523,Rožnov
+CZ0523,Rychnovek
+CZ0523,Slatina nad Úpou
+CZ0523,Slavětín nad Metují
+CZ0523,Slavoňov
+CZ0523,Stárkov
+CZ0523,Studnice
+CZ0523,Suchý Důl
+CZ0523,Šonov
+CZ0523,Teplice nad Metují
+CZ0523,Kramolna
+CZ0523,Velichovky
+CZ0523,Velká Jesenice
+CZ0523,Velké Petrovice
+CZ0523,Velký Třebešov
+CZ0523,Vlkov
+CZ0523,Vršovka
+CZ0523,Vysoká Srbská
+CZ0523,Vysokov
+CZ0523,Zábrodí
+CZ0523,Zaloňov
+CZ0523,Žďár nad Metují
+CZ0523,Žďárky
+CZ0523,Žernov
+CZ0524,Hřibiny-Ledská
+CZ0524,Libel
+CZ0524,Rohenice
+CZ0524,Krchleby
+CZ0524,Svídnice
+CZ0524,Vrbice
+CZ0524,Polom
+CZ0524,Proruby
+CZ0524,Jahodov
+CZ0524,Chlístov
+CZ0524,Rychnov nad Kněžnou
+CZ0524,Albrechtice nad Orlicí
+CZ0524,Bačetín
+CZ0524,Bartošovice v Orlických horách
+CZ0524,Bílý Újezd
+CZ0524,Bohdašín
+CZ0524,Bolehošť
+CZ0524,Borohrádek
+CZ0524,Borovnice
+CZ0524,Bystré
+CZ0524,Byzhradec
+CZ0524,Častolovice
+CZ0524,Čermná nad Orlicí
+CZ0524,Černíkovice
+CZ0524,České Meziříčí
+CZ0524,Čestice
+CZ0524,Deštné v Orlických horách
+CZ0524,Dobré
+CZ0524,Dobruška
+CZ0524,Dobřany
+CZ0524,Doudleby nad Orlicí
+CZ0524,Chleny
+CZ0524,Janov
+CZ0524,Javornice
+CZ0524,Kostelec nad Orlicí
+CZ0524,Kostelecké Horky
+CZ0524,Kounov
+CZ0524,Králova Lhota
+CZ0524,Kvasiny
+CZ0524,Lhoty u Potštejna
+CZ0524,Liberk
+CZ0524,Lično
+CZ0524,Lípa nad Orlicí
+CZ0524,Lukavice
+CZ0524,Lupenice
+CZ0524,Mokré
+CZ0524,Nová Ves
+CZ0524,Očelice
+CZ0524,Ohnišov
+CZ0524,Olešnice v Orlických horách
+CZ0524,Olešnice
+CZ0524,Opočno
+CZ0524,Orlické Záhoří
+CZ0524,Osečnice
+CZ0524,Pěčín
+CZ0524,Podbřezí
+CZ0524,Pohoří
+CZ0524,Potštejn
+CZ0524,Přepychy
+CZ0524,Rokytnice v Orlických horách
+CZ0524,Rybná nad Zdobnicí
+CZ0524,Říčky v Orlických horách
+CZ0524,Sedloňov
+CZ0524,Semechnice
+CZ0524,Skuhrov nad Bělou
+CZ0524,Slatina nad Zdobnicí
+CZ0524,Sněžné
+CZ0524,Solnice
+CZ0524,Synkov-Slemeno
+CZ0524,Trnov
+CZ0524,Třebešov
+CZ0524,Tutleky
+CZ0524,Týniště nad Orlicí
+CZ0524,Val
+CZ0524,Vamberk
+CZ0524,Voděrady
+CZ0524,Záměl
+CZ0524,Zdelov
+CZ0524,Zdobnice
+CZ0524,Žďár nad Orlicí
+CZ0525,Královec
+CZ0525,Litíč
+CZ0525,Lampertice
+CZ0525,Stanovice
+CZ0525,Borovnička
+CZ0525,Zábřezí-Řečice
+CZ0525,Zdobín
+CZ0525,Dolní Brusnice
+CZ0525,Vilantice
+CZ0525,Trutnov
+CZ0525,Batňovice
+CZ0525,Bernartice
+CZ0525,Bílá Třemešná
+CZ0525,Bílé Poličany
+CZ0525,Borovnice
+CZ0525,Čermná
+CZ0525,Černý Důl
+CZ0525,Dolní Branná
+CZ0525,Dolní Dvůr
+CZ0525,Dolní Kalná
+CZ0525,Dolní Lánov
+CZ0525,Dolní Olešnice
+CZ0525,Doubravice
+CZ0525,Dubenec
+CZ0525,Dvůr Králové nad Labem
+CZ0525,Hajnice
+CZ0525,Havlovice
+CZ0525,Horní Brusnice
+CZ0525,Horní Kalná
+CZ0525,Horní Maršov
+CZ0525,Horní Olešnice
+CZ0525,Hostinné
+CZ0525,Hřibojedy
+CZ0525,Chotěvice
+CZ0525,Choustníkovo Hradiště
+CZ0525,Chvaleč
+CZ0525,Janské Lázně
+CZ0525,Jívka
+CZ0525,Klášterská Lhota
+CZ0525,Kocbeře
+CZ0525,Kohoutov
+CZ0525,Kuks
+CZ0525,Kunčice nad Labem
+CZ0525,Lánov
+CZ0525,Lanžov
+CZ0525,Libňatov
+CZ0525,Libotov
+CZ0525,Malá Úpa
+CZ0525,Malé Svatoňovice
+CZ0525,Maršov u Úpice
+CZ0525,Mladé Buky
+CZ0525,Mostek
+CZ0525,Nemojov
+CZ0525,Pec pod Sněžkou
+CZ0525,Pilníkov
+CZ0525,Prosečné
+CZ0525,Radvanice
+CZ0525,Rtyně v Podkrkonoší
+CZ0525,Rudník
+CZ0525,Staré Buky
+CZ0525,Strážné
+CZ0525,Suchovršice
+CZ0525,Svoboda nad Úpou
+CZ0525,Špindlerův Mlýn
+CZ0525,Trotina
+CZ0525,Třebihošť
+CZ0525,Úpice
+CZ0525,Velké Svatoňovice
+CZ0525,Velký Vřešťov
+CZ0525,Vítězná
+CZ0525,Vlčice
+CZ0525,Vlčkovice v Podkrkonoší
+CZ0525,Vrchlabí
+CZ0525,Zlatá Olešnice
+CZ0525,Žacléř
+CZ0531,Dřenice
+CZ0531,Lány
+CZ0531,Třibřichy
+CZ0531,Dvakačovice
+CZ0531,Bítovany
+CZ0531,Dolní Bezděkov
+CZ0531,Úherčice
+CZ0531,Hodonín
+CZ0531,Rozhovice
+CZ0531,Jeníkov
+CZ0531,Křižanovice
+CZ0531,Licibořice
+CZ0531,Vyžice
+CZ0531,Zájezdec
+CZ0531,Bor u Skutče
+CZ0531,Lipovec
+CZ0531,Stolany
+CZ0531,Mrákotín
+CZ0531,Otradov
+CZ0531,Rabštejnská Lhota
+CZ0531,Chrudim
+CZ0531,Běstvina
+CZ0531,Bojanov
+CZ0531,Bořice
+CZ0531,Bousov
+CZ0531,Bylany
+CZ0531,Ctětín
+CZ0531,Čankovice
+CZ0531,České Lhotice
+CZ0531,Dědová
+CZ0531,Hamry
+CZ0531,Heřmanův Městec
+CZ0531,Hlinsko
+CZ0531,Hluboká
+CZ0531,Holetín
+CZ0531,Honbice
+CZ0531,Horka
+CZ0531,Horní Bradlo
+CZ0531,Hošťalovice
+CZ0531,Hrochův Týnec
+CZ0531,Hroubovice
+CZ0531,Chrast
+CZ0531,Chroustovice
+CZ0531,Jenišovice
+CZ0531,Kameničky
+CZ0531,Kladno
+CZ0531,Kočí
+CZ0531,Kostelec u Heřmanova Městce
+CZ0531,Krásné
+CZ0531,Krouna
+CZ0531,Leštinka
+CZ0531,Libkov
+CZ0531,Liboměřice
+CZ0531,Lozice
+CZ0531,Lukavice
+CZ0531,Luže
+CZ0531,Míčov-Sušice
+CZ0531,Miřetice
+CZ0531,Mladoňovice
+CZ0531,Morašice
+CZ0531,Nabočany
+CZ0531,Načešice
+CZ0531,Nasavrky
+CZ0531,Orel
+CZ0531,Perálec
+CZ0531,Podhořany u Ronova
+CZ0531,Pokřikov
+CZ0531,Prachovice
+CZ0531,Proseč
+CZ0531,Prosetín
+CZ0531,Předhradí
+CZ0531,Přestavlky
+CZ0531,Raná
+CZ0531,Ronov nad Doubravou
+CZ0531,Rosice
+CZ0531,Řestoky
+CZ0531,Seč
+CZ0531,Skuteč
+CZ0531,Slatiňany
+CZ0531,Sobětuchy
+CZ0531,Střemošice
+CZ0531,Studnice
+CZ0531,Svídnice
+CZ0531,Svratouch
+CZ0531,Tisovec
+CZ0531,Trhová Kamenice
+CZ0531,Trojovice
+CZ0531,Třemošnice
+CZ0531,Tuněchody
+CZ0531,Úhřetice
+CZ0531,Vápenný Podol
+CZ0531,Včelákov
+CZ0531,Vejvanovice
+CZ0531,Vítanov
+CZ0531,Vojtěchov
+CZ0531,Vortová
+CZ0531,Vrbatův Kostelec
+CZ0531,Všeradov
+CZ0531,Vysočina
+CZ0531,Zaječice
+CZ0531,Žumberk
+CZ0531,Klešice
+CZ0531,Smrček
+CZ0531,Zderaz
+CZ0531,Biskupice
+CZ0531,Kněžice
+CZ0531,Žlebské Chvalovice
+CZ0531,Ostrov
+CZ0532,Trnávka
+CZ0532,Srnojedy
+CZ0532,Pardubice IV
+CZ0532,Pardubice VI
+CZ0532,Pardubice VII
+CZ0532,Pardubice II
+CZ0532,Pardubice III
+CZ0532,Pardubice V
+CZ0532,Pardubice I
+CZ0532,Pardubice VIII
+CZ0532,Pardubice
+CZ0532,Chrtníky
+CZ0532,Časy
+CZ0532,Malé Výkleky
+CZ0532,Lány u Dašic
+CZ0532,Pravy
+CZ0532,Křičeň
+CZ0532,Němčice
+CZ0532,Újezd u Sezemic
+CZ0532,Černá u Bohdanče
+CZ0532,Stéblová
+CZ0532,Plch
+CZ0532,Podůlšany
+CZ0532,Dubany
+CZ0532,Třebosice
+CZ0532,Holotín
+CZ0532,Sovolusky
+CZ0532,Morašice
+CZ0532,Neratov
+CZ0532,Kunětice
+CZ0532,Spojil
+CZ0532,Barchov
+CZ0532,Bezděkov
+CZ0532,Lázně Bohdaneč
+CZ0532,Borek
+CZ0532,Brloh
+CZ0532,Břehy
+CZ0532,Bukovina nad Labem
+CZ0532,Bukovina u Přelouče
+CZ0532,Bukovka
+CZ0532,Býšť
+CZ0532,Čeperka
+CZ0532,Čepí
+CZ0532,Dašice
+CZ0532,Dolany
+CZ0532,Dolní Roveň
+CZ0532,Dolní Ředice
+CZ0532,Dříteč
+CZ0532,Hlavečník
+CZ0532,Holice
+CZ0532,Horní Jelení
+CZ0532,Horní Ředice
+CZ0532,Hrobice
+CZ0532,Choltice
+CZ0532,Choteč
+CZ0532,Chvaletice
+CZ0532,Chvojenec
+CZ0532,Chýšť
+CZ0532,Jankovice
+CZ0532,Jaroslav
+CZ0532,Jedousov
+CZ0532,Jeníkovice
+CZ0532,Jezbořice
+CZ0532,Kasalice
+CZ0532,Kladruby nad Labem
+CZ0532,Kojice
+CZ0532,Kostěnice
+CZ0532,Labské Chrčice
+CZ0532,Libišany
+CZ0532,Lipoltice
+CZ0532,Litošice
+CZ0532,Mikulovice
+CZ0532,Mokošín
+CZ0532,Moravany
+CZ0532,Opatovice nad Labem
+CZ0532,Ostřešany
+CZ0532,Ostřetín
+CZ0532,Poběžovice u Holic
+CZ0532,Poběžovice u Přelouče
+CZ0532,Přelouč
+CZ0532,Přelovice
+CZ0532,Přepychy
+CZ0532,Ráby
+CZ0532,Rohovládova Bělá
+CZ0532,Rohoznice
+CZ0532,Rokytno
+CZ0532,Rybitví
+CZ0532,Řečany nad Labem
+CZ0532,Selmice
+CZ0532,Semín
+CZ0532,Sezemice
+CZ0532,Slepotice
+CZ0532,Sopřeč
+CZ0532,Srch
+CZ0532,Staré Hradiště
+CZ0532,Staré Jesenčany
+CZ0532,Staré Ždánice
+CZ0532,Starý Mateřov
+CZ0532,Stojice
+CZ0532,Strašov
+CZ0532,Svinčany
+CZ0532,Svojšice
+CZ0532,Tetov
+CZ0532,Trusnov
+CZ0532,Turkovice
+CZ0532,Uhersko
+CZ0532,Úhřetická Lhota
+CZ0532,Újezd u Přelouče
+CZ0532,Urbanice
+CZ0532,Valy
+CZ0532,Vápno
+CZ0532,Veliny
+CZ0532,Veselí
+CZ0532,Vlčí Habřina
+CZ0532,Voleč
+CZ0532,Vysoké Chvojno
+CZ0532,Vyšehněvice
+CZ0532,Zdechovice
+CZ0532,Žáravice
+CZ0532,Živanice
+CZ0533,Březová nad Svitavou
+CZ0533,Bělá u Jevíčka
+CZ0533,Želivsko
+CZ0533,Řídký
+CZ0533,Březinky
+CZ0533,Hartinkov
+CZ0533,Vrážné
+CZ0533,Desná
+CZ0533,Horní Újezd
+CZ0533,Poříčí u Litomyšle
+CZ0533,Nová Ves u Jarošova
+CZ0533,Biskupice
+CZ0533,Banín
+CZ0533,Bělá nad Svitavou
+CZ0533,Kukle
+CZ0533,Nová Sídla
+CZ0533,Tržek
+CZ0533,Útěchov
+CZ0533,Borušov
+CZ0533,Dětřichov u Moravské Třebové
+CZ0533,Hradec nad Svitavou
+CZ0533,Javorník
+CZ0533,Opatovec
+CZ0533,Chmelík
+CZ0533,Karle
+CZ0533,Bezděčí u Trnávky
+CZ0533,Gruna
+CZ0533,Radkov
+CZ0533,Svitavy
+CZ0533,Benátky
+CZ0533,Bohuňov
+CZ0533,Bohuňovice
+CZ0533,Borová
+CZ0533,Brněnec
+CZ0533,Březina
+CZ0533,Březiny
+CZ0533,Budislav
+CZ0533,Bystré
+CZ0533,Cerekvice nad Loučnou
+CZ0533,Čistá
+CZ0533,Dětřichov
+CZ0533,Dlouhá Loučka
+CZ0533,Dolní Újezd
+CZ0533,Hartmanice
+CZ0533,Horky
+CZ0533,Chornice
+CZ0533,Chotěnov
+CZ0533,Chotovice
+CZ0533,Chrastavec
+CZ0533,Janov
+CZ0533,Janůvky
+CZ0533,Jaroměřice
+CZ0533,Jarošov
+CZ0533,Jedlová
+CZ0533,Jevíčko
+CZ0533,Kamenec u Poličky
+CZ0533,Kamenná Horka
+CZ0533,Koclířov
+CZ0533,Korouhev
+CZ0533,Koruna
+CZ0533,Křenov
+CZ0533,Kunčina
+CZ0533,Květná
+CZ0533,Lavičné
+CZ0533,Linhartice
+CZ0533,Litomyšl
+CZ0533,Lubná
+CZ0533,Makov
+CZ0533,Malíkov
+CZ0533,Městečko Trnávka
+CZ0533,Mikuleč
+CZ0533,Mladějov na Moravě
+CZ0533,Morašice
+CZ0533,Moravská Třebová
+CZ0533,Nedvězí
+CZ0533,Oldřiš
+CZ0533,Opatov
+CZ0533,Osík
+CZ0533,Pohledy
+CZ0533,Polička
+CZ0533,Pomezí
+CZ0533,Příluka
+CZ0533,Pustá Kamenice
+CZ0533,Pustá Rybná
+CZ0533,Radiměř
+CZ0533,Rohozná
+CZ0533,Rozhraní
+CZ0533,Rozstání
+CZ0533,Rudná
+CZ0533,Rychnov na Moravě
+CZ0533,Sádek
+CZ0533,Sebranice
+CZ0533,Sedliště
+CZ0533,Sklené
+CZ0533,Slatina
+CZ0533,Staré Město
+CZ0533,Stašov
+CZ0533,Strakov
+CZ0533,Suchá Lhota
+CZ0533,Svojanov
+CZ0533,Široký Důl
+CZ0533,Študlov
+CZ0533,Telecí
+CZ0533,Trpín
+CZ0533,Trstěnice
+CZ0533,Třebařov
+CZ0533,Újezdec
+CZ0533,Vendolí
+CZ0533,Vidlatá Seč
+CZ0533,Víska u Jevíčka
+CZ0533,Vítějeves
+CZ0533,Vranová Lhota
+CZ0533,Vysoká
+CZ0533,Sloupnice
+CZ0533,Němčice
+CZ0533,Vlčkov
+CZ0534,Rybník
+CZ0534,Trpík
+CZ0534,Sobkovice
+CZ0534,Hrádek
+CZ0534,Albrechtice
+CZ0534,Bošín
+CZ0534,Dlouhá Třebová
+CZ0534,Vračovice-Orlov
+CZ0534,Dlouhoňovice
+CZ0534,Helvíkovice
+CZ0534,Běstovice
+CZ0534,Semanín
+CZ0534,Leština
+CZ0534,Nové Hrady
+CZ0534,Řepníky
+CZ0534,Stradouň
+CZ0534,Vinary
+CZ0534,Anenská Studánka
+CZ0534,Sázava
+CZ0534,Kosořín
+CZ0534,Radhošť
+CZ0534,Týnišťko
+CZ0534,Ústí nad Orlicí
+CZ0534,Brandýs nad Orlicí
+CZ0534,Bučina
+CZ0534,Bystřec
+CZ0534,Cotkytle
+CZ0534,Čenkovice
+CZ0534,Červená Voda
+CZ0534,Česká Rybná
+CZ0534,Česká Třebová
+CZ0534,České Heřmanice
+CZ0534,České Libchavy
+CZ0534,České Petrovice
+CZ0534,Damníkov
+CZ0534,Dobříkov
+CZ0534,Dolní Čermná
+CZ0534,Dolní Dobrouč
+CZ0534,Libchavy
+CZ0534,Dolní Morava
+CZ0534,Džbánov
+CZ0534,Hejnice
+CZ0534,Hnátnice
+CZ0534,Horní Čermná
+CZ0534,Horní Heřmanice
+CZ0534,Horní Třešňovec
+CZ0534,Hrušová
+CZ0534,Choceň
+CZ0534,Jablonné nad Orlicí
+CZ0534,Jamné nad Orlicí
+CZ0534,Javorník
+CZ0534,Jehnědí
+CZ0534,Kameničná
+CZ0534,Klášterec nad Orlicí
+CZ0534,Koldín
+CZ0534,Králíky
+CZ0534,Krasíkov
+CZ0534,Kunvald
+CZ0534,Lanškroun
+CZ0534,Letohrad
+CZ0534,Libecina
+CZ0534,Lichkov
+CZ0534,Líšnice
+CZ0534,Lubník
+CZ0534,Lukavice
+CZ0534,Luková
+CZ0534,Mistrovice
+CZ0534,Mladkov
+CZ0534,Mostek
+CZ0534,Nasavrky
+CZ0534,Nekoř
+CZ0534,Svatý Jiří
+CZ0534,Orlické Podhůří
+CZ0534,Orličky
+CZ0534,Ostrov
+CZ0534,Oucmanice
+CZ0534,Pastviny
+CZ0534,Petrovice
+CZ0534,Písečná
+CZ0534,Plchovice
+CZ0534,Podlesí
+CZ0534,Přívrat
+CZ0534,Pustina
+CZ0534,Rudoltice
+CZ0534,Řetová
+CZ0534,Řetůvka
+CZ0534,Seč
+CZ0534,Skořenice
+CZ0534,Slatina
+CZ0534,Sopotnice
+CZ0534,Sruby
+CZ0534,Strážná
+CZ0534,Studené
+CZ0534,Sudislav nad Orlicí
+CZ0534,Sudslava
+CZ0534,Šedivec
+CZ0534,Tatenice
+CZ0534,Těchonín
+CZ0534,Tisová
+CZ0534,Třebovice
+CZ0534,Újezd u Chocně
+CZ0534,Velká Skrovnice
+CZ0534,Verměřovice
+CZ0534,Voděrady
+CZ0534,Vraclav
+CZ0534,Výprachtice
+CZ0534,Vysoké Mýto
+CZ0534,Zádolí
+CZ0534,Záchlumí
+CZ0534,Zálší
+CZ0534,Zámrsk
+CZ0534,Zářecká Lhota
+CZ0534,Žamberk
+CZ0534,Žampach
+CZ0534,Žichlínek
+CZ0631,Hurtova Lhota
+CZ0631,Vysoká
+CZ0631,Ždírec
+CZ0631,Bačkov
+CZ0631,Jitkov
+CZ0631,Kouty
+CZ0631,Nejepín
+CZ0631,Horní Paseka
+CZ0631,Podmoky
+CZ0631,Bartoušov
+CZ0631,Břevnice
+CZ0631,Knyk
+CZ0631,Kyjov
+CZ0631,Michalovice
+CZ0631,Skorkov
+CZ0631,Slavníč
+CZ0631,Ostrov
+CZ0631,Čečkovice
+CZ0631,Jilem
+CZ0631,Sedletín
+CZ0631,Bezděkov
+CZ0631,Dolní Sokolovec
+CZ0631,Lány
+CZ0631,Sloupno
+CZ0631,Kochánov
+CZ0631,Úhořilka
+CZ0631,Slavětín
+CZ0631,Kunemil
+CZ0631,Okrouhlička
+CZ0631,Heřmanice
+CZ0631,Kraborovice
+CZ0631,Zvěstovice
+CZ0631,Podmoklany
+CZ0631,Nová Ves u Světlé
+CZ0631,Havlíčkův Brod
+CZ0631,Bojiště
+CZ0631,Borek
+CZ0631,Čachotín
+CZ0631,Česká Bělá
+CZ0631,Číhošť
+CZ0631,Dlouhá Ves
+CZ0631,Dolní Krupá
+CZ0631,Dolní Město
+CZ0631,Druhanov
+CZ0631,Golčův Jeníkov
+CZ0631,Habry
+CZ0631,Havlíčkova Borová
+CZ0631,Herálec
+CZ0631,Hněvkovice
+CZ0631,Horní Krupá
+CZ0631,Hradec
+CZ0631,Chotěboř
+CZ0631,Chrtníč
+CZ0631,Jedlá
+CZ0631,Jeřišno
+CZ0631,Kámen
+CZ0631,Kamenná Lhota
+CZ0631,Klokočov
+CZ0631,Kojetín
+CZ0631,Kozlov
+CZ0631,Kožlí
+CZ0631,Krásná Hora
+CZ0631,Krátká Ves
+CZ0631,Krucemburk
+CZ0631,Květinov
+CZ0631,Kynice
+CZ0631,Ledeč nad Sázavou
+CZ0631,Leškovice
+CZ0631,Leština u Světlé
+CZ0631,Libice nad Doubravou
+CZ0631,Lípa
+CZ0631,Lipnice nad Sázavou
+CZ0631,Lučice
+CZ0631,Malčín
+CZ0631,Maleč
+CZ0631,Modlíkov
+CZ0631,Nová Ves u Leštiny
+CZ0631,Nová Ves u Chotěboře
+CZ0631,Okrouhlice
+CZ0631,Olešenka
+CZ0631,Olešná
+CZ0631,Oudoleň
+CZ0631,Ovesná Lhota
+CZ0631,Pavlov
+CZ0631,Pohled
+CZ0631,Prosíčka
+CZ0631,Přibyslav
+CZ0631,Příseka
+CZ0631,Radostín
+CZ0631,Rozsochatec
+CZ0631,Rušinov
+CZ0631,Rybníček
+CZ0631,Sázavka
+CZ0631,Skryje
+CZ0631,Skuhrov
+CZ0631,Slavíkov
+CZ0631,Sobíňov
+CZ0631,Stříbrné Hory
+CZ0631,Světlá nad Sázavou
+CZ0631,Šlapanov
+CZ0631,Štoky
+CZ0631,Tis
+CZ0631,Trpišovice
+CZ0631,Uhelná Příbram
+CZ0631,Úsobí
+CZ0631,Vepříkov
+CZ0631,Veselý Žďár
+CZ0631,Věž
+CZ0631,Věžnice
+CZ0631,Vilémov
+CZ0631,Vilémovice
+CZ0631,Vlkanov
+CZ0631,Ždírec nad Doubravou
+CZ0631,Žižkovo Pole
+CZ0631,Boňkov
+CZ0631,Bělá
+CZ0631,Chřenovice
+CZ0631,Víska
+CZ0631,Pohleď
+CZ0631,Služátky
+CZ0632,Dvorce
+CZ0632,Švábov
+CZ0632,Hybrálec
+CZ0632,Smrčná
+CZ0632,Jihlava
+CZ0632,Arnolec
+CZ0632,Batelov
+CZ0632,Bílý Kámen
+CZ0632,Bítovčice
+CZ0632,Bohuslavice
+CZ0632,Boršov
+CZ0632,Brtnice
+CZ0632,Brzkov
+CZ0632,Cejle
+CZ0632,Cerekvička-Rosice
+CZ0632,Černíč
+CZ0632,Dlouhá Brtnice
+CZ0632,Dobronín
+CZ0632,Dobroutov
+CZ0632,Dolní Cerekev
+CZ0632,Dolní Vilímeč
+CZ0632,Doupě
+CZ0632,Dudín
+CZ0632,Dušejov
+CZ0632,Dyjice
+CZ0632,Čížov
+CZ0632,Hladov
+CZ0632,Hodice
+CZ0632,Hojkov
+CZ0632,Horní Dubenky
+CZ0632,Rančířov
+CZ0632,Borovná
+CZ0632,Hostětice
+CZ0632,Horní Myslová
+CZ0632,Olší
+CZ0632,Hubenov
+CZ0632,Zadní Vydří
+CZ0632,Jamné
+CZ0632,Jersín
+CZ0632,Jezdovice
+CZ0632,Ježená
+CZ0632,Jihlávka
+CZ0632,Jindřichovice
+CZ0632,Kalhov
+CZ0632,Kaliště
+CZ0632,Kamenice
+CZ0632,Kamenná
+CZ0632,Klatovec
+CZ0632,Knínice
+CZ0632,Kostelec
+CZ0632,Kostelní Myslová
+CZ0632,Kozlov
+CZ0632,Krahulčí
+CZ0632,Krasonice
+CZ0632,Lhotka
+CZ0632,Luka nad Jihlavou
+CZ0632,Malý Beranov
+CZ0632,Markvartice
+CZ0632,Měšín
+CZ0632,Milíčov
+CZ0632,Mirošov
+CZ0632,Mrákotín
+CZ0632,Mysletice
+CZ0632,Mysliboř
+CZ0632,Nadějov
+CZ0632,Nevcehle
+CZ0632,Nová Říše
+CZ0632,Olšany
+CZ0632,Opatov
+CZ0632,Ořechov
+CZ0632,Otín
+CZ0632,Panenská Rozsíčka
+CZ0632,Panské Dubenky
+CZ0632,Pavlov
+CZ0632,Plandry
+CZ0632,Polná
+CZ0632,Puklice
+CZ0632,Radkov
+CZ0632,Rantířov
+CZ0632,Rohozná
+CZ0632,Rozseč
+CZ0632,Růžená
+CZ0632,Rybné
+CZ0632,Řásná
+CZ0632,Řídelov
+CZ0632,Sedlatice
+CZ0632,Sedlejov
+CZ0632,Stáj
+CZ0632,Stará Říše
+CZ0632,Stonařov
+CZ0632,Strachoňovice
+CZ0632,Střítež
+CZ0632,Suchá
+CZ0632,Svojkovice
+CZ0632,Šimanov
+CZ0632,Telč
+CZ0632,Třešť
+CZ0632,Třeštice
+CZ0632,Urbanov
+CZ0632,Ústí
+CZ0632,Vanov
+CZ0632,Vanůvek
+CZ0632,Vápovice
+CZ0632,Velký Beranov
+CZ0632,Větrný Jeníkov
+CZ0632,Věžnice
+CZ0632,Věžnička
+CZ0632,Vílanec
+CZ0632,Volevčice
+CZ0632,Vyskytná nad Jihlavou
+CZ0632,Vysoké Studnice
+CZ0632,Vystrčenovice
+CZ0632,Záborná
+CZ0632,Zbilidy
+CZ0632,Zbinohy
+CZ0632,Zdeňkov
+CZ0632,Zhoř
+CZ0632,Zvolenovice
+CZ0632,Žatec
+CZ0632,Ždírec
+CZ0632,Brtnička
+CZ0632,Hrutov
+CZ0632,Kněžice
+CZ0633,Arneštovice
+CZ0633,Bořetín
+CZ0633,Čelistná
+CZ0633,Mezná
+CZ0633,Důl
+CZ0633,Střítež
+CZ0633,Ústrašín
+CZ0633,Ondřejov
+CZ0633,Útěchovičky
+CZ0633,Proseč
+CZ0633,Pelhřimov
+CZ0633,Bohdalín
+CZ0633,Božejov
+CZ0633,Bratřice
+CZ0633,Budíkov
+CZ0633,Cetoraz
+CZ0633,Čáslavsko
+CZ0633,Častrov
+CZ0633,Čejov
+CZ0633,Černovice
+CZ0633,Červená Řečice
+CZ0633,Hojanovice
+CZ0633,Horní Cerekev
+CZ0633,Horní Ves
+CZ0633,Hořepník
+CZ0633,Hořice
+CZ0633,Humpolec
+CZ0633,Ježov
+CZ0633,Jiřice
+CZ0633,Kaliště
+CZ0633,Kámen
+CZ0633,Kamenice nad Lipou
+CZ0633,Kejžlice
+CZ0633,Koberovice
+CZ0633,Komorovice
+CZ0633,Košetice
+CZ0633,Křeč
+CZ0633,Křelovice
+CZ0633,Křešín
+CZ0633,Leskovice
+CZ0633,Lukavec
+CZ0633,Mezilesí
+CZ0633,Mladé Bříště
+CZ0633,Mnich
+CZ0633,Moraveč
+CZ0633,Nová Cerekev
+CZ0633,Nový Rychnov
+CZ0633,Obrataň
+CZ0633,Onšov
+CZ0633,Pacov
+CZ0633,Píšť
+CZ0633,Počátky
+CZ0633,Pošná
+CZ0633,Řečice
+CZ0633,Salačova Lhota
+CZ0633,Samšín
+CZ0633,Sedlice
+CZ0633,Senožaty
+CZ0633,Těmice
+CZ0633,Útěchovice
+CZ0633,Včelnička
+CZ0633,Velká Chyška
+CZ0633,Velký Rybník
+CZ0633,Veselá
+CZ0633,Věžná
+CZ0633,Vojslavice
+CZ0633,Vyklantice
+CZ0633,Vyskytná
+CZ0633,Zachotín
+CZ0633,Želiv
+CZ0633,Žirovnice
+CZ0633,Dubovice
+CZ0633,Horní Rápotice
+CZ0633,Hojovice
+CZ0633,Lidmaň
+CZ0633,Bácovice
+CZ0633,Bělá
+CZ0633,Černov
+CZ0633,Nová Buková
+CZ0633,Bořetice
+CZ0633,Litohošť
+CZ0633,Rovná
+CZ0633,Lhota-Vlasenice
+CZ0633,Buřenice
+CZ0633,Chyšná
+CZ0633,Chýstovice
+CZ0633,Martinice u Onšova
+CZ0633,Těchobuz
+CZ0633,Zhořec
+CZ0633,Krasíkovice
+CZ0633,Polesí
+CZ0633,Stojčín
+CZ0633,Jankov
+CZ0633,Střítež pod Křemešníkem
+CZ0633,Eš
+CZ0633,Dobrá Voda u Pacova
+CZ0633,Vysoká Lhota
+CZ0633,Rodinov
+CZ0633,Vystrkov
+CZ0633,Bystrá
+CZ0633,Mysletín
+CZ0633,Staré Bříště
+CZ0633,Žirov
+CZ0633,Pavlov
+CZ0633,Dehtáře
+CZ0633,Dobrá Voda
+CZ0633,Proseč pod Křemešníkem
+CZ0633,Olešná
+CZ0633,Zajíčkov
+CZ0633,Rynárec
+CZ0633,Útěchovice pod Stražištěm
+CZ0633,Lesná
+CZ0633,Zlátenka
+CZ0633,Čížkov
+CZ0633,Kojčice
+CZ0633,Libkova Voda
+CZ0633,Putimov
+CZ0633,Svépravice
+CZ0633,Syrov
+CZ0633,Vokov
+CZ0634,Láz
+CZ0634,Kojatín
+CZ0634,Ocmanice
+CZ0634,Sedlec
+CZ0634,Vícenice u Náměště nad Oslavou
+CZ0634,Rácovice
+CZ0634,Příštpo
+CZ0634,Bačkovice
+CZ0634,Lhotice
+CZ0634,Lovčovice
+CZ0634,Menhartice
+CZ0634,Radotice
+CZ0634,Slavíkovice
+CZ0634,Kožichovice
+CZ0634,Okřešice
+CZ0634,Kuroslepy
+CZ0634,Třesov
+CZ0634,Pokojovice
+CZ0634,Martínkov
+CZ0634,Bohušice
+CZ0634,Pálovice
+CZ0634,Chotěbudice
+CZ0634,Radkovice u Budče
+CZ0634,Litohoř
+CZ0634,Lukov
+CZ0634,Jiratice
+CZ0634,Horní Smrčné
+CZ0634,Hroznatín
+CZ0634,Krahulov
+CZ0634,Naloučany
+CZ0634,Častohostice
+CZ0634,Střítež
+CZ0634,Lesůňky
+CZ0634,Stropešín
+CZ0634,Lomy
+CZ0634,Dolní Lažany
+CZ0634,Valdíkov
+CZ0634,Vícenice
+CZ0634,Třebíč
+CZ0634,Babice
+CZ0634,Bačice
+CZ0634,Benetice
+CZ0634,Biskupice-Pulkov
+CZ0634,Blatnice
+CZ0634,Bochovice
+CZ0634,Bransouze
+CZ0634,Březník
+CZ0634,Budišov
+CZ0634,Budkov
+CZ0634,Cidlina
+CZ0634,Čáslavice
+CZ0634,Čechočovice
+CZ0634,Čechtín
+CZ0634,Červená Lhota
+CZ0634,Číhalín
+CZ0634,Číchov
+CZ0634,Čikov
+CZ0634,Číměř
+CZ0634,Dalešice
+CZ0634,Dědice
+CZ0634,Dešov
+CZ0634,Dolní Vilémovice
+CZ0634,Domamil
+CZ0634,Dukovany
+CZ0634,Hartvíkovice
+CZ0634,Heraltice
+CZ0634,Hluboké
+CZ0634,Hodov
+CZ0634,Horní Heřmanice
+CZ0634,Horní Újezd
+CZ0634,Horní Vilémovice
+CZ0634,Hornice
+CZ0634,Hrotovice
+CZ0634,Hvězdoňovice
+CZ0634,Chlístov
+CZ0634,Chlum
+CZ0634,Jakubov u Moravských Budějovic
+CZ0634,Jaroměřice nad Rokytnou
+CZ0634,Jasenice
+CZ0634,Jemnice
+CZ0634,Jinošov
+CZ0634,Kamenná
+CZ0634,Kdousov
+CZ0634,Kladeruby nad Oslavou
+CZ0634,Klučov
+CZ0634,Kojatice
+CZ0634,Kojetice
+CZ0634,Komárovice
+CZ0634,Koněšín
+CZ0634,Kostníky
+CZ0634,Kouty
+CZ0634,Kozlany
+CZ0634,Kralice nad Oslavou
+CZ0634,Kramolín
+CZ0634,Krhov
+CZ0634,Krokočín
+CZ0634,Lesná
+CZ0634,Lesní Jakubov
+CZ0634,Lesonice
+CZ0634,Lhánice
+CZ0634,Lipník
+CZ0634,Litovany
+CZ0634,Loukovice
+CZ0634,Markvartice
+CZ0634,Mastník
+CZ0634,Meziříčko
+CZ0634,Mikulovice
+CZ0634,Mladoňovice
+CZ0634,Mohelno
+CZ0634,Moravské Budějovice
+CZ0634,Myslibořice
+CZ0634,Náměšť nad Oslavou
+CZ0634,Nárameč
+CZ0634,Nimpšov
+CZ0634,Nová Ves
+CZ0634,Nové Syrovice
+CZ0634,Nový Telečkov
+CZ0634,Odunec
+CZ0634,Okarec
+CZ0634,Okříšky
+CZ0634,Opatov
+CZ0634,Oponešice
+CZ0634,Ostašov
+CZ0634,Petrovice
+CZ0634,Petrůvky
+CZ0634,Police
+CZ0634,Popůvky
+CZ0634,Pozďatín
+CZ0634,Přeckov
+CZ0634,Předín
+CZ0634,Přešovice
+CZ0634,Přibyslavice
+CZ0634,Pucov
+CZ0634,Pyšel
+CZ0634,Račice
+CZ0634,Radkovice u Hrotovic
+CZ0634,Radonín
+CZ0634,Radošov
+CZ0634,Rapotice
+CZ0634,Rohy
+CZ0634,Rokytnice nad Rokytnou
+CZ0634,Rouchovany
+CZ0634,Rudíkov
+CZ0634,Římov
+CZ0634,Slavětice
+CZ0634,Slavičky
+CZ0634,Smrk
+CZ0634,Stařeč
+CZ0634,Studenec
+CZ0634,Studnice
+CZ0634,Sudice
+CZ0634,Svatoslav
+CZ0634,Šebkovice
+CZ0634,Štěměchy
+CZ0634,Štěpkov
+CZ0634,Trnava
+CZ0634,Třebelovice
+CZ0634,Třebenice
+CZ0634,Valeč
+CZ0634,Vladislav
+CZ0634,Vlčatín
+CZ0634,Výčapy
+CZ0634,Zahrádka
+CZ0634,Zárubice
+CZ0634,Zašovice
+CZ0634,Zvěrkovice
+CZ0634,Želetava
+CZ0635,Oslavička
+CZ0635,Milasín
+CZ0635,Střítež
+CZ0635,Pikárec
+CZ0635,Radkov
+CZ0635,Rosička
+CZ0635,Ubušínek
+CZ0635,Meziříčko
+CZ0635,Rodkov
+CZ0635,Tři Studně
+CZ0635,Milešín
+CZ0635,Křídla
+CZ0635,Vlachovice
+CZ0635,Velké Tresné
+CZ0635,Nové Dvory
+CZ0635,Cikháj
+CZ0635,Račín
+CZ0635,Sazomín
+CZ0635,Vysoké
+CZ0635,Tasov
+CZ0635,Žďár nad Sázavou
+CZ0635,Baliny
+CZ0635,Blažkov
+CZ0635,Blízkov
+CZ0635,Bobrová
+CZ0635,Bobrůvka
+CZ0635,Bohdalec
+CZ0635,Bohdalov
+CZ0635,Bohuňov
+CZ0635,Borovnice
+CZ0635,Březejc
+CZ0635,Březí
+CZ0635,Březí nad Oslavou
+CZ0635,Březské
+CZ0635,Budeč
+CZ0635,Bukov
+CZ0635,Bystřice nad Pernštejnem
+CZ0635,Býšovec
+CZ0635,Černá
+CZ0635,Dalečín
+CZ0635,Daňkovice
+CZ0635,Dlouhé
+CZ0635,Dobrá Voda
+CZ0635,Dolní Heřmanice
+CZ0635,Dolní Libochová
+CZ0635,Dolní Rožínka
+CZ0635,Fryšava pod Žákovou horou
+CZ0635,Hamry nad Sázavou
+CZ0635,Herálec
+CZ0635,Heřmanov
+CZ0635,Hodíškov
+CZ0635,Bory
+CZ0635,Horní Libochová
+CZ0635,Horní Radslavice
+CZ0635,Horní Rožínka
+CZ0635,Chlum-Korouhvice
+CZ0635,Chlumek
+CZ0635,Chlumětín
+CZ0635,Jabloňov
+CZ0635,Javorek
+CZ0635,Jámy
+CZ0635,Jimramov
+CZ0635,Jívoví
+CZ0635,Kadolec
+CZ0635,Kadov
+CZ0635,Karlov
+CZ0635,Kněževes
+CZ0635,Koroužné
+CZ0635,Kotlasy
+CZ0635,Kozlov
+CZ0635,Krásné
+CZ0635,Krásněves
+CZ0635,Křižánky
+CZ0635,Křižanov
+CZ0635,Křoví
+CZ0635,Kuklík
+CZ0635,Kundratice
+CZ0635,Kyjov
+CZ0635,Lavičky
+CZ0635,Lhotka
+CZ0635,Lísek
+CZ0635,Líšná
+CZ0635,Malá Losenice
+CZ0635,Martinice
+CZ0635,Matějov
+CZ0635,Měřín
+CZ0635,Mirošov
+CZ0635,Moravec
+CZ0635,Moravecké Pavlovice
+CZ0635,Netín
+CZ0635,Nížkov
+CZ0635,Nová Ves
+CZ0635,Nová Ves u Nového Města na Moravě
+CZ0635,Nové Město na Moravě
+CZ0635,Nové Sady
+CZ0635,Nové Veselí
+CZ0635,Nový Jimramov
+CZ0635,Nyklovice
+CZ0635,Obyčtov
+CZ0635,Ořechov
+CZ0635,Oslavice
+CZ0635,Osová Bítýška
+CZ0635,Osové
+CZ0635,Ostrov nad Oslavou
+CZ0635,Otín
+CZ0635,Pavlínov
+CZ0635,Pavlov
+CZ0635,Petráveč
+CZ0635,Písečné
+CZ0635,Počítky
+CZ0635,Poděšín
+CZ0635,Podolí
+CZ0635,Pokojov
+CZ0635,Polnička
+CZ0635,Prosetín
+CZ0635,Račice
+CZ0635,Radenice
+CZ0635,Radešín
+CZ0635,Radešínská Svratka
+CZ0635,Radňoves
+CZ0635,Radňovice
+CZ0635,Radostín
+CZ0635,Radostín nad Oslavou
+CZ0635,Rousměrov
+CZ0635,Rovečné
+CZ0635,Rozseč
+CZ0635,Rozsochy
+CZ0635,Rožná
+CZ0635,Ruda
+CZ0635,Rudolec
+CZ0635,Řečice
+CZ0635,Sázava
+CZ0635,Sejřek
+CZ0635,Sirákov
+CZ0635,Sklené
+CZ0635,Sklené nad Oslavou
+CZ0635,Skorotice
+CZ0635,Skřinářov
+CZ0635,Sněžné
+CZ0635,Spělkov
+CZ0635,Strachujov
+CZ0635,Stránecká Zhoř
+CZ0635,Strážek
+CZ0635,Sulkovec
+CZ0635,Světnov
+CZ0635,Sviny
+CZ0635,Svratka
+CZ0635,Škrdlovice
+CZ0635,Štěpánov nad Svratkou
+CZ0635,Uhřínov
+CZ0635,Ujčov
+CZ0635,Újezd
+CZ0635,Unčín
+CZ0635,Vatín
+CZ0635,Věcov
+CZ0635,Věchnov
+CZ0635,Velká Bíteš
+CZ0635,Velká Losenice
+CZ0635,Velké Janovice
+CZ0635,Velké Meziříčí
+CZ0635,Vepřová
+CZ0635,Věstín
+CZ0635,Věžná
+CZ0635,Vídeň
+CZ0635,Vidonín
+CZ0635,Vír
+CZ0635,Vlkov
+CZ0635,Vojnův Městec
+CZ0635,Záblatí
+CZ0635,Zadní Zhořec
+CZ0635,Znětínek
+CZ0635,Zubří
+CZ0635,Zvole
+CZ0635,Ždánice
+CZ0641,Horní Smržov
+CZ0641,Roubanina
+CZ0641,Velenov
+CZ0641,Ludíkov
+CZ0641,Újezd u Boskovic
+CZ0641,Louka
+CZ0641,Ústup
+CZ0641,Crhov
+CZ0641,Spešov
+CZ0641,Blansko
+CZ0641,Adamov
+CZ0641,Bedřichov
+CZ0641,Benešov
+CZ0641,Borotín
+CZ0641,Bořitov
+CZ0641,Boskovice
+CZ0641,Brťov-Jeneč
+CZ0641,Bukovina
+CZ0641,Bukovinka
+CZ0641,Býkovice
+CZ0641,Cetkovice
+CZ0641,Černá Hora
+CZ0641,Černovice
+CZ0641,Deštná
+CZ0641,Dlouhá Lhota
+CZ0641,Chrudichromy
+CZ0641,Doubravice nad Svitavou
+CZ0641,Drnovice
+CZ0641,Habrůvka
+CZ0641,Hodonín
+CZ0641,Holštejn
+CZ0641,Horní Poříčí
+CZ0641,Jabloňany
+CZ0641,Jedovnice
+CZ0641,Kněževes
+CZ0641,Knínice
+CZ0641,Kořenec
+CZ0641,Kotvrdovice
+CZ0641,Kozárov
+CZ0641,Krasová
+CZ0641,Krhov
+CZ0641,Křetín
+CZ0641,Křtěnov
+CZ0641,Křtiny
+CZ0641,Kulířov
+CZ0641,Kunčina Ves
+CZ0641,Kunice
+CZ0641,Kuničky
+CZ0641,Kunštát
+CZ0641,Lazinov
+CZ0641,Lažany
+CZ0641,Letovice
+CZ0641,Lhota Rapotina
+CZ0641,Lhota u Lysic
+CZ0641,Lhota u Olešnice
+CZ0641,Lipovec
+CZ0641,Lipůvka
+CZ0641,Lubě
+CZ0641,Lysice
+CZ0641,Makov
+CZ0641,Malá Lhota
+CZ0641,Malá Roudka
+CZ0641,Míchov
+CZ0641,Milonice
+CZ0641,Němčice
+CZ0641,Nýrov
+CZ0641,Obora
+CZ0641,Okrouhlá
+CZ0641,Olešnice
+CZ0641,Olomučany
+CZ0641,Ostrov u Macochy
+CZ0641,Pamětice
+CZ0641,Petrov
+CZ0641,Petrovice
+CZ0641,Prostřední Poříčí
+CZ0641,Rájec-Jestřebí
+CZ0641,Ráječko
+CZ0641,Rozseč nad Kunštátem
+CZ0641,Rozsíčka
+CZ0641,Rudice
+CZ0641,Sebranice
+CZ0641,Senetářov
+CZ0641,Skalice nad Svitavou
+CZ0641,Skrchov
+CZ0641,Sloup
+CZ0641,Sudice
+CZ0641,Suchý
+CZ0641,Sulíkov
+CZ0641,Svinošice
+CZ0641,Svitávka
+CZ0641,Šebetov
+CZ0641,Šebrov-Kateřina
+CZ0641,Šošůvka
+CZ0641,Štěchov
+CZ0641,Tasovice
+CZ0641,Uhřice
+CZ0641,Újezd u Černé Hory
+CZ0641,Úsobrno
+CZ0641,Valchov
+CZ0641,Vanovice
+CZ0641,Vavřinec
+CZ0641,Vážany
+CZ0641,Stvolová
+CZ0641,Velké Opatovice
+CZ0641,Vilémovice
+CZ0641,Vísky
+CZ0641,Voděrady
+CZ0641,Vranová
+CZ0641,Vysočany
+CZ0641,Zbraslavec
+CZ0641,Žďár
+CZ0641,Žďárná
+CZ0641,Žernovník
+CZ0641,Žerůtky
+CZ0641,Závist
+CZ0641,Světlá
+CZ0642,Brno-střed
+CZ0642,Brno-Žabovřesky
+CZ0642,Brno-Královo Pole
+CZ0642,Brno-sever
+CZ0642,Brno-Židenice
+CZ0642,Brno-Černovice
+CZ0642,Brno-jih
+CZ0642,Brno-Bohunice
+CZ0642,Brno-Starý Lískovec
+CZ0642,Brno-Nový Lískovec
+CZ0642,Brno-Kohoutovice
+CZ0642,Brno-Jundrov
+CZ0642,Brno-Bystrc
+CZ0642,Brno-Kníničky
+CZ0642,Brno-Komín
+CZ0642,Brno-Medlánky
+CZ0642,Brno-Řečkovice a Mokrá Hora
+CZ0642,Brno-Maloměřice a Obřany
+CZ0642,Brno-Vinohrady
+CZ0642,Brno-Líšeň
+CZ0642,Brno-Slatina
+CZ0642,Brno-Tuřany
+CZ0642,Brno-Chrlice
+CZ0642,Brno-Bosonohy
+CZ0642,Brno-Žebětín
+CZ0642,Brno-Ivanovice
+CZ0642,Brno-Jehnice
+CZ0642,Brno-Ořešín
+CZ0642,Brno-Útěchov
+CZ0642,Brno
+CZ0643,Otmarov
+CZ0643,Skalička
+CZ0643,Ponětovice
+CZ0643,Předklášteří
+CZ0643,Říčky
+CZ0643,Skryje
+CZ0643,Újezd u Tišnova
+CZ0643,Cvrčovice
+CZ0643,Běleč
+CZ0643,Brumov
+CZ0643,Březina
+CZ0643,Bukovice
+CZ0643,Hluboké Dvory
+CZ0643,Lomnice
+CZ0643,Ochoz u Tišnova
+CZ0643,Osiky
+CZ0643,Rašov
+CZ0643,Rohozec
+CZ0643,Strhaře
+CZ0643,Synalov
+CZ0643,Unín
+CZ0643,Zhoř
+CZ0643,Babice nad Svitavou
+CZ0643,Babice u Rosic
+CZ0643,Bílovice nad Svitavou
+CZ0643,Biskoupky
+CZ0643,Blažovice
+CZ0643,Blučina
+CZ0643,Braníškov
+CZ0643,Bratčice
+CZ0643,Březina
+CZ0643,Čebín
+CZ0643,Česká
+CZ0643,Čučice
+CZ0643,Deblín
+CZ0643,Dolní Kounice
+CZ0643,Domašov
+CZ0643,Drásov
+CZ0643,Hajany
+CZ0643,Heroltice
+CZ0643,Hlína
+CZ0643,Holasice
+CZ0643,Hostěnice
+CZ0643,Hradčany
+CZ0643,Hrušovany u Brna
+CZ0643,Hvozdec
+CZ0643,Chudčice
+CZ0643,Ivančice
+CZ0643,Javůrek
+CZ0643,Jinačovice
+CZ0643,Jiříkovice
+CZ0643,Kanice
+CZ0643,Ketkovice
+CZ0643,Kobylnice
+CZ0643,Kovalovice
+CZ0643,Kratochvilka
+CZ0643,Kupařovice
+CZ0643,Kuřim
+CZ0643,Lažánky
+CZ0643,Ledce
+CZ0643,Lelekovice
+CZ0643,Lesní Hluboké
+CZ0643,Litostrov
+CZ0643,Lomnička
+CZ0643,Lukovany
+CZ0643,Malešovice
+CZ0643,Malhostovice
+CZ0643,Maršov
+CZ0643,Medlov
+CZ0643,Mělčany
+CZ0643,Měnín
+CZ0643,Modřice
+CZ0643,Mokrá-Horákov
+CZ0643,Moravany
+CZ0643,Moravské Bránice
+CZ0643,Moravské Knínice
+CZ0643,Moutnice
+CZ0643,Nebovidy
+CZ0643,Nelepeč-Žernůvka
+CZ0643,Němčičky
+CZ0643,Neslovice
+CZ0643,Nesvačilka
+CZ0643,Nová Ves
+CZ0643,Nové Bránice
+CZ0643,Odrovice
+CZ0643,Ochoz u Brna
+CZ0643,Omice
+CZ0643,Opatovice
+CZ0643,Ořechov
+CZ0643,Oslavany
+CZ0643,Ostopovice
+CZ0643,Ostrovačice
+CZ0643,Podolí
+CZ0643,Popovice
+CZ0643,Popůvky
+CZ0643,Pozořice
+CZ0643,Prace
+CZ0643,Pravlov
+CZ0643,Prštice
+CZ0643,Příbram na Moravě
+CZ0643,Přibyslavice
+CZ0643,Přísnotice
+CZ0643,Radostice
+CZ0643,Rajhrad
+CZ0643,Rajhradice
+CZ0643,Rebešovice
+CZ0643,Rosice
+CZ0643,Rozdrojovice
+CZ0643,Rudka
+CZ0643,Řícmanice
+CZ0643,Říčany
+CZ0643,Sentice
+CZ0643,Silůvky
+CZ0643,Sivice
+CZ0643,Sobotovice
+CZ0643,Sokolnice
+CZ0643,Stanoviště
+CZ0643,Střelice
+CZ0643,Svatoslav
+CZ0643,Syrovice
+CZ0643,Šerkovice
+CZ0643,Šlapanice
+CZ0643,Štěpánovice
+CZ0643,Telnice
+CZ0643,Tetčice
+CZ0643,Těšany
+CZ0643,Tišnov
+CZ0643,Trboušany
+CZ0643,Troubsko
+CZ0643,Tvarožná
+CZ0643,Újezd u Brna
+CZ0643,Újezd u Rosic
+CZ0643,Unkovice
+CZ0643,Úsuší
+CZ0643,Velatice
+CZ0643,Veverská Bítýška
+CZ0643,Veverské Knínice
+CZ0643,Viničné Šumice
+CZ0643,Vohančice
+CZ0643,Vojkovice
+CZ0643,Vranov
+CZ0643,Všechovice
+CZ0643,Vysoké Popovice
+CZ0643,Zakřany
+CZ0643,Zálesná Zhoř
+CZ0643,Zastávka
+CZ0643,Zbraslav
+CZ0643,Zbýšov
+CZ0643,Žabčice
+CZ0643,Žatčany
+CZ0643,Želešice
+CZ0643,Železné
+CZ0643,Židlochovice
+CZ0643,Ivaň
+CZ0643,Nosislav
+CZ0643,Pasohlávky
+CZ0643,Pohořelice
+CZ0643,Přibice
+CZ0643,Vlasatice
+CZ0643,Vranovice
+CZ0643,Katov
+CZ0643,Senorady
+CZ0643,Branišovice
+CZ0643,Loděnice
+CZ0643,Šumice
+CZ0643,Troskotovice
+CZ0643,Borač
+CZ0643,Borovník
+CZ0643,Černvír
+CZ0643,Dolní Loučky
+CZ0643,Doubravník
+CZ0643,Drahonín
+CZ0643,Horní Loučky
+CZ0643,Kaly
+CZ0643,Křižínkov
+CZ0643,Kuřimská Nová Ves
+CZ0643,Kuřimské Jestřabí
+CZ0643,Lubné
+CZ0643,Nedvědice
+CZ0643,Níhov
+CZ0643,Olší
+CZ0643,Pernštejnské Jestřabí
+CZ0643,Rojetín
+CZ0643,Řikonín
+CZ0643,Tišnovská Nová Ves
+CZ0643,Vratislávka
+CZ0643,Žďárec
+CZ0644,Kašnice
+CZ0644,Kurdějov
+CZ0644,Ladná
+CZ0644,Břeclav
+CZ0644,Bavory
+CZ0644,Boleradice
+CZ0644,Borkovany
+CZ0644,Bořetice
+CZ0644,Brod nad Dyjí
+CZ0644,Brumovice
+CZ0644,Březí
+CZ0644,Bulhary
+CZ0644,Diváky
+CZ0644,Dobré Pole
+CZ0644,Dolní Dunajovice
+CZ0644,Dolní Věstonice
+CZ0644,Drnholec
+CZ0644,Hlohovec
+CZ0644,Horní Bojanovice
+CZ0644,Horní Věstonice
+CZ0644,Hrušky
+CZ0644,Hustopeče
+CZ0644,Jevišovka
+CZ0644,Klentnice
+CZ0644,Klobouky u Brna
+CZ0644,Kobylí
+CZ0644,Kostice
+CZ0644,Krumvíř
+CZ0644,Křepice
+CZ0644,Lanžhot
+CZ0644,Lednice
+CZ0644,Mikulov
+CZ0644,Milovice
+CZ0644,Moravská Nová Ves
+CZ0644,Moravský Žižkov
+CZ0644,Morkůvky
+CZ0644,Němčičky
+CZ0644,Nikolčice
+CZ0644,Novosedly
+CZ0644,Nový Přerov
+CZ0644,Pavlov
+CZ0644,Perná
+CZ0644,Podivín
+CZ0644,Popice
+CZ0644,Pouzdřany
+CZ0644,Přítluky
+CZ0644,Rakvice
+CZ0644,Sedlec
+CZ0644,Starovice
+CZ0644,Starovičky
+CZ0644,Strachotín
+CZ0644,Šakvice
+CZ0644,Šitbořice
+CZ0644,Tvrdonice
+CZ0644,Týnec
+CZ0644,Uherčice
+CZ0644,Valtice
+CZ0644,Velké Bílovice
+CZ0644,Velké Hostěrádky
+CZ0644,Velké Němčice
+CZ0644,Velké Pavlovice
+CZ0644,Vrbice
+CZ0644,Zaječí
+CZ0645,Hodonín
+CZ0645,Archlebov
+CZ0645,Blatnice pod Svatým Antonínkem
+CZ0645,Blatnička
+CZ0645,Bukovany
+CZ0645,Bzenec
+CZ0645,Čejč
+CZ0645,Čejkovice
+CZ0645,Čeložnice
+CZ0645,Dambořice
+CZ0645,Dolní Bojanovice
+CZ0645,Domanín
+CZ0645,Dražůvky
+CZ0645,Dubňany
+CZ0645,Hovorany
+CZ0645,Hroznová Lhota
+CZ0645,Hrubá Vrbka
+CZ0645,Hýsly
+CZ0645,Javorník
+CZ0645,Ježov
+CZ0645,Josefov
+CZ0645,Karlín
+CZ0645,Kelčany
+CZ0645,Kněždub
+CZ0645,Kostelec
+CZ0645,Kozojídky
+CZ0645,Kuželov
+CZ0645,Kyjov
+CZ0645,Labuty
+CZ0645,Lipov
+CZ0645,Louka
+CZ0645,Lovčice
+CZ0645,Lužice
+CZ0645,Malá Vrbka
+CZ0645,Mikulčice
+CZ0645,Milotice
+CZ0645,Moravany
+CZ0645,Moravský Písek
+CZ0645,Mutěnice
+CZ0645,Násedlovice
+CZ0645,Nechvalín
+CZ0645,Nenkovice
+CZ0645,Nová Lhota
+CZ0645,Nový Poddvorov
+CZ0645,Ostrovánky
+CZ0645,Petrov
+CZ0645,Prušánky
+CZ0645,Radějov
+CZ0645,Ratíškovice
+CZ0645,Rohatec
+CZ0645,Skalka
+CZ0645,Skoronice
+CZ0645,Sobůlky
+CZ0645,Starý Poddvorov
+CZ0645,Stavěšice
+CZ0645,Strážnice
+CZ0645,Strážovice
+CZ0645,Sudoměřice
+CZ0645,Suchov
+CZ0645,Svatobořice-Mistřín
+CZ0645,Syrovín
+CZ0645,Šardice
+CZ0645,Tasov
+CZ0645,Těmice
+CZ0645,Terezín
+CZ0645,Tvarožná Lhota
+CZ0645,Uhřice
+CZ0645,Vacenovice
+CZ0645,Velká nad Veličkou
+CZ0645,Veselí nad Moravou
+CZ0645,Věteřov
+CZ0645,Vlkoš
+CZ0645,Vnorovy
+CZ0645,Vracov
+CZ0645,Vřesovice
+CZ0645,Žádovice
+CZ0645,Žarošice
+CZ0645,Ždánice
+CZ0645,Želetice
+CZ0645,Žeravice
+CZ0645,Žeraviny
+CZ0645,Mouchnice
+CZ0646,Kozlany
+CZ0646,Olšany
+CZ0646,Medlovice
+CZ0646,Podomí
+CZ0646,Uhřice
+CZ0646,Heršpice
+CZ0646,Podbřežice
+CZ0646,Holubice
+CZ0646,Rybníček
+CZ0646,Rostěnice-Zvonovice
+CZ0646,Mouřínov
+CZ0646,Vyškov
+CZ0646,Bohaté Málkovice
+CZ0646,Bohdalice-Pavlovice
+CZ0646,Bošovice
+CZ0646,Brankovice
+CZ0646,Bučovice
+CZ0646,Dětkovice
+CZ0646,Dobročkovice
+CZ0646,Dražovice
+CZ0646,Drnovice
+CZ0646,Drysice
+CZ0646,Habrovany
+CZ0646,Hlubočany
+CZ0646,Hodějice
+CZ0646,Hostěrádky-Rešov
+CZ0646,Hoštice-Heroltice
+CZ0646,Hrušky
+CZ0646,Hvězdlice
+CZ0646,Chvalkovice
+CZ0646,Ivanovice na Hané
+CZ0646,Ježkovice
+CZ0646,Kobeřice u Brna
+CZ0646,Kojátky
+CZ0646,Komořany
+CZ0646,Kožušice
+CZ0646,Krásensko
+CZ0646,Křenovice
+CZ0646,Křižanovice
+CZ0646,Křižanovice u Vyškova
+CZ0646,Kučerov
+CZ0646,Letonice
+CZ0646,Lovčičky
+CZ0646,Luleč
+CZ0646,Lysovice
+CZ0646,Malínky
+CZ0646,Milešovice
+CZ0646,Milonice
+CZ0646,Moravské Málkovice
+CZ0646,Němčany
+CZ0646,Nemochovice
+CZ0646,Nemojany
+CZ0646,Nemotice
+CZ0646,Nesovice
+CZ0646,Nevojice
+CZ0646,Nížkovice
+CZ0646,Nové Sady
+CZ0646,Orlovice
+CZ0646,Otnice
+CZ0646,Podivice
+CZ0646,Prusy-Boškůvky
+CZ0646,Pustiměř
+CZ0646,Račice-Pístovice
+CZ0646,Radslavice
+CZ0646,Rašovice
+CZ0646,Rousínov
+CZ0646,Ruprechtov
+CZ0646,Slavkov u Brna
+CZ0646,Snovídky
+CZ0646,Studnice
+CZ0646,Šaratice
+CZ0646,Švábenice
+CZ0646,Topolany
+CZ0646,Tučapy
+CZ0646,Vážany
+CZ0646,Vážany nad Litavou
+CZ0646,Velešovice
+CZ0646,Zbýšov
+CZ0646,Zelená Hora
+CZ0647,Velký Karlov
+CZ0647,Dobšice
+CZ0647,Vracovice
+CZ0647,Plenkovice
+CZ0647,Přeskače
+CZ0647,Křídlůvky
+CZ0647,Jiřice u Moravských Budějovic
+CZ0647,Suchohrdly
+CZ0647,Nový Šaldorf-Sedlešovice
+CZ0647,Znojmo
+CZ0647,Bantice
+CZ0647,Běhařovice
+CZ0647,Bezkov
+CZ0647,Bítov
+CZ0647,Blanné
+CZ0647,Blížkovice
+CZ0647,Bohutice
+CZ0647,Bojanovice
+CZ0647,Borotice
+CZ0647,Boskovštejn
+CZ0647,Božice
+CZ0647,Břežany
+CZ0647,Citonice
+CZ0647,Ctidružice
+CZ0647,Čejkovice
+CZ0647,Čermákovice
+CZ0647,Černín
+CZ0647,Damnice
+CZ0647,Dobelice
+CZ0647,Dobřínsko
+CZ0647,Dolenice
+CZ0647,Dolní Dubňany
+CZ0647,Dyjákovice
+CZ0647,Dyjákovičky
+CZ0647,Dyje
+CZ0647,Džbánice
+CZ0647,Grešlové Mýto
+CZ0647,Havraníky
+CZ0647,Hevlín
+CZ0647,Hluboké Mašůvky
+CZ0647,Hnanice
+CZ0647,Hodonice
+CZ0647,Horní Břečkov
+CZ0647,Horní Dubňany
+CZ0647,Horní Dunajovice
+CZ0647,Horní Kounice
+CZ0647,Hostěradice
+CZ0647,Hostim
+CZ0647,Hrabětice
+CZ0647,Hrádek
+CZ0647,Hrušovany nad Jevišovkou
+CZ0647,Chvalatice
+CZ0647,Chvalovice
+CZ0647,Jamolice
+CZ0647,Jaroslavice
+CZ0647,Jevišovice
+CZ0647,Jezeřany-Maršovice
+CZ0647,Jiřice u Miroslavi
+CZ0647,Kadov
+CZ0647,Korolupy
+CZ0647,Kravsko
+CZ0647,Krhovice
+CZ0647,Křepice
+CZ0647,Kubšice
+CZ0647,Kuchařovice
+CZ0647,Kyjovice
+CZ0647,Lančov
+CZ0647,Lechovice
+CZ0647,Lesná
+CZ0647,Lesonice
+CZ0647,Litobratřice
+CZ0647,Lubnice
+CZ0647,Lukov
+CZ0647,Mackovice
+CZ0647,Mašovice
+CZ0647,Medlice
+CZ0647,Mikulovice
+CZ0647,Milíčovice
+CZ0647,Miroslav
+CZ0647,Miroslavské Knínice
+CZ0647,Morašice
+CZ0647,Moravský Krumlov
+CZ0647,Našiměřice
+CZ0647,Němčičky
+CZ0647,Olbramkostel
+CZ0647,Olbramovice
+CZ0647,Oleksovice
+CZ0647,Onšov
+CZ0647,Oslnovice
+CZ0647,Pavlice
+CZ0647,Petrovice
+CZ0647,Plaveč
+CZ0647,Podhradí nad Dyjí
+CZ0647,Podmolí
+CZ0647,Podmyče
+CZ0647,Práče
+CZ0647,Pravice
+CZ0647,Prokopov
+CZ0647,Prosiměřice
+CZ0647,Rešice
+CZ0647,Rozkoš
+CZ0647,Rudlice
+CZ0647,Rybníky
+CZ0647,Skalice
+CZ0647,Slatina
+CZ0647,Slup
+CZ0647,Stálky
+CZ0647,Starý Petřín
+CZ0647,Stošíkovice na Louce
+CZ0647,Strachotice
+CZ0647,Střelice
+CZ0647,Suchohrdly u Miroslavi
+CZ0647,Šafov
+CZ0647,Šanov
+CZ0647,Šatov
+CZ0647,Štítary
+CZ0647,Šumná
+CZ0647,Tasovice
+CZ0647,Tavíkovice
+CZ0647,Těšetice
+CZ0647,Trnové Pole
+CZ0647,Trstěnice
+CZ0647,Tulešice
+CZ0647,Tvořihráz
+CZ0647,Uherčice
+CZ0647,Újezd
+CZ0647,Únanov
+CZ0647,Valtrovice
+CZ0647,Vedrovice
+CZ0647,Vémyslice
+CZ0647,Vevčice
+CZ0647,Višňové
+CZ0647,Vítonice
+CZ0647,Vranov nad Dyjí
+CZ0647,Vranovská Ves
+CZ0647,Vratěnín
+CZ0647,Vrbovec
+CZ0647,Výrovice
+CZ0647,Vysočany
+CZ0647,Zálesí
+CZ0647,Zblovice
+CZ0647,Želetice
+CZ0647,Žerotice
+CZ0647,Žerůtky
+CZ0711,Bělá pod Pradědem
+CZ0711,Bernartice
+CZ0711,Bílá Voda
+CZ0711,Černá Voda
+CZ0711,Javorník
+CZ0711,Jeseník
+CZ0711,Lipová-lázně
+CZ0711,Mikulovice
+CZ0711,Písečná
+CZ0711,Stará Červená Voda
+CZ0711,Supíkovice
+CZ0711,Uhelná
+CZ0711,Vápenná
+CZ0711,Vidnava
+CZ0711,Vlčice
+CZ0711,Žulová
+CZ0711,Hradec-Nová Ves
+CZ0711,Velká Kraš
+CZ0711,Skorošice
+CZ0711,Kobylá nad Vidnavkou
+CZ0711,Ostružná
+CZ0711,Česká Ves
+CZ0711,Velké Kunětice
+CZ0711,Zlaté Hory
+CZ0712,Kozlov
+CZ0712,Město Libavá
+CZ0712,Olomouc
+CZ0712,Bělkovice-Lašťany
+CZ0712,Bílá Lhota
+CZ0712,Blatec
+CZ0712,Bohuňovice
+CZ0712,Bouzov
+CZ0712,Bystročice
+CZ0712,Dlouhá Loučka
+CZ0712,Dolany
+CZ0712,Drahanovice
+CZ0712,Dub nad Moravou
+CZ0712,Grygov
+CZ0712,Hlubočky
+CZ0712,Hněvotín
+CZ0712,Hnojice
+CZ0712,Horka nad Moravou
+CZ0712,Cholina
+CZ0712,Jívová
+CZ0712,Kožušany-Tážaly
+CZ0712,Litovel
+CZ0712,Luká
+CZ0712,Lutín
+CZ0712,Majetín
+CZ0712,Mladeč
+CZ0712,Náklo
+CZ0712,Náměšť na Hané
+CZ0712,Paseka
+CZ0712,Příkazy
+CZ0712,Senice na Hané
+CZ0712,Slatinice
+CZ0712,Štěpánov
+CZ0712,Šternberk
+CZ0712,Šumvald
+CZ0712,Těšetice
+CZ0712,Troubelice
+CZ0712,Tršice
+CZ0712,Újezd
+CZ0712,Uničov
+CZ0712,Velká Bystřice
+CZ0712,Velký Týnec
+CZ0712,Velký Újezd
+CZ0712,Žerotín
+CZ0712,Lipinka
+CZ0712,Domašov nad Bystřicí
+CZ0712,Hraničné Petrovice
+CZ0712,Střeň
+CZ0712,Bystrovany
+CZ0712,Samotišky
+CZ0712,Mutkov
+CZ0712,Komárov
+CZ0712,Štarnov
+CZ0712,Hlušovice
+CZ0712,Loučka
+CZ0712,Bílsko
+CZ0712,Dubčany
+CZ0712,Tovéř
+CZ0712,Věrovany
+CZ0712,Skrbeň
+CZ0712,Pňovice
+CZ0712,Haňovice
+CZ0712,Červenka
+CZ0712,Slavětín
+CZ0712,Luběnice
+CZ0712,Loučany
+CZ0712,Olbramice
+CZ0712,Senička
+CZ0712,Lipina
+CZ0712,Domašov u Šternberka
+CZ0712,Hlásnice
+CZ0712,Mladějovice
+CZ0712,Babice
+CZ0712,Ústín
+CZ0712,Medlov
+CZ0712,Nová Hradečná
+CZ0712,Želechovice
+CZ0712,Bukovany
+CZ0712,Přáslavice
+CZ0712,Svésedlice
+CZ0712,Krčmaň
+CZ0712,Daskabát
+CZ0712,Řídeč
+CZ0712,Křelov-Břuchotín
+CZ0712,Mrsklesy
+CZ0712,Doloplazy
+CZ0712,Charváty
+CZ0712,Měrotín
+CZ0712,Vilémov
+CZ0712,Liboš
+CZ0712,Strukov
+CZ0712,Suchonice
+CZ0712,Horní Loděnice
+CZ0712,Lužice
+CZ0712,Huzová
+CZ0712,Moravský Beroun
+CZ0712,Norberčany
+CZ0713,Alojzov
+CZ0713,Seloutky
+CZ0713,Hruška
+CZ0713,Vincencov
+CZ0713,Hačky
+CZ0713,Polomí
+CZ0713,Pavlovice u Kojetína
+CZ0713,Držovice
+CZ0713,Prostějov
+CZ0713,Bedihošť
+CZ0713,Bílovice-Lutotín
+CZ0713,Biskupice
+CZ0713,Bohuslavice
+CZ0713,Bousín
+CZ0713,Brodek u Konice
+CZ0713,Brodek u Prostějova
+CZ0713,Březsko
+CZ0713,Budětsko
+CZ0713,Buková
+CZ0713,Čehovice
+CZ0713,Čechy pod Kosířem
+CZ0713,Čelčice
+CZ0713,Čelechovice na Hané
+CZ0713,Dětkovice
+CZ0713,Dobrochov
+CZ0713,Dobromilice
+CZ0713,Doloplazy
+CZ0713,Drahany
+CZ0713,Dřevnovice
+CZ0713,Dzbel
+CZ0713,Hluchov
+CZ0713,Horní Štěpánov
+CZ0713,Hradčany-Kobeřice
+CZ0713,Hrdibořice
+CZ0713,Hrubčice
+CZ0713,Hvozd
+CZ0713,Ivaň
+CZ0713,Jesenec
+CZ0713,Kladky
+CZ0713,Klenovice na Hané
+CZ0713,Klopotovice
+CZ0713,Konice
+CZ0713,Kostelec na Hané
+CZ0713,Koválovice-Osíčany
+CZ0713,Kralice na Hané
+CZ0713,Krumsín
+CZ0713,Laškov
+CZ0713,Lešany
+CZ0713,Lipová
+CZ0713,Ludmírov
+CZ0713,Malé Hradisko
+CZ0713,Mořice
+CZ0713,Mostkovice
+CZ0713,Myslejovice
+CZ0713,Němčice nad Hanou
+CZ0713,Nezamyslice
+CZ0713,Niva
+CZ0713,Obědkovice
+CZ0713,Ohrozim
+CZ0713,Ochoz
+CZ0713,Olšany u Prostějova
+CZ0713,Ondratice
+CZ0713,Otaslavice
+CZ0713,Otinoves
+CZ0713,Pěnčín
+CZ0713,Pivín
+CZ0713,Plumlov
+CZ0713,Prostějovičky
+CZ0713,Protivanov
+CZ0713,Přemyslovice
+CZ0713,Ptení
+CZ0713,Raková u Konice
+CZ0713,Rakůvka
+CZ0713,Rozstání
+CZ0713,Skalka
+CZ0713,Skřípov
+CZ0713,Slatinky
+CZ0713,Smržice
+CZ0713,Srbce
+CZ0713,Stařechovice
+CZ0713,Stínava
+CZ0713,Stražisko
+CZ0713,Suchdol
+CZ0713,Šubířov
+CZ0713,Tištín
+CZ0713,Tvorovice
+CZ0713,Určice
+CZ0713,Víceměřice
+CZ0713,Vícov
+CZ0713,Vitčice
+CZ0713,Vranovice-Kelčice
+CZ0713,Vrbátky
+CZ0713,Vrchoslavice
+CZ0713,Vřesovice
+CZ0713,Výšovice
+CZ0713,Zdětín
+CZ0713,Želeč
+CZ0714,Luboměř pod Strážnou
+CZ0714,Přerov
+CZ0714,Bělotín
+CZ0714,Beňov
+CZ0714,Bezuchov
+CZ0714,Bochoř
+CZ0714,Brodek u Přerova
+CZ0714,Buk
+CZ0714,Býškovice
+CZ0714,Citov
+CZ0714,Čelechovice
+CZ0714,Černotín
+CZ0714,Dobrčice
+CZ0714,Dolní Újezd
+CZ0714,Domaželice
+CZ0714,Dřevohostice
+CZ0714,Horní Moštěnice
+CZ0714,Hrabůvka
+CZ0714,Hradčany
+CZ0714,Hranice
+CZ0714,Hustopeče nad Bečvou
+CZ0714,Jindřichov
+CZ0714,Klokočí
+CZ0714,Kojetín
+CZ0714,Kokory
+CZ0714,Lazníčky
+CZ0714,Lazníky
+CZ0714,Lhota
+CZ0714,Lhotka
+CZ0714,Lipník nad Bečvou
+CZ0714,Lipová
+CZ0714,Líšná
+CZ0714,Lobodice
+CZ0714,Malhotice
+CZ0714,Milenov
+CZ0714,Milotice nad Bečvou
+CZ0714,Nelešovice
+CZ0714,Oldřichov
+CZ0714,Opatovice
+CZ0714,Oprostovice
+CZ0714,Osek nad Bečvou
+CZ0714,Paršovice
+CZ0714,Partutovice
+CZ0714,Pavlovice u Přerova
+CZ0714,Podolí
+CZ0714,Polkovice
+CZ0714,Polom
+CZ0714,Potštát
+CZ0714,Prosenice
+CZ0714,Provodovice
+CZ0714,Přestavlky
+CZ0714,Radíkov
+CZ0714,Radkova Lhota
+CZ0714,Radkovy
+CZ0714,Radotín
+CZ0714,Radslavice
+CZ0714,Radvanice
+CZ0714,Rakov
+CZ0714,Rokytnice
+CZ0714,Rouské
+CZ0714,Říkovice
+CZ0714,Skalička
+CZ0714,Sobíšky
+CZ0714,Soběchleby
+CZ0714,Stará Ves
+CZ0714,Střítež nad Ludinou
+CZ0714,Sušice
+CZ0714,Teplice nad Bečvou
+CZ0714,Tovačov
+CZ0714,Troubky
+CZ0714,Tučín
+CZ0714,Ústí
+CZ0714,Veselíčko
+CZ0714,Všechovice
+CZ0714,Zámrsky
+CZ0714,Žákovice
+CZ0714,Želatovice
+CZ0714,Vlkoš
+CZ0714,Výkleky
+CZ0714,Zábeštní Lhota
+CZ0714,Věžky
+CZ0714,Čechy
+CZ0714,Křtomil
+CZ0714,Nahošovice
+CZ0714,Turovice
+CZ0714,Olšovec
+CZ0714,Uhřičice
+CZ0714,Stříbrnice
+CZ0714,Měrovice nad Hanou
+CZ0714,Šišma
+CZ0714,Horní Těšice
+CZ0714,Dolní Těšice
+CZ0714,Oplocany
+CZ0714,Jezernice
+CZ0714,Císařov
+CZ0714,Křenovice
+CZ0714,Bohuslávky
+CZ0714,Grymov
+CZ0714,Dolní Nětčice
+CZ0714,Hlinsko
+CZ0714,Horní Nětčice
+CZ0714,Kladníky
+CZ0714,Horní Újezd
+CZ0714,Špičky
+CZ0714,Týn nad Bečvou
+CZ0715,Petrov nad Desnou
+CZ0715,Šumperk
+CZ0715,Bludov
+CZ0715,Bohdíkov
+CZ0715,Bohuslavice
+CZ0715,Bohutín
+CZ0715,Branná
+CZ0715,Brníčko
+CZ0715,Bušín
+CZ0715,Dlouhomilov
+CZ0715,Dubicko
+CZ0715,Hanušovice
+CZ0715,Horní Studénky
+CZ0715,Hoštejn
+CZ0715,Hrabišín
+CZ0715,Hynčina
+CZ0715,Jedlí
+CZ0715,Jestřebí
+CZ0715,Jindřichov
+CZ0715,Kamenná
+CZ0715,Klopina
+CZ0715,Kolšov
+CZ0715,Kosov
+CZ0715,Lesnice
+CZ0715,Leština
+CZ0715,Libina
+CZ0715,Líšnice
+CZ0715,Loštice
+CZ0715,Loučná nad Desnou
+CZ0715,Lukavice
+CZ0715,Malá Morava
+CZ0715,Maletín
+CZ0715,Mohelnice
+CZ0715,Moravičany
+CZ0715,Nový Malín
+CZ0715,Olšany
+CZ0715,Oskava
+CZ0715,Palonín
+CZ0715,Pavlov
+CZ0715,Písařov
+CZ0715,Police
+CZ0715,Postřelmov
+CZ0715,Rájec
+CZ0715,Rapotín
+CZ0715,Rohle
+CZ0715,Rovensko
+CZ0715,Ruda nad Moravou
+CZ0715,Sobotín
+CZ0715,Staré Město
+CZ0715,Sudkov
+CZ0715,Svébohov
+CZ0715,Štíty
+CZ0715,Úsov
+CZ0715,Velké Losiny
+CZ0715,Zábřeh
+CZ0715,Zvole
+CZ0715,Vikantice
+CZ0715,Janoušov
+CZ0715,Hrabová
+CZ0715,Kopřivná
+CZ0715,Třeština
+CZ0715,Jakubovice
+CZ0715,Postřelmůvek
+CZ0715,Dolní Studénky
+CZ0715,Hraběšice
+CZ0715,Rejchartice
+CZ0715,Nemile
+CZ0715,Vernířovice
+CZ0715,Chromeč
+CZ0715,Krchleby
+CZ0715,Mírov
+CZ0715,Bratrušov
+CZ0715,Vikýřovice
+CZ0715,Vyšehoří
+CZ0715,Šléglov
+CZ0715,Drozdov
+CZ0715,Stavenice
+CZ0715,Zborov
+CZ0721,Chvalčov
+CZ0721,Blazice
+CZ0721,Honětice
+CZ0721,Vrbka
+CZ0721,Bořenovice
+CZ0721,Přílepy
+CZ0721,Mrlínek
+CZ0721,Šelešovice
+CZ0721,Zástřizly
+CZ0721,Karolín
+CZ0721,Prasklice
+CZ0721,Kroměříž
+CZ0721,Bařice-Velké Těšany
+CZ0721,Bezměrov
+CZ0721,Brusné
+CZ0721,Břest
+CZ0721,Bystřice pod Hostýnem
+CZ0721,Cetechovice
+CZ0721,Dřínov
+CZ0721,Holešov
+CZ0721,Horní Lapač
+CZ0721,Hoštice
+CZ0721,Hulín
+CZ0721,Chomýž
+CZ0721,Chropyně
+CZ0721,Kostelany
+CZ0721,Chvalnov-Lísky
+CZ0721,Jankovice
+CZ0721,Jarohněvice
+CZ0721,Komárno
+CZ0721,Koryčany
+CZ0721,Kostelec u Holešova
+CZ0721,Kunkovice
+CZ0721,Kurovice
+CZ0721,Kvasice
+CZ0721,Kyselovice
+CZ0721,Lechotice
+CZ0721,Litenčice
+CZ0721,Loukov
+CZ0721,Lubná
+CZ0721,Ludslavice
+CZ0721,Lutopecny
+CZ0721,Martinice
+CZ0721,Míškovice
+CZ0721,Morkovice-Slížany
+CZ0721,Němčice
+CZ0721,Nítkovice
+CZ0721,Nová Dědina
+CZ0721,Osíčko
+CZ0721,Pacetluky
+CZ0721,Pačlavice
+CZ0721,Počenice-Tetětice
+CZ0721,Podhradní Lhota
+CZ0721,Pravčice
+CZ0721,Prusinovice
+CZ0721,Rajnochovice
+CZ0721,Rataje
+CZ0721,Roštění
+CZ0721,Roštín
+CZ0721,Rusava
+CZ0721,Rymice
+CZ0721,Skaštice
+CZ0721,Slavkov pod Hostýnem
+CZ0721,Soběsuky
+CZ0721,Střílky
+CZ0721,Střížovice
+CZ0721,Sulimov
+CZ0721,Troubky-Zdislavice
+CZ0721,Třebětice
+CZ0721,Uhřice
+CZ0721,Věžky
+CZ0721,Vítonice
+CZ0721,Zahnašovice
+CZ0721,Záříčí
+CZ0721,Zborovice
+CZ0721,Zdounky
+CZ0721,Zlobice
+CZ0721,Žalkovice
+CZ0721,Žeranovice
+CZ0722,Hostětín
+CZ0722,Kunovice
+CZ0722,Staré Město
+CZ0722,Uherské Hradiště
+CZ0722,Babice
+CZ0722,Bánov
+CZ0722,Bílovice
+CZ0722,Bojkovice
+CZ0722,Boršice u Blatnice
+CZ0722,Boršice
+CZ0722,Břestek
+CZ0722,Březolupy
+CZ0722,Březová
+CZ0722,Buchlovice
+CZ0722,Bystřice pod Lopeníkem
+CZ0722,Částkov
+CZ0722,Dolní Němčí
+CZ0722,Drslavice
+CZ0722,Hluk
+CZ0722,Horní Němčí
+CZ0722,Hostějov
+CZ0722,Hradčovice
+CZ0722,Huštěnovice
+CZ0722,Jalubí
+CZ0722,Jankovice
+CZ0722,Kněžpole
+CZ0722,Komňa
+CZ0722,Korytná
+CZ0722,Kostelany nad Moravou
+CZ0722,Košíky
+CZ0722,Kudlovice
+CZ0722,Lopeník
+CZ0722,Medlovice
+CZ0722,Mistřice
+CZ0722,Modrá
+CZ0722,Nedachlebice
+CZ0722,Nedakonice
+CZ0722,Nezdenice
+CZ0722,Nivnice
+CZ0722,Ořechov
+CZ0722,Ostrožská Lhota
+CZ0722,Ostrožská Nová Ves
+CZ0722,Osvětimany
+CZ0722,Pašovice
+CZ0722,Pitín
+CZ0722,Podolí
+CZ0722,Polešovice
+CZ0722,Popovice
+CZ0722,Prakšice
+CZ0722,Rudice
+CZ0722,Salaš
+CZ0722,Slavkov
+CZ0722,Staré Hutě
+CZ0722,Starý Hrozenkov
+CZ0722,Strání
+CZ0722,Stříbrnice
+CZ0722,Stupava
+CZ0722,Suchá Loz
+CZ0722,Sušice
+CZ0722,Svárov
+CZ0722,Šumice
+CZ0722,Topolná
+CZ0722,Traplice
+CZ0722,Tučapy
+CZ0722,Tupesy
+CZ0722,Uherský Brod
+CZ0722,Uherský Ostroh
+CZ0722,Újezdec
+CZ0722,Vápenice
+CZ0722,Vážany
+CZ0722,Velehrad
+CZ0722,Veletiny
+CZ0722,Vlčnov
+CZ0722,Vyškovec
+CZ0722,Záhorovice
+CZ0722,Zlámanec
+CZ0722,Zlechov
+CZ0722,Žítková
+CZ0723,Krhová
+CZ0723,Poličná
+CZ0723,Vsetín
+CZ0723,Branky
+CZ0723,Bystřička
+CZ0723,Dolní Bečva
+CZ0723,Francova Lhota
+CZ0723,Halenkov
+CZ0723,Horní Bečva
+CZ0723,Horní Lideč
+CZ0723,Hošťálková
+CZ0723,Hovězí
+CZ0723,Huslenky
+CZ0723,Hutisko-Solanec
+CZ0723,Choryně
+CZ0723,Jablůnka
+CZ0723,Jarcová
+CZ0723,Karolinka
+CZ0723,Kateřinice
+CZ0723,Kelč
+CZ0723,Kladeruby
+CZ0723,Kunovice
+CZ0723,Lačnov
+CZ0723,Leskovec
+CZ0723,Lešná
+CZ0723,Lidečko
+CZ0723,Liptál
+CZ0723,Loučka
+CZ0723,Lužná
+CZ0723,Malá Bystřice
+CZ0723,Mikulůvka
+CZ0723,Nový Hrozenkov
+CZ0723,Oznice
+CZ0723,Police
+CZ0723,Pozděchov
+CZ0723,Prlov
+CZ0723,Prostřední Bečva
+CZ0723,Pržno
+CZ0723,Ratiboř
+CZ0723,Rožnov pod Radhoštěm
+CZ0723,Růžďka
+CZ0723,Seninka
+CZ0723,Střelná
+CZ0723,Střítež nad Bečvou
+CZ0723,Študlov
+CZ0723,Valašská Bystřice
+CZ0723,Valašská Polanka
+CZ0723,Valašské Meziříčí
+CZ0723,Valašské Příkazy
+CZ0723,Velká Lhota
+CZ0723,Velké Karlovice
+CZ0723,Vidče
+CZ0723,Vigantice
+CZ0723,Zašová
+CZ0723,Zděchov
+CZ0723,Zubří
+CZ0723,Valašská Senice
+CZ0723,Lhota u Vsetína
+CZ0723,Podolí
+CZ0723,Janová
+CZ0723,Ústí
+CZ0724,Želechovice nad Dřevnicí
+CZ0724,Podhradí
+CZ0724,Tichov
+CZ0724,Březnice
+CZ0724,Pozlovice
+CZ0724,Komárov
+CZ0724,Oldřichovice
+CZ0724,Pohořelice
+CZ0724,Poteč
+CZ0724,Lhotsko
+CZ0724,Lípa
+CZ0724,Tečovice
+CZ0724,Petrůvka
+CZ0724,Rokytnice
+CZ0724,Bohuslavice nad Vláří
+CZ0724,Lukoveček
+CZ0724,Ostrata
+CZ0724,Lhota
+CZ0724,Zlín
+CZ0724,Biskupice
+CZ0724,Bohuslavice u Zlína
+CZ0724,Bratřejov
+CZ0724,Brumov-Bylnice
+CZ0724,Březová
+CZ0724,Březůvky
+CZ0724,Dešná
+CZ0724,Dobrkovice
+CZ0724,Dolní Lhota
+CZ0724,Doubravy
+CZ0724,Drnovice
+CZ0724,Držková
+CZ0724,Fryšták
+CZ0724,Halenkovice
+CZ0724,Haluzice
+CZ0724,Horní Lhota
+CZ0724,Hostišová
+CZ0724,Hrobice
+CZ0724,Hřivínův Újezd
+CZ0724,Hvozdná
+CZ0724,Jasenná
+CZ0724,Jestřabí
+CZ0724,Kaňovice
+CZ0724,Kašava
+CZ0724,Loučka
+CZ0724,Ludkovice
+CZ0724,Luhačovice
+CZ0724,Lukov
+CZ0724,Lutonina
+CZ0724,Machová
+CZ0724,Mysločovice
+CZ0724,Napajedla
+CZ0724,Návojná
+CZ0724,Nedašov
+CZ0724,Nedašova Lhota
+CZ0724,Neubuz
+CZ0724,Otrokovice
+CZ0724,Podkopná Lhota
+CZ0724,Provodov
+CZ0724,Racková
+CZ0724,Sazovice
+CZ0724,Sehradice
+CZ0724,Slavičín
+CZ0724,Slopné
+CZ0724,Slušovice
+CZ0724,Spytihněv
+CZ0724,Šanov
+CZ0724,Šarovy
+CZ0724,Štítná nad Vláří-Popov
+CZ0724,Tlumačov
+CZ0724,Trnava
+CZ0724,Ublo
+CZ0724,Újezd
+CZ0724,Valašské Klobouky
+CZ0724,Velký Ořechov
+CZ0724,Veselá
+CZ0724,Vizovice
+CZ0724,Vlachovice
+CZ0724,Vlčková
+CZ0724,Všemina
+CZ0724,Vysoké Pole
+CZ0724,Zádveřice-Raková
+CZ0724,Žlutava
+CZ0724,Lipová
+CZ0724,Rudimov
+CZ0724,Křekov
+CZ0724,Vlachova Lhota
+CZ0724,Karlovice
+CZ0724,Bělov
+CZ0724,Kelníky
+CZ0801,Nová Pláň
+CZ0801,Velká Štáhle
+CZ0801,Dlouhá Stráň
+CZ0801,Mezina
+CZ0801,Moravskoslezský Kočov
+CZ0801,Staré Město
+CZ0801,Valšov
+CZ0801,Horní Životice
+CZ0801,Staré Heřminovy
+CZ0801,Tvrdkov
+CZ0801,Petrovice
+CZ0801,Dívčí Hrad
+CZ0801,Hlinka
+CZ0801,Slezské Pavlovice
+CZ0801,Malá Štáhle
+CZ0801,Stará Ves
+CZ0801,Andělská Hora
+CZ0801,Rudná pod Pradědem
+CZ0801,Ludvíkov
+CZ0801,Čaková
+CZ0801,Milotice nad Opavou
+CZ0801,Nové Heřminovy
+CZ0801,Oborná
+CZ0801,Býkov-Láryšov
+CZ0801,Bruntál
+CZ0801,Bílčice
+CZ0801,Bohušov
+CZ0801,Brantice
+CZ0801,Břidličná
+CZ0801,Dětřichov nad Bystřicí
+CZ0801,Dolní Moravice
+CZ0801,Dvorce
+CZ0801,Heřmanovice
+CZ0801,Holčovice
+CZ0801,Horní Benešov
+CZ0801,Horní Město
+CZ0801,Hošťálkovy
+CZ0801,Janov
+CZ0801,Jindřichov
+CZ0801,Jiříkov
+CZ0801,Karlova Studánka
+CZ0801,Karlovice
+CZ0801,Krasov
+CZ0801,Krnov
+CZ0801,Křišťanovice
+CZ0801,Leskovec nad Moravicí
+CZ0801,Lichnov
+CZ0801,Liptaň
+CZ0801,Lomnice
+CZ0801,Malá Morávka
+CZ0801,Město Albrechtice
+CZ0801,Osoblaha
+CZ0801,Razová
+CZ0801,Roudno
+CZ0801,Rusín
+CZ0801,Rýmařov
+CZ0801,Ryžoviště
+CZ0801,Slezské Rudoltice
+CZ0801,Světlá Hora
+CZ0801,Svobodné Heřmanice
+CZ0801,Široká Niva
+CZ0801,Třemešná
+CZ0801,Úvalno
+CZ0801,Václavov u Bruntálu
+CZ0801,Vrbno pod Pradědem
+CZ0801,Vysoká
+CZ0801,Zátor
+CZ0802,Nýdek
+CZ0802,Pržno
+CZ0802,Komorní Lhotka
+CZ0802,Janovice
+CZ0802,Košařiska
+CZ0802,Milíkov
+CZ0802,Bocanovice
+CZ0802,Bukovec
+CZ0802,Dolní Lomná
+CZ0802,Horní Lomná
+CZ0802,Písek
+CZ0802,Hrádek
+CZ0802,Metylovice
+CZ0802,Horní Domaslavice
+CZ0802,Raškovice
+CZ0802,Krásná
+CZ0802,Vojkovice
+CZ0802,Pazderna
+CZ0802,Nošovice
+CZ0802,Nižní Lhoty
+CZ0802,Dobratice
+CZ0802,Staré Město
+CZ0802,Staříč
+CZ0802,Pstruží
+CZ0802,Malenovice
+CZ0802,Dolní Tošanovice
+CZ0802,Vělopolí
+CZ0802,Třanovice
+CZ0802,Horní Tošanovice
+CZ0802,Řeka
+CZ0802,Smilovice
+CZ0802,Střítež
+CZ0802,Vyšní Lhoty
+CZ0802,Žabeň
+CZ0802,Návsí
+CZ0802,Vendryně
+CZ0802,Ropice
+CZ0802,Písečná
+CZ0802,Žermanice
+CZ0802,Soběšovice
+CZ0802,Pražmo
+CZ0802,Řepiště
+CZ0802,Sviadnov
+CZ0802,Frýdek-Místek
+CZ0802,Baška
+CZ0802,Bílá
+CZ0802,Brušperk
+CZ0802,Bruzovice
+CZ0802,Bystřice
+CZ0802,Čeladná
+CZ0802,Dobrá
+CZ0802,Dolní Domaslavice
+CZ0802,Fryčovice
+CZ0802,Frýdlant nad Ostravicí
+CZ0802,Hnojník
+CZ0802,Hrčava
+CZ0802,Jablunkov
+CZ0802,Kaňovice
+CZ0802,Kozlovice
+CZ0802,Krmelín
+CZ0802,Kunčice pod Ondřejníkem
+CZ0802,Lhotka
+CZ0802,Lučina
+CZ0802,Morávka
+CZ0802,Mosty u Jablunkova
+CZ0802,Ostravice
+CZ0802,Palkovice
+CZ0802,Paskov
+CZ0802,Sedliště
+CZ0802,Hukvaldy
+CZ0802,Staré Hamry
+CZ0802,Třinec
+CZ0803,Horní Suchá
+CZ0803,Havířov
+CZ0803,Chotěbuz
+CZ0803,Doubrava
+CZ0803,Horní Bludovice
+CZ0803,Karviná
+CZ0803,Albrechtice
+CZ0803,Český Těšín
+CZ0803,Dětmarovice
+CZ0803,Dolní Lutyně
+CZ0803,Bohumín
+CZ0803,Orlová
+CZ0803,Petrovice u Karviné
+CZ0803,Petřvald
+CZ0803,Rychvald
+CZ0803,Stonava
+CZ0803,Těrlicko
+CZ0804,Libhošť
+CZ0804,Veřovice
+CZ0804,Bílov
+CZ0804,Životice u Nového Jičína
+CZ0804,Jakubčovice nad Odrou
+CZ0804,Šenov u Nového Jičína
+CZ0804,Vražné
+CZ0804,Bítov
+CZ0804,Kujavy
+CZ0804,Bravantice
+CZ0804,Slatina
+CZ0804,Velké Albrechtice
+CZ0804,Bordovice
+CZ0804,Závišice
+CZ0804,Bernartice nad Odrou
+CZ0804,Hostašovice
+CZ0804,Kunín
+CZ0804,Rybí
+CZ0804,Heřmanice u Oder
+CZ0804,Heřmánky
+CZ0804,Mankovice
+CZ0804,Kateřinice
+CZ0804,Mošnov
+CZ0804,Skotnice
+CZ0804,Ženklava
+CZ0804,Albrechtičky
+CZ0804,Pustějov
+CZ0804,Hladké Životice
+CZ0804,Vrchy
+CZ0804,Trnávka
+CZ0804,Nový Jičín
+CZ0804,Bartošovice
+CZ0804,Bílovec
+CZ0804,Frenštát pod Radhoštěm
+CZ0804,Fulnek
+CZ0804,Hodslavice
+CZ0804,Jeseník nad Odrou
+CZ0804,Jistebník
+CZ0804,Kopřivnice
+CZ0804,Lichnov
+CZ0804,Luboměř
+CZ0804,Mořkov
+CZ0804,Odry
+CZ0804,Petřvald
+CZ0804,Příbor
+CZ0804,Sedlnice
+CZ0804,Spálov
+CZ0804,Starý Jičín
+CZ0804,Studénka
+CZ0804,Suchdol nad Odrou
+CZ0804,Štramberk
+CZ0804,Tichá
+CZ0804,Tísek
+CZ0804,Trojanovice
+CZ0805,Opava (nečleněná část města)
+CZ0805,Malé Hoštice
+CZ0805,Komárov
+CZ0805,Suché Lazce
+CZ0805,Podvihov
+CZ0805,Zlatníky
+CZ0805,Milostovice
+CZ0805,Vlaštovičky
+CZ0805,Vávrovice
+CZ0805,Opava
+CZ0805,Bohuslavice
+CZ0805,Bolatice
+CZ0805,Brumovice
+CZ0805,Březová
+CZ0805,Budišov nad Budišovkou
+CZ0805,Dolní Benešov
+CZ0805,Háj ve Slezsku
+CZ0805,Hlučín
+CZ0805,Hněvošice
+CZ0805,Holasovice
+CZ0805,Hrabyně
+CZ0805,Hradec nad Moravicí
+CZ0805,Chuchelná
+CZ0805,Jakartovice
+CZ0805,Kobeřice
+CZ0805,Kravaře
+CZ0805,Litultovice
+CZ0805,Ludgeřovice
+CZ0805,Markvartovice
+CZ0805,Melč
+CZ0805,Mokré Lazce
+CZ0805,Oldřišov
+CZ0805,Otice
+CZ0805,Píšť
+CZ0805,Pustá Polom
+CZ0805,Raduň
+CZ0805,Skřipov
+CZ0805,Slavkov
+CZ0805,Služovice
+CZ0805,Stěbořice
+CZ0805,Sudice
+CZ0805,Šilheřovice
+CZ0805,Štěpánkovice
+CZ0805,Štítina
+CZ0805,Velké Heraltice
+CZ0805,Velké Hoštice
+CZ0805,Vítkov
+CZ0805,Vršovice
+CZ0805,Těškovice
+CZ0805,Strahovice
+CZ0805,Nové Lublice
+CZ0805,Kyjovice
+CZ0805,Chlebičov
+CZ0805,Bělá
+CZ0805,Svatoňovice
+CZ0805,Kozmice
+CZ0805,Jezdkovice
+CZ0805,Mladecko
+CZ0805,Dolní Životice
+CZ0805,Hlavnice
+CZ0805,Bratříkovice
+CZ0805,Lhotka u Litultovic
+CZ0805,Neplachovice
+CZ0805,Závada
+CZ0805,Branka u Opavy
+CZ0805,Nové Sedlice
+CZ0805,Kružberk
+CZ0805,Staré Těchanovice
+CZ0805,Hať
+CZ0805,Darkovice
+CZ0805,Děhylov
+CZ0805,Vřesina
+CZ0805,Budišovice
+CZ0805,Mikolajice
+CZ0805,Radkov
+CZ0805,Štáblovice
+CZ0805,Uhlířov
+CZ0805,Hlubočec
+CZ0805,Rohov
+CZ0805,Moravice
+CZ0805,Třebom
+CZ0805,Dobroslavice
+CZ0805,Chvalíkovice
+CZ0805,Čermná ve Slezsku
+CZ0805,Větřkovice
+CZ0805,Sosnová
+CZ0806,Vřesina
+CZ0806,Dolní Lhota
+CZ0806,Velká Polom
+CZ0806,Olbramice
+CZ0806,Moravská Ostrava a Přívoz
+CZ0806,Slezská Ostrava
+CZ0806,Ostrava-Jih
+CZ0806,Poruba
+CZ0806,Nová Bělá
+CZ0806,Vítkovice
+CZ0806,Stará Bělá
+CZ0806,Pustkovec
+CZ0806,Mariánské Hory a Hulváky
+CZ0806,Petřkovice
+CZ0806,Lhotka
+CZ0806,Hošťálkovice
+CZ0806,Nová Ves
+CZ0806,Proskovice
+CZ0806,Michálkovice
+CZ0806,Radvanice a Bartovice
+CZ0806,Krásné Pole
+CZ0806,Martinov
+CZ0806,Polanka nad Odrou
+CZ0806,Hrabová
+CZ0806,Svinov
+CZ0806,Třebovice
+CZ0806,Plesná
+CZ0806,Ostrava
+CZ0806,Zbyslavice
+CZ0806,Čavisov
+CZ0806,Horní Lhota
+CZ0806,Stará Ves nad Ondřejnicí
+CZ0806,Šenov
+CZ0806,Václavovice
+CZ0806,Vratimov
+CZ0806,Klimkovice
