@@ -104,10 +104,13 @@ def graph_results(results: List[Dict]) -> None:
 
 
 @click.command()
-@click.option('--obec', prompt=True)
-@click.option('--refresh/--no-refresh', default=False)
-@click.option('--sort-results/--no-sort-results', default=True)
+@click.option('--obec', prompt=True, help='Name of the obec you are intrested in, if ambiguous interactive choice will be shown.')
+@click.option('--refresh/--no-refresh', default=False, help='Some static data are stored in the names.csv and parties.csv files, use --refresh to recreate those files.')
+@click.option('--sort-results/--no-sort-results', default=True, help='Use --no-sort-results if you do not want the results sorted by percentage of votes recieved.')
 def volby_cli(obec: str, refresh: bool, sort_results: bool) -> None:
+	'''
+	Tool to get live colorful voting results for a specified obec. Data are downloaded from https://volby.cz each time you run this. 
+	'''
 	if refresh:
 
 		generate_csv('names.csv')
