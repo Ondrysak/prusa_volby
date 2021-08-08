@@ -3,9 +3,10 @@ from bs4 import BeautifulSoup
 import click
 import csv
 from colorama import Fore, Back, Style
+from typing import Tuple, List, Dict
 
 
-def get_nuts():
+def get_nuts() -> Tuple[str, str]:
 	# TODO: handle the unhappy path 
 	nuts_url = 'https://volby.cz/opendata/ps2017nss/PS_nuts.htm'
 	r = requests.get(nuts_url)
@@ -19,14 +20,14 @@ def get_nuts():
 			print(code, name)
 			yield code, name
 			
-def get_obce(code):
+def get_obce(code: str) -> Tuple[str, str]:
 	# TODO: handle the unhappy path 
 	r = requests.get(f"https://volby.cz/pls/ps2017nss/vysledky_okres?nuts={code}")
 	soup = BeautifulSoup(r.text, 'lxml')
 	for obec in soup.find_all('obec'):
 		yield code,obec['naz_obec']
 
-def get_party_names(filename):
+def get_party_names(filename: str) -> None:
 	# TODO: handle the unhappy path 
 	url = 'https://volby.cz/pls/ps2017nss/vysledky'
 	r = requests.get(url)
@@ -40,7 +41,7 @@ def get_party_names(filename):
 			writer.writerow({'code':strana['kstrana'], 'strana_name':strana['naz_str']})
 
 
-def generate_csv(filename):
+def generate_csv(filename: str) -> None:
 
 	with open(filename, 'w', newline='') as csvfile:
 		fieldnames = ['code', 'okres_name','obec_name']
@@ -50,13 +51,13 @@ def generate_csv(filename):
 			for code, obec_name in get_obce(nuts_code):
 				writer.writerow({'code': code, 'okres_name': name,'obec_name': obec_name})
 
-def read_csv(filename):
+def read_csv(filename: str) -> List[Dict]:
 	with open(filename, newline='') as csvfile:
 		reader = csv.DictReader(csvfile)
 		list_out = [row for row in reader]
 	return list_out
 
-def read_party_names(filename):
+def read_party_names(filename: str) -> List[Dict]:
 	with open(filename, newline='') as csvfile:
 		reader = csv.DictReader(csvfile)
 		list_out = [row for row in reader]
@@ -65,7 +66,7 @@ def read_party_names(filename):
 
 
 
-def get_okres_results(okres_code, obec_name):
+def get_okres_results(okres_code: str, obec_name: str) -> List[Tuple[str, str]]:
 	# TODO: handle the unhappy path 
 	okres_url = f'https://volby.cz/pls/ps2017nss/vysledky_okres?nuts={okres_code}'
 	r = requests.get(okres_url)
@@ -74,7 +75,7 @@ def get_okres_results(okres_code, obec_name):
 	return [ (x['kstrana'], x['proc_hlasu']) for x in obec.find_all('hlasy_strana')]
 
 
-def transform_results(results, parties, sort_results=True):
+def transform_results(results: List[Tuple[str, str]], parties: List[Dict], sort_results: bool=True) -> List[Dict]:
 	# TODO: use pandas or smth 
 	transformed = []
 	for r in results:
@@ -89,7 +90,7 @@ def transform_results(results, parties, sort_results=True):
 
 
 
-def graph_results(results):
+def graph_results(results: List[Dict]) -> None:
 	fat_tick = "▇"
 	colors = [Fore.GREEN, Fore.YELLOW, Fore.WHITE, Fore.BLUE, Fore.RED, Fore.CYAN, Fore.MAGENTA]
 	for r in results:
@@ -106,7 +107,7 @@ def graph_results(results):
 @click.option('--obec', prompt=True)
 @click.option('--refresh/--no-refresh', default=False)
 @click.option('--sort-results/--no-sort-results', default=True)
-def volby_cli(obec, refresh, sort_results):
+def volby_cli(obec: str, refresh: bool, sort_results: bool) -> None:
 	if refresh:
 
 		generate_csv('names.csv')
